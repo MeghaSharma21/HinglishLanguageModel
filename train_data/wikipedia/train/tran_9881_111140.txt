@@ -1,0 +1,6 @@
+ discreet furiar roopaantar ) ek roopaantar he jo discreet-samay sanketon ko ek duusare rup main badal detaa he. takneekee rup se ise samay-domen sanket ko aavriti-domen sanket main parivartan ke rup main samajha jaataa he. discreet furiar roopaantar, discreet-time furiar roopaantar se bhinn he. vyaavhaarik drushti se discreet furiar roopaantar kii gananaa kisi upyukt twarit furiar roopaantar kii sahaayta se kii jaati he. 
+ discreet furiar roopantar, N samishra sankhyaon kii shrenee x0, ..., xN−1 ko N duusari samishra sankhyaon X0, ..., XN−1 main badal detaa he. yah roopantar nimnlikhit sambandh ke anusaar hota he:
+ jahaan   e  2 π i N   {\displaystyle e^{\frac {2\pi i}{N}}} ikai kaa N-waan mul he.
+ kabhi-kabhi is roopaantar ko    F   {\displaystyle {\mathcal {F}}} se bhi pradarshit kiya jaataa he. jaise -   X =  F  { x }  {\displaystyle \mathbf {X} ={\mathcal {F}}\left\{\mathbf {x} \right\}} or    F    {\displaystyle {\mathcal {F}}\left} or    F  x  {\displaystyle {\mathcal {F}}\mathbf {x} } .
+ vyutkram discreet furiar roopantar  nimnlikhit tareeke se nikaala jaataa he:
+ twarit furiar roopaantar

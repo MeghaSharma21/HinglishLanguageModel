@@ -1,0 +1,51 @@
+ bhashaa takneekein aisi soochna takanic hai jo maanav bhashaa ke prasanskaran main prayukt hotin hai. maanav bhashaa vishwa main sabase jatil va sabase purana soochna kaa madhyam he.
+ maanav bhashaa kaa astitv do roopon main he - bhashik evam likhit. yadhyapi boli, bhashaa kaa sabase puraani evam sabase sahaj rup he kintu jatil suchnaayen evam maanav gyaan kaa adhikansh bhaag likhit bhashaa ke rup main hi vidyaman he tathaa iskaa sanchaar bhi likhit rup main hi adhik hota he. spich takanic evam text takneekein bhashaa ko in do roopon main prakalan karti he. kintu spich evam tect takneekein hi paryaapt nahin hai. isaliye bahut si bhashaa takneekein aisi bhi hai jo spich yaa text kii processing karne ke bajaay bhashaa ko gyaan se jodne main sahaayak hotin hai.
+ bhashaa takneekein bhavishya main bahut mahatvapurn hogin. inke viksit hone ke baad anek kaaryon ke karne ke tareeke main vismayakari parivartan aane vaala he.
+ bhaashan ko samajhnaa / bhaashan se text main parivartan 
+ bhaashan kii rachana 
+ text kaa vargeekaran 
+ text saranshak 
+ Text Indexing
+ Text Retrieval
+ soochna nikaalnaa 
+ Data Fusion and Text Data Mining
+ jigyaasa samaadhaan 
+ report srijan 
+ Spoken Dialogue Systems
+ Nondiscrete Mathematical Methods
+ Statistical techniques
+ Logical and Linguistic Formalisms
+ shabdkosh
+ morphological syntactic grammars
+ rules for semantic interpretation
+ uccharan evam intonaton 
+ Corpora and Corpus Tools
+ Voice Control Systems
+ Dictation Systems
+ Text-to-Speech Systems
+ Machine Initiative Spoken Dialogue Systems
+ Identification and Verification Systems
+ Spoken Information Access
+ Mixed Initiative Spoken Dialogue Systems
+ Speech Translation Systems
+ Spell Checkers
+ Machine-Assisted Human Translation
+ Translation Memories
+ Indicative Machine Translation
+ Grammar Checkers
+ Information Extraction
+ Human Assisted Machine Translation
+ Report Generation
+ High Quality Text Translation
+ Text Generation Systems
+ Word-Based Information Retrieval
+ Summarization by Simple Condensation
+ Simple Statistical Categorization
+ Simple Automatic Hyperlinking
+ Cross-Lingual Information Retrieval
+ Automatic Hyperlinking With Disambiguation
+ Simple Information Extraction 
+ Complex Information Extraction 
+ Dense Associative Hyperlinking
+ Concept-Based Information Retrieval
+ Text Understanding

@@ -1,0 +1,16 @@
+ ganit main kisi vaastavik maan vaale, tathaa sabhi binduon par avkalaneey falan f tathaa g main nimnlikhit sambandh ho to g ko f kaa lajaandra roopaantar kaha jaataa he. is roopaantar kaa naam francisi ganitagya aadriyein maari lajaandra ke naam par padaa he.
+ jahaan D, avkalaj kaa pratik he tathaa dahini ore aane vaala -1, pratilom falan ko suchit kar rahaa he. yah aasaani se dikhaaya ja saktaa he ki g, f kaa lajaandra roopaantar ho to f, g kaa lajaandra roopaantar hoga 
+ udhaaharan ke liye, falan   f =   x 2  2   {\displaystyle f={\tfrac {x^{2}}{2}}} tathaa falan   g = −   p 2  2   {\displaystyle g=-{\tfrac {p^{2}}{2}}} ek duusare ke lajaandra roopaantar hai.
+ ek vishesh sthiti main, yadi falan f ek uttal falan ho to iskaa lajaandra roopaantar ƒ* nimnlikhit sambandh dwaara abhivyakt kiya ja saktaa he-
+ Let f = cx2 defined on R, where c > 0 is a fixed constant.
+ For x* fixed, the function x*x – f = x*x – cx2 of saanchaa:Mvar has the first derivative x* – 2cx and second derivative −2c; there is one stationary point at x = x*/2c, which is always a maximum. Thus, I* = R and 
+ Clearly, 
+ namely f ** = f.
+ Let f = x2 for x ∈ I = .
+ For x* fixed, x*x − f is continuous on saanchaa:Mvar compact, hence it always takes a finite maximum on it; it follows that I* = R. The stationary point at x = x*/2 is in the domain if and only if 4 ≤ x* ≤ 6, otherwise the maximum is taken either at x = 2, or x = 3. It follows that
+ The function f = cx is convex, for every saanchaa:Mvar . Clearly x*x − f = x is never bounded from above as a function of saanchaa:Mvar, unless x* − c = 0. Hence f* is defined on I* = {c} and f* = 0.
+ One may check involutivity: of course x*x − f* is always bounded as a function of x* ∈ {c}, hence I ** = R. Then, for all saanchaa:Mvar one has 
+ and hence f ** = cx = f.
+ Let 
+ be defined on X = Rn, where saanchaa:Mvar is a real, positive definite matrix. Then saanchaa:Mvar is convex, and
+ has gradient p − 2Ax and Hessian −2A, which is negative; hence the stationary point x = A−1p/2 is a maximum. We have X* = Rn, and

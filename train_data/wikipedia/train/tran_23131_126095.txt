@@ -1,0 +1,6 @@
+ sakriy filter yaa active filter ve analog electronic filter hai jinamein kisi active avyav kaa upyog kiya jaataa he. vishesh baat yah he ki kisi filter kii dizin main emplifire kaa prayog karke filter kaaryakshmata ko badhaayaa ja saktaa he, arthath pasive filter kii kuch kamiyon se chhutkaaraa paaya ja saktaa he. lo-paas, hai-paas, band-paas or band-stop aadi sabhi filtering kaaryon ke liye active filter banaaye jate hai. 
+ active filtron ke anek laabh hai.
+ active filtron kii kuch kamiyaan bhi hai.
+ active filter vibhinn sanyojanon main banaaye jate hai, jinamein se pramukh hai-
+ neeche 1000 Hz cat-of tathaa 4-order vaale batterworth filter kaa udhaaharan diya gaya he. iskaa nirmaan sailen-kii ke cells se kiya gaya he. neeche is filter kaa paripath diya gaya he-
+ neeche ke chitra main is filter kaa aavriti-rispons diya gaya he kaa plot he tathaa laal rang main phej kaa plot)-

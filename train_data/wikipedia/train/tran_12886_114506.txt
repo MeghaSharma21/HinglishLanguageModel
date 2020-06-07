@@ -1,0 +1,10 @@
+ vidyut ejiniyari main samamit ghatakon kii vidhi asantulit teen feji paripathon ke vishleshan ko saral banane ke liye kiya jaataa he.
+ Symmetrical components are most commonly used for analysis of three-phase electrical power systems. If the phase quantities are expressed in phasor notation using complex numbers, a vector can be formed for the three phase quantities. For example, a vector for three phase voltages could be written as
+ where the subscripts 0, 1, and 2 refer respectively to the zero, positive, and negative sequence components. The sequence components differ only by their phase angles, which are symmetrical and so are    2 3  π  {\displaystyle \scriptstyle {\frac {2}{3}}\pi } radians or 120°. Define the operator   α  {\displaystyle \scriptstyle \alpha } phasor vector forward by that angle.
+ Note that α3 = 1 so that α−1 = α2.
+ shunya-seqvence ke ghatak paraspar ek hi kala main hote hai. unhen nimnlikhit prakaar se nirupit kiya jaataa he-
+ tathaa anya phej-seqvenson ko ko nimnlikhit prakaar se nirup karte hai-
+ atah,
+ jahaan
+ iske vipareet, seqvence-ghatakon ke maan, vishleshan samikarnon se nikaale jate hai-.
+ jahaan

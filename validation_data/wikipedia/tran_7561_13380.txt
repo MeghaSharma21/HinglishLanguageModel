@@ -1,0 +1,4 @@
+ open fom taral or thoson ke khandon main vibhakt samikarnon ko hal karne ke liye prayukt ek mukt softver he. isaki vikasar 2000 ke dashak main euke me kiya gaya. yah c++ main likhaa gaya or yah taral gatiki ke akalan main bahut lokapriy hota ja rahaa he. 
+ OpenFOAM solvers include:
+ saadhaaran or maanak halkarnon ke atirikt ye, OpenFOAM's syntax nae mal viksit karne ke liye bhi bahut upyukt he. 
+ OpenFOAM utilities are subdivided into:

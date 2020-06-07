@@ -1,0 +1,15 @@
+ ganit main kisi char raashi x par paribhaashit falan f satat falan kehalaata he yadi x main alp parivartan karne par f ke maan main bhi keval alp parivartan ho anyathaa yah asatat falan kehalaata he. ek satat falan ke pratilom falan kaa satat hona aavashyak nahin.
+ vaastavik sankhyaon ke ek samucchy se vaastavik sankhyaon par paribhaashit falan ko kartiya samtal main ek graph se nirupit kiya ja saktaa he; mote taur par kah sakate hai ki falan satat hoga yadi graph par koi bhi bindu aisa nahin ho jahaan koi kotor va oochaal naa ho, kehane kaa matlab yah he ki graph kahin se tuta hua naa ho.
+ ise ganitiya rup main likhane ke vibhinn tareeke hai. falan ko satat paribhaashit karne ke liye prachlit paribhaasha nimna he:
+ vaastavik sankhyaon ke samucchy R ke upasamucchy I par paribhaashit falan he. upasamucchy I ko falan f kaa kshetra kaha jaataa he. yahan sambhavit vikalp ke rup main I=R, purna sankhyaon kaa samucchy, band interval 
+ athwa khulaa interval
+ shaamil he. yahan a or b vaastavik sankhyaayein hai.
+ apane kshetra main bindu c par falan f satat kehalaata he yadi falan f kii seemaa jab x, c kii ore agrasar hone par f kaa maan vaastavik ho tathaa vah f kii ore agrasar ho. ganitiya rup main likhane par :
+ yahan nimna teen sharten aavashyak drushtaant hoti hai :
+ falan f ko satat kaha jaataa he yadi yadi yah kshetra ke prayek bindu par satat he.
+ sabhi bahupad falan, jaise
+  satat hai.
+ asatat falan kaa ek udhaaharan ek falan he jise nimna prakaar paribhaashit kiya jaataa he f = 1 yadi x>0, f = 0 yadi x ≤ 0, ise siddh karne ke liye ε = 1⁄2 lete hai. yahan par x=0 ke lagbhag koi δ-parivesh nahin he jo kii f ke maan ko f ke nikat ε kii ore agrasar kare. parinamswaroop is tarah kii asatata ko oxmik oochaal kahenge. isi tarah chihn falan
+ x=0 par asatat he anyathaa satat he. 
+ anya udhaaharan : falan
+ x = 0 ke alaava satat he.

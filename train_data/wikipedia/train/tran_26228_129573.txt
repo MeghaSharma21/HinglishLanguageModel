@@ -1,0 +1,26 @@
+ agex web vikaas takneekon kaa ek samooh he jiskaa upyog interective web anuprayog ke nirmaan ke liye graahak paksh par kiya jaataa he. 
+ ajaks ke saath, web anuprayog prishthbhumi main sarwar se atulykaalik rup se data ko punah praapt kar saktaa he, isamen disple or upasthit pej ke vyavhaar se kisi prakaar kii koi baadha nahin pahunchati he. 
+ ajaks takneekon ke upyog ne web pej par interective yaa gatisheel interphes main vruddhi kii he.
+  data aamtaur par XMLHttp request object kaa upyog karte hue punah praapt kiya jaataa he. naam ke baavjood javascript or XML kaa upyog vakstav main zaruri nahin hota he, naa hi request ke atulykaalik hone kii aavashyaktaa hoti he.
+ DHTML or LAMP kii tarah, ajaks apane aap main ek takanic nahin he, balki takneekon kaa ek samooh he. 
+ ajaks nimna ke ek sangyojan ko kaam main letaa he:
+ saamagree kii atulykaalik loding ke liye takneekein san 1990 ke dashak ke madhya main aayin. java bhashaa ke pehle sanskaran main java amelet kii shuruyaat san 1995 main hui. ye ek web pej ko lod kiye jane ke baad data ko atulykaalik rup se lod karne ke liye sankalit graahak paksh code kii anumati dete hai. 
+ haalanki, is lakshan ko vyapak rup se tabhi janaa jane laga jab ise Gmail or Google Maps ke dwaara upyog main laayaa gaya. 
+ yah shabd "ajaks" san 2005 main aayaa. jesi james garet ke dimag main shabd "ajaks" tab aayaa jab ve naha rahe the, us samay ve ek graahak ke liye praudyogikiyon ke pratinidhitiv ke liye ek sankshipt rup kii aavashyaktaa mahasoos kar rahe the. 
+ 5 april 2006 world wide web concortium ne ek adhikarik web maanak ke nirmaan ke liye object ke liye pehla draft vivaran jari kiya.
+ shabd ajaks web praudyogikiyon ke k bade samooh kaa pratinidhitiv karata he, jinka upyog ek aise web anuprayog ke kriyanvayan ke liye kiya jaataa he, jo prishthbhumi main ek sarwar ke saath sanchaar karata he, is dauraan yah pej kii vartmaan sthiti main koi hastkshep nahin karata he. 
+ jis lekh main shabd ajaks diya gaya,jesi james garet ne spasht kiya ki nimnlikhit praudyogikiyon kii aavashyaktaa he:
+ XML or XSLT.
+ tab se, shabd ajaks kii paribhaasha or ajaks anuprayog main kaam main aane vaali prodyogikiyon main kai vikaas hue hai.
+ vishesh rup se yah note kiya gaya he ki:
+ anya bhashaaen jaise VBScript bhi aavashyak kaaryakshmata ke yogya he. 
+ haalankijawa script ajaks programing ke liye sabase lokapriy bhashaa he, kyonki yah adhikansh aadhunik web brouzars ke saath sangat he or unamem shaamil he. 
+ clasical ajaks main graahak par tadarth java script kaa lekhan shaamil he. ek aasaan or krudar vikalp kaa upyog maanak java script libraries ke liye kiya jaataa he, jo aanshik rup se pej ko apadet karte hai, jaise ASP.Net kaa apadet panel. upkaran jaise Echo2 or ZK keval maanak java script libraries kaa upyog karte hue sarwar se ek pej ke fine grand niyantran ko sakasham banataa he.
+ paaramparik tareeqon kaa upyog kaa upyog karte hue, har request par saamagree ko relod kiya jaataa he. haalanki, ajaks kaa upyog karte hue, ek web anuprayog keval us saamagree kii request karata he jise apadet kiye jane kii zaroorat hoti he, is prakaar se bandwidth ke upyog or lod ke samay ko bahut adhik kam karata he. 
+ upyogkarta anuprayog ko adhik tej or adhik pratikriyasheel banaate hai, yahaan tak ki tab bhi jab anuprayog sarwar ke paksh par badla nahin he.
+ aas paas ke kaaryon main adrishy IFrames kaa upyog shaamil he, jo brouzar kii history main parivartan karte hai or URL ke ankar hisse main parivartan karte hai jab ajaks chal rahaa hota he or parivartanon ke liye iskaa niyantran karata he. 
+ is samasya kaa samaadhaan maujuud hai, jinamein se kai iskaa trek rakhane ke liye URL fregment edentifire kaa upyog karte hai or upyogkarta ko ek di gayi avasthaa main anuprayog par lautne ke liye anumati dete hai. 
+ screen pathakon jo ajaks kaa upyog karne main sakasham he vah gatik rup se utpann saamagree ko thik prakaar se padhne main aksham ho saktaa he.
+ upyogkarta ko kaaryshil banane kaa ekmaatr tarika he, gaiyr javascript tareeke par waapas janaa. aisa nishchit link bana kar kiya ja saktaa he, ou roopon ko thik prakaar se hal kiya ja saktaa he or ye keval ajaks par hi nirbhar nahin karte hai. 
+ javascript main iske baad "ritern falls' ke saath form jamaa karne kii prakriya ko galat kiya ja saktaa he. 
+ anya web praudyogikiyon se parichit vikaas kartaaon ko surakshit ajaks anuprayogon ke lekhan ke liye koding vidhiyaan or nae pareekshanon ko siikhnaa chahie. 

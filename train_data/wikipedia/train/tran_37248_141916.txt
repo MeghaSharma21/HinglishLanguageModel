@@ -1,0 +1,4 @@
+ calculas main do yaa adhik falnon ke sanyukt falan kaa avkalaj nikaalane ke liye shrunkhlaa niyam kaa upyog kiya jaataa he. samakalan main, pratisthaapan dwaara samakalan, is vidhi kii ulti vidhi he.
+ isi ko labnij kii sanketan vidhi main is prakaar likhaa jaataa he-
+ yahan   f = h )  {\displaystyle f=h)} jahaan   h = sin ⁡ x  {\displaystyle h=\sin x} or   g = x 2   {\displaystyle g=x^{2}} he. ab shrunkhlaa niyam kaa upyog karne par,
+ kyonki   h ′  ) = cos ⁡  {\displaystyle h')=\cos} or   g ′  = 2 x  {\displaystyle g'=2x} .

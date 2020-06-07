@@ -1,0 +1,64 @@
+ is anuchhed ko vikipedia lekh Six Sigma ke is sanskaran se anudit kiya gaya he.
+ saanchaa:Manufacturingsiksa sigma ek vyavsaay prabandhan ranneeti he, jise shuru main motorola dwaara lagu kiya gaya tha, par aaj udyog ke kai kshetron main iskaa vyapak prayog hota he.
+ sicks sigma vinirmaan or vyapaar prakriya main abhaavon or bhedon or unke kaarnon kii pahchaan or nivaaran dwaara prakriya utpaada kii gunvattta main sudhaar laane kaa prayaas karata he. yah sankhyikeey tareeqon sahit gunvattta prabandhan paddatiyon ke set kaa upyog karata he or sanghathan ke andar logon kaa ek vishesh aadhaar-tantra taiyaar karata he, jo in paddatiyon ke visheshgy hote hai. kisi sanghathan ke andar chalaai jane vaali har sicks sigma pariyojna ek paribhaashit anukram kaa paalan karti he or ek parimanit vittiya lakshyon ko saamne rakhti he. 
+ 
+ 1986 main sarvapratham bill smith dwaara is kaary-pranali ke byore motorola main taiyaar kiye gaye the. sicks sigma, shuhart, deming, juraan, ishikava, taguchi or anya pravartakon ke kaary par aadhaarit pichley chah dashakon kii gunvattta sudhaar prakriya, yatha gunvattta niyantran, TQM or shunya dosha se atyadhik prabhavit hua he. 
+ apane purvavartiyon kii bhaanti sicks sigma nishchaypurvak kahata he ki --
+ pichley gunvattta sudhaar pravartanon se sicks sigma ko alag karne vaali visheshtaon main shaamil hai - 
+ shabd "sicks sigma", prakriya kshamta adhyayan ke rup main vidit sankhyikee ke ek kshetra se vyutpann he. multah iskaa aashay vinirdeshon ke adheen vinirmaan prakriyaaon dwaara atyadhik maatra main utpaada taiyaar karne kii kshamta se tha. mana gaya ki "sicks sigma gunvattta" sahit alpavadhi ke liye parichaalit prakriyaaon se, 3.4 abhaav prati das lakh avasar se neeche ke dirghakaalik abhaav str pratifalit hote hai. sicks sigma kaa antarnihit lakshya sabhi prakriyaaon kii gunvattta ko us str tak sudhaarney yaa usase bhi behatar bananaa he.
+ sicks sigma, Motorola, Inc. kaa panjikrut seva chihn or vyaper-chihn he. yatha 2006, motorola ne sicks sigma se $17 arab america dollar ke bachat kii soochna di he. 
+ sicks sigma ko shuruuaati daur main hi apanaakar apni ullekhneey safalataa ke liye charchit hone vaali companiyon main shaamil hai, honeywel or general electric, jahaan jaik welsh ne is paddati kaa pravartan kiya. 1990 dashak ke ant main farchun 500 kii do tihaai sansthaaon ne apni laagat ko kam karne tathaa gunvattta main sudhaar laane ke uddeshy se sicks sigma pahal kii shuruuaat kar di thi.
+ haal ke varshon main, sicks sigma ko kabhi-kabhi anutpaadak vinirmaan ke saath joda jaataa rahaa he, taaki anutpaadak sicks sigma naamak prakriya pratifalit ho sake. 
+ 
+ 
+ sigma kaa prayog, sankhyikeey jansankhya ke maanak vichlan kaa pratinidhitiv karne ke liye kiya jaataa he. shabd "sicks sigma prakriya" is dharna se utpann hua he ki yadi kisi ke paas nirmaan-ausat or nikatatam vinirdisht seemaa ke bich chah maanak vichlan hai, to vyaavhaarik rup se aisa koi mad nahin hoga jo vinirdeshon ke anukool naa ho. yah prakriya sakshmata adhyayan main prayukt gananaa paddati par aadhaarit he.
+ sakshmata adhyayan main, prakriya ausat or nikatatam vinirdisht seemaa ke bich ke in maanak vichalnon kii sankhya ko sigma ikaayiyon main diya jaataa he. jaise hi prakriya maanak vichlan upar jaae, yaa prakriya ausat gunjaaish ke centre se dur jaae, sigma sankhya ko kam karte hue or vinirdesh ke baahar madon kii sambhaavnaaon ko badhaate hue, bahut kam maanak vichlan ausat or nikatatam vinirdisht seemaa ke bich main baithenge.
+ 
+ anubhav yah kahata he ki aam taur par prakriyaayein lambey samay main utana acha pradarshan nahin kar paati hai, jitna ki ve kam samay main karti hai. parinamswaroop, praarambhik alpavadhi-adhyayan kii tulana main, prakriya ausat or nikatatam vinirdesan seemaa ke bich thik baithne vaali sigmaon kii sankhya main samay ke saath giravat kii sambhaavna he. samay ke saath-saath prakriya ghat-bad main vishuddh vruddhi ko darshane ke liye, praayogic aadhaar par pariklan main 1.5 sigma shift kaa pravartan kiya jaataa he. is vichaar ke anusaar, prakriya, jo alpavadhi adhyayan ke dauraan, prakriya ausat or nikatatam vinirdisht seemaa ke bich chah sigma ko baithaati he, vah deergh-kaal main keval 4.5 sigma hi baitha paaegi - kyonki yaa to samay ke saath prakriya ausat main badlaav aayega, yaa alpavadhi ke dauraan paae gaye prakriya ke maanak vichlan se dirghakaalik maanak vichlan adhik hoga, yaa donon sambhav he.
+ atah sicks sigma prakriya kii vyapak rup se sweekrut paribhaasha vah he, jo 3.4 abhavagrast bhaag prati das lakh avasar prastut karti he. yah is tathy par aadhaarit he ki saamaanya rup se vitarit prakriya main ek seemaa ke baad 3.4 bhaag prati das lakh honge, jo ki ausat se upar yaa neeche 4.5 maanak vichlan hogi. atah "sicks sigma" prakriya kaa 3.4 DPMO vastav main 4.5 sigma ke sadrush hota he, yani dderghaavadhik ghat-bad ko darshane ke liye 6 sigma se 1.5 sigma gata kar. isaki abhiklpana vishuddh parichaalan main sambhavya abhaav staron ko kam aankane se rokna he. 
+ 
+ alpavadhi sigma str nimnlikhit dirghakaalik DPMO mulyon ke anuroop hai:
+ ye aankade kalpana karte hai ki alpavadhi sigma str ko nirdhaarit karte hue praarambhik adhyayan ke kuch samay baad prakriya ausat 1.5 sigma dwaara gambhir vinirdesh seemaa vaale hisse kii ore shift hoga. udaahranarth 1 sigma ke liye die gaye aankade yah maan kar chalate hai ki alpakaalik prakriya ausat, vinirdesh seemaa ke 0.5 sigma baahar hoga, naa ki 1 sigma andar, kyonki yah alpavadhi adhyayan tha.
+ sicks sigma kii do pradhan vidhiyaan hai: DMAIC or DMADV, donon deming ke yojana banaao-karrwai karo-jaancho-puraa karo chakra se prerit he. DMAIC ek maujuuda vyapaar kii prakriya main sudhaar laane ke liye prayog kiya jaataa he; DMADV nae utpaada yaa prakriya ko pariklpit karne ke liye istemaal hota he.
+ 
+ buniyadi vidhi nimnlikhit paanch charnon se bani he:
+ buniyadi vidhi nimnlikhit paanch charnon se bani he : 
+ DMADV ko "D esign F or S ix S igma" ke sanketakshar DFSS ke rup main bhi janaa jaataa he. 
+ 
+ sicks sigma ke pramukh navapravartanon main se ek he gunvattta prabandhan kaaryon kaa vyavsaayeekaran. sicks sigma se pehle, gunvattta prabandhan kaa chalan adhikanshtah utpaadan vibhaag or ek alag gunvattta vibhaag main sankhyikeevidon ko hastantarit kar diya gaya tha. sicks sigma ne marshall art ke ohadon kii shabdaawalee kaa anukaran ek padanukram ko paribhaashit karne ke liye kiya, jo sabhi vyapaarik kaaryon or padonnati path ko chirate hue sidhe karypalkon ke samooh main pahunchati he. 
+ sicks sigma apane safal karyanvayan ke liye kai mahatvapurn bhoomikaaon kii pahchaan karata he.
+ 
+ sicks sigma badi sankhya main sthapit gunvattta prabandhan ke tareeqon kaa upyog karata he, jo sicks sigma ke baahar bhi prayukt hote hai. nimnlikhit sarini pramukh prayukt vidhiyon ko darshaati he.
+ 
+ 
+ 
+ 
+ 
+ 
+ sicks sigma ne udyog par baari prabhaav daalaa he or seva tathaa parichaalan utkrushtataa praapt karne or samposhit karne ke liye, ek vyapaar ranneeti ke rup main vyapak rup se prayukt hota he. haalanki, sicks sigma kii kai aalochanaayen bhi hai.
+ 
+ prasiddh gunvattta visheshgy joseph em.juran ne sicks sigma ko "gunvattta sudhaar kaa buniyadi sanskaran," kaha he, yah batalaate hue ki "yahan kuch bhi nayaa nahin he. isame vah shaamil he jise ham sahaayak kaha karte the. unhone adhik alankrita shabdon ko apanaaya he, jaise vibhinn rangon kii belt. mujhe lagata he ki avadharana main kuch li se hat kar karne kii kubi shaamil he, jisase aise visheshgy taiyaar hon, jo bahut madadgaar sabit ho sakate hai. phir bhi, yah koi nayaa vichaar nahin he. american socity for quality ne kaafii samay pehle hi pramaan-patron kaa srijan kiya, jaise ki vishwasaneey ejiniyaron ke liye."
+ 
+ bhramanshil parivartak agent ke rup main "blike belt" kaa upyog vivaadaaspad he, kyonki isane prashikshan or pramann kaa ek kutir udyog khadaa kiya he. aalochak bahes karte hai ki adhikansh salaahkaar farmon dwaara sicks sigma kaa adhivikray ho rahaa he, jinamein adhikansh sicks sigma main visheshgyata kaa daawa karte hai, jabaki unhen keval prayukt upkaran or takanic kii praarambhik samaj hoti he.
+ "green belt", "master blike belt" or "gold belt" jaise vibhinn "belt" ke vistaar ko aam taur par marshall art main maujuud vibhinn "belt kaarkaanon" ke samanaantar dekha jaataa he. 
+ 
+ fortune ke ek lekh ne vivaran diya ki "sicks sigma kaarykram kii ghoshnaa karne vaali 58 badi companiyon main se 91 pratishat ne S&P500 ko peeche chhod diya he." vaktavy kaa shrey diya gaya he "qualpro paramarshi form ke charles holland ke vishleshan ko ." lekh kaa saar he ki sicks sigma jo karne kaa iraadaa rakhata he, usamen vah prabhavi he, par yah "maujuuda prakriya ko thik karne ke liye baariqi se dizine kiya gaya he" or yah "nae utpaadon yaa vighatnkaaree praudyogikiyon ko taiyaar karne main" madad nahin karata. inamen se kai daavon ke galat yaa trutipurna soochna par aadhaarit hone kii daleelein di jaati hai.
+ bijnes wyk ke ek lekh main kaha gaya he ki james mekanerni dwaara sicks sigma ke 3M par parichay ne sambhawatah rachanaatmakataa kaa galaa ghonta he. yah wharton skool ke do profesron kaa drushtaant detaa he, jo yah bataate hai ki sicks sigma, blue-ski kaary kii qeemat par vriddhishil navrachana karata he. aage chal kar is ghatana kii gaveshna going leen qitaab main kii gai he, jo yah dikhaane ke liye data pesh karti he ki ford ke "6 sigma" kaarykram ne uski qismat badalane ke liye kuch nahin kiya.
+ 
+ haalanki 3.4 abhaav prati das lakh avasar kuch utpaadon/prakriyaaon ke liye acha kaam kar sakate hai, par dusron ke liye yah adarsh yaa faaydemand nahin bhi ho sakate hai. udhaaharan ke liye ek pesamekar prakriya ke liye ucch maanakon kii aavashyaktaa ho sakati he, jabaki ek diarect mail vigyaapan abhiyaan ko utani nahin.maanak vichlan ke rup main 6 ko chunane ke aadhaar or auchity ke liye spasht rup se vyakhya nahin kii gai he. iske alaava, sicks sigma model maanata he ki prakriya data hameshaa saamaanya vitaran ke anuroop hoga. jahaan saamaanya vitaran model lagu nahin hota he, un paristhitiyon ke liye abhaav dar kii gananaa ko prachlit sicks sigma sahitya main thik se abhivyakt nahin kiya gaya he.
+ 
+ apni manamaani prakruti ke kaaran, 1.5 sigma shift ko "behuda" ke rup main sankhyikivid donald je whealer dwaara khaarij kar diya gaya he. isaki saarvbhaum prayojyata sandigdh rup main dekhi jaati he.
+ 1.5 sigma shift isliye bhi vivaadaaspad he ki yah ek nishchit "sigma str" main parinat hota he, jo dderghaavadhik ke badale alpavadhi ke nattejey ko pratibimbit karata he: ek prakriya jisamen 4.5 sigma nishpaadan ke kaaran dirghakaalik abhaav str hai, sicks sigma kii pratha ke anusaar, vah "6 sigma prakriya" ke rup main paribhaashit kiya jaataa he. atah sweekrut sicks sigma pariklan pranali maanak vichlan kii ghoshit sankhya ke liye vaastavik saamaanya vitaran sambhaavnaaon ke baraabar nahin maani ja sakati or vivaad kaa yah ek mukhya mudda rahaa he ki sicks sigma upayon ko kaise paribhaashit kiya jaataa he. yah tathy ki kadaachit hi vishleshit kiya jaataa he ki vaastavik 6 sigma nishpaadan ke bajaay 4.5 sigma ke nishpaadan ke kaaran "6 sigma" pranali main dderghaavadhik abhaav dar rahegaa, isane kai tikaakaron ko yah kehane par majaboor kiya ki sicks sigma ek gopneey chaal he. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

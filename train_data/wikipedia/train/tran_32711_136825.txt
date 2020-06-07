@@ -1,0 +1,24 @@
+ rajnet, rajasthan sarkaar dwaara chalaai gai yojana he jiske antargat rajya kii prayek gram panchayat ke atal seva centre par internet suvidha pahunchaana he.
+ rajasthan sarkaar ne metropolitan aria network ko 2005 main SECLAN pariyojna ke tahat ek mahanagareey kshetra jaipur shahar main sthit 48 vibhinn karyaalayon ko cover karne ke liye sthapit kiya he iske baad, 2013 main, network ko 33 jila colectorats, 240 mukhyalay block or 3500 in jila / block main sthit karyaalay tak rajasthan state wide aria network pariyojna ke tahat badha diya gaya he. rajasthan sarkaar ne internet connactivity sthapit karne ke liye sarkari vibhaagon or 9177 gram panchayat, 183 nagarpalika kshetra or rajasthan main kuch anya karyaalayon ko network ji 2 ji, ji 2 bi or ji 2 si sevaaon ke tahat vibhinn shreniyon ke antargat aawaaj, video or data sevaaon ko puraa karne ke liye vistaarit karne kii pariklpana kii he.
+ rajasthan rajya main network connactivity pradaan karne ke liye rajnet ko multimod connactivity manch ke rup main pariklpit kiya gaya env rajya main multimod connactivity kii nigaraanee ke liye kendrikrut ekikrut network sanchaalan centre sthapit karne kaa bhi prastaav kiya. rajnet ke antargat, gram panchayaton tak VSAT connactivity kaa vistaar prastaavit kiya gaya he. VSAT ke sanchaalan ke liye jaipur shahar main CAPTIVE HUB sthapit karne kaa prastaav kiya gaya. 
+ rajnet pariyojna kaa uddeshy internet ke madhyam se rajya ke dur-daraaj ilaakon main naagarik sevaaon kaa prasar karnaa he is uddeshy ko praapt karne ke liye gram panchayat str tak ek multi-mod connactivity network ko lagu karne kii pariklpana kii gai he. 
+ rajnet se laabh nimnanusaar he:
+ 1 bhamashah, i-mitra, manaregaa aadi sevaaon kaa laabh aam janata tak pahuchane ke liye rajya main paryaapt sampark pradaan karne ke liye 
+ 2.network kii behatar uplabdhta env network sevaao or SLAs kii sakriy rahane kii avadhi kii nigaraanee kendriya ekikrut enosi ke madhyam se kii jaati he. 
+ rfpi main prastaavit samaadhaan nimnanusaar hai :-
+ 1.vieseti dwaara gram panchayaton tak connactivity badhayen. 
+ 2.visat connactivity ke liye coptive hub kii sthapana. 
+ 3.gram panchayat tak sthaliy link connactivity or bandwidth ke liye upkaran ke praavdhaan. 
+ 4.kendrikrut ekikrut network oparation centre kii sthapana. 
+ 
+ 1. gram panchayat or adhikaar kshetra ke antargat anya karyaalayon ke liye connactivity. 
+ 2. vieseti connactivity ko kyuu band athwa si-band ko vistaarit karne kaa prastaav. 
+ 3. prastaavit viset network ek star architekchar or ypi network par aadhaarit env multicast or unicast bhejne main sakasham. 
+ 
+ rfpi ke tahat visat connactivity ke prabandhan env rajya main visat network ke bhavishya vistaar hetu jaipur main captive hub kii sthapana kii gai. 
+ isamen lagbhag 2000 sarkari karyaalay ko awaz, video sanchaar or data ke liye sthaliy link connactivity ke liye upkaran or bandwidth pradaan karne kaa prastaav he| 
+ pariyojna kii safal tainaati ke liye bolidaata ko rajasthan sarkaar ke liye gunvattta or samay par sevaayen pradaan karne kii aavashyaktaa he | nividakarta ko puri tarah se puraa rfpi padhane, 
+ arsadisi / secton / gramat / rajasav network ko samajhane kii salaah di gai he |
+ pariyojna ke safal kriyanvayan ke liye, bolidaata aarsel / dioaiti or si, jaipur main samjhaute par hastakshar karne kii taarikh se ek prabandhak niyukt karegaa| bolidaata esapiosi kii 
+ sampark sankhya, i-mail idi or anya praasangik vivaran aroeel / dioaiti or si ke liye pradaan karegaa |
+ 

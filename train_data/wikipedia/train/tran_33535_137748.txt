@@ -1,0 +1,14 @@
+ bhu-akarmiti bhugol ke antargat bhu-akruti vigyaan kii ek upashakha he jo prithvi ke dharaatal kii jyamiti kaa adhyayan karne vaala vigyaan he or yah sthalroopon ke lakshanon kaa maatraatmak nirupan, varnan evam vishleshan karata he. aasaan shabdon main yah dharaatal kaa maatraatmak vishleshan karne vaala vigyaan he. 
+ ivance ne ise do prakaaron main baanta he: vishisht bhuakarmiti, jo asatat rup se alag-alag sthalaroop kaa adhyayan kare or, saamaanya bhuakarmiti, puure dharaatal ko satat ikai ke rup main lekar adhyayan kare. 
+ bhu akruti vigyaan kii yah shakha nayi nahin he or bhugol main computer ke prayog se pehle se rahi he. kintu bhugol main computaron ke prayog or remote sencing, jiies or bhusuchana vigyaan ke kshetra main hui abhivruddhi ne bhuakarmiti ke adhyayan vidhi main amul-chul parivartan kar diya he. puraane samay main yah sthalakritik nakshon par aadhaarit maapan ke dwaara sampann kii jaati thi jinase vibhinn prachalon kii gananaa hoti thi. ab digital oonchaai model ke prayog ne iske vidhitantr main kaafii badlaav kiya he. remote sencing ke badhate upyog ke chalate digital tungta model kii gunvattta main or iske parinaam swaroop bhuakarmiti kii gananaaon kii shuddhta main bhi kaafii parishkar hua he.
+ paramparaagat bhu-akarmiti main sthalakritik maanchitron kaa istemaal karke akarmithik prachalon kii gananaa kii jaati he. isaki vidhiyaan maanviya maapan par aadhaarit hai. saamanyatya iske liye 1:50,000 pradarshak bhinn vaali toposhit prayog main laayi jaati hai or samocch rekhaon or saritaaon kaa maapan or ginati ityadi maanviya rup se kii jaati he.
+ iske liye adhyayan kshetra ko toposhits par chihnit kar use ek varg kimi kii gridon main baant kar prayek grid main prachalon ke mulya kii gananaa kii jaati he.
+ contur aadhaarit maapnon main pramukh prachal hai:
+ nirpeksh ucchavach - jo kisi bhi grid main sabase adhik maan vaali samocch rekha ke maan ko maan liya jaataa he. chahen to interpolation se or sateek gananaa bhi kar sakate hai, parantu yah vaikalpik he.
+ saapeksh ucchavach - kisi grid ke bheetar sabase adhik maan vaale or sabase kam maan vaale contur ke bich kaa ant.
+ ausat dhaal - si ke wentworth dwaara prasthaapit tareeke se.
+ vahiin duusari ore saritaaon ke maapan dwaara bhi teen prachalon kii gananaa hoti he:
+ sarita frequency - kisi grid main kul saritaaon kii sankhya.
+ sarita ghanatv - kisi grid main saritaaon kii kul lambaai par aadhaarit.
+ apvaah texchar - prati kilometre duuri main kul saritaaon kii kataan sankhya.
+ inke alaava kuch maanon kii gananaa puure basin ke liye bhi kii jaati he jaise sarita dvibhajan suchakank .

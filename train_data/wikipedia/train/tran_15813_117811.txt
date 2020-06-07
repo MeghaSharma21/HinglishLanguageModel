@@ -1,0 +1,14 @@
+ ganit main atiparavalay ek aisa shankav hota he jisaki utkendrata ikai se adhik hoti he. ek anya paribhaasha ke anusaar atiparavalay aise binduon kaa bindupath he jinaki do nishchit binduon se duriyon kaa antar sadaiv achar rahata he. in nishchit binduon ko atiparavalay kii nabhiyaan kehete hai.
+ ek atiparavalay, ek dwivimiya samatleey vakr he, jo iske jyamitiya gunon yaa samikarnon dwaara paribhaashit kiya jaataa he. ek atiparavalay main do bhaag hote hai, jinhen sanyugmi ghatak kaha jaataa he, jo ek-duusare kii darpan chhaviyaan hoti hai or donon anant lambey dhanush kii tarah hoti hai. atiparavalay, shanku pariched ke teen prakaaron main se ek he, jo ek samtal or ek dwishanku dwaara pratichhedan par nirmit hota he. yadi ek samtal, ek dwishanku ke donon hisson ko pratichchhed karata he lekin vah samtal shankuon ke sheersh se nahin gujarata he, to shankav ek atiparavalay hota he .
+ jyamiti main atiparavalay, euclid tal par binduon ke ek bindupath ke rup main paribhaashit kiya ja saktaa he.
+ ek atiparavalay binduon kaa ek bindupath he, mana kisi bindu   P  {\displaystyle P} ke liye, do nishchit binduon    F 1 , F 2    {\displaystyle {\displaystyle F_{1},F_{2}}} se duriyon    | P F 1  |,  | P F 2  |   {\displaystyle {\displaystyle |PF_{1}|,\ |PF_{2}|}} kaa antar sadaiv niyat rahata he. aamtaur par nimna prakaar darshaya jaataa he    2 a,  a > 0  :   {\displaystyle {\displaystyle 2a,\ a>0\ :}} 
+    H = { P ∣ |  | P F 2  | − | P F 1  |  | = 2 a }  .   {\displaystyle {\displaystyle H=\{P\mid ||PF_{2}|-|PF_{1}||=2a\}\ .}} 
+ donon nabhiyon ko milaane vaale rekhakhand ke madhya-bindu   M  {\displaystyle M} ko atiparavalay kaa centre kehete hai tathaa yah rekhakhand mukhya-aksh kehalaati he. mukhyaksh par sheersh    V 1  , V 2   {\displaystyle {\displaystyle V_{1}},V_{2}} hote hai jo centre se   a  {\displaystyle a} duuri par hai. naabhi tathaa centre ke bich kii duuri   c  {\displaystyle c} naabhiya duuri kehalaati he. anupaat     c a    {\displaystyle {\displaystyle {\tfrac {c}{a}}}} utkendrata   e  {\displaystyle e} ke baraabar hota he.
+ sameekaran:
+ atiparavalay kaa centre mulbindu, mukhyaksh x-aksh, tathaa nabhiyaan tathaa sheersh    V 1  =,  V 2  =  .  {\displaystyle {\displaystyle V_{1}=,\ V_{2}=}.} va nabhiyaan    F 1  =,  F 2  =   {\displaystyle {\displaystyle F_{1}=,\ F_{2}=}} 
+ tab atiparavalay par kisi bhi bindu ke liye atiparavalay kaa sameekaran
+      x 2  a 2   −  y 2  b 2   = 1  .   {\displaystyle {\displaystyle {\frac {x^{2}}{a^{2}}}-{\frac {y^{2}}{b^{2}}}=1\ .}} 
+ utkendrata:
+    e =  1 +  b 2  a 2    .   {\displaystyle {\displaystyle e={\sqrt {1+{\frac {b^{2}}{a^{2}}}}}.}} 
+ jab kisi atiparavalay main   a = b  {\displaystyle a=b} ho to yah samakoniya atiparavalay kehalaata he. is sthiti main atiparavalay kii utkendrata sadaiv    e =  2    {\displaystyle {\displaystyle e={\sqrt {2}}}}  hoti he. samakoniya atiparavalay kaa sameekaran
+    x y = c 2 ,   {\displaystyle {\displaystyle xy=c^{2},\,}} 

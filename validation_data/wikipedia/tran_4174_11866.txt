@@ -1,0 +1,18 @@
+ ganit main kisi vaastavik sankhya kaa nirpeksh maan yaa 'nirpeksh mulya' yaa 'mapank' |a| us sankhya ke chihn ke bina uske aankik maan ke baraabar hota he. udhaaharan ke liye 3 kaa nirpeksh maan 3 he, tathaa -3 kaa bhi nirpeksh maan bhi 3 hi he. kisi sankhya ke nirpeksh maan ko us sankhya kii shunya se duuri ke baraabar samajha ja saktaa he.
+ vaastavik sankhyaon ke liye nirpeksh maan kii upar di gayi paribhaasha ko kai anya ganitiya kshetron main samanyikaran kiya gaya he. udhaaharan ke liye samishra sankhyaon ke liye bhi nirpeksh maan paribhaashit kiya jaataa he. iske alaava quaternions, ordered rings, fields or sadish avkaash ke liye bhi nirpeksh maan paribhaashit kiya jaataa he. 
+ vaastavik sankhya a kaa nirpeksh maan | a | nirupit kiya jaataa he. tathaa isaki paribhaasha nimnlikhit prakaar se kii jaati he-
+ is paribhaasha se spasht he ki kisi bhi raashi kaa nirpeksh maan yaa to dhanatmak hoga yaa shunya hoga ; yah rinatmak kabhi bhi nahin ho saktaa.
+ chunki bina chihn ke vargamul kaa sanket us raashi ke dhanatmak vargamul ko ingit karata he; iskaa arth hua ki-
+ yahi kabhi-kabhi nirpeksh maan kii paribhaasha ke taur par istemaal kiya jaataa he.
+ nirpeksh maan ke nimnlikhit chaar moolbhoot gun hote hai-
+ nirpeksh maan ke anya mahatvapoornn gun nimnlikhit hai-
+ yadi b > 0, to asamtaaon se sambandhit do anya upyogi gun ye hai-
+ uparokya sambandhon kaa prayog un asamtaaon kaa hal nikaalane ke liye kiya ja saktaa he jinamein nirpeksh maan kaa prayog hua ho. udhaaharan ke liye,
+ kisi samishra sankhya,
+ jahaan x or y vaastavik sankhyaayein hai, z kaa mapank |z| dwaara pradarshit kiya jaataa he. isko nimnlikhit prakaar se paribhaashit karte hai-
+ samishra sankhya ke mapank main upar varnit ve sab gun hai jo vaastavik sankhya ke mapank main hai. 
+ yadi,
+ ho or
+ z kaa samishra yugma ho to,
+ tathaa
+ z ke mapank kaa varg nimnlikhit he-

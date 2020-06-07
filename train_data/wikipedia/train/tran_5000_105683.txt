@@ -1,0 +1,17 @@
+ gurmukhi lipi ek lipi he jisamen punjabi bhashaa likhi jaati he.
+ gurmukhi kaa arth he guruon ke mukh se nikali hui. avashya hi yah shabd ‘vaani’ kaa dyotak rahaa hoga, kyonki mukh se lipi kaa koi sambandh nahin he. kintu vaani se chalakar us vaani ki aksharon ke liye yah naam rudh ho gaya. is prakaar guruon ne apane prabhaav se punjab main ek bhartiya lipi ko prachlit kiya. varanaa sindh kii tarah punjab main bhi farsi lipi kaa prachlan ho rahaa tha or vahi bana rah saktaa tha.
+ is lipi main teen swar or 32 vyanjan hai. swaron ke saath matraayen jodakar anya swar bana liye jate hai. inke naam hai uda, aayaa, idi, sasa, haahaa, kaka, khakha ityadi. antim akshar daada he. chathe akshar se kavarg aarambh hota he or shesh aksharon kaa tak vahi kram he jo devanagari varnmaala main he. matraaon ke rup or naam is prakaar hai. t ke saath, ta, ti, tii, t, t, te, tai, ,, , t: . is varnmaala main praaia: sanyukt akshar nahin hai. yadhyapi anek sanyukt dhvaniyaan vidyaman hai.
+ gurmukhi lipi main 35 varna hote hai. pehle teen varna bilkul khaas hai kyonki kyonki ve swar varnon ke aadhaar hote hai. sirf aira ko chhodkar baaki pehle teen varna akele kahin nahin prayukt hote. vistaar se samajhane ke liye swar varna ko dekhen.
+ ਕ --- k ਖ --- kha ਗ --- ga ਘ --- gha ਙ --- ng 
+ ਚ --- c ਛ --- chha ਜ --- ja ਝ --- jha ਞ --- na 
+ ਟ --- t ਠ --- tha ਡ --- da ਢ --- dha ਣ --- na 
+ ਤ --- t ਥ --- tha ਦ --- da ਧ --- dha ਨ --- na 
+ ਪ --- pa ਫ --- pha ਬ --- ba ਭ --- bha ਮ --- m 
+ ਯ --- ya ਰ --- r ਲ --- l ਵ --- va 
+ ਸ਼ --- sha ਸ --- sa ਹ --- ha ੜ --- d 
+ ਼ ---  ੍ ---  ਾ ---  ਿ ---  ੀ ---  ੁ ---  ੂ ---  ੇ ---  ੈ ---  ੋ ---  ੌ ---  ਂ ---  ੰ ---  
+ ਅ --- a ਆ --- aa ਇ --- i ਈ --- i ਉ --- u ਊ --- uu ਏ --- e ਐ --- i ਓ --- o ਔ --- ou 
+ ੦ --- 0 ੧ --- 1 ੨ --- 2 ੩ --- 3 ੪ --- 4 ੫ --- 5 ੬ --- 6 ੭ --- 7 ੮ --- 8 ੯ --- 9
+ kripaya dhyaan den ki akshar-rup milane ke baavjood punjabi dwaara gurmukhi or hindi dwaara devanagari ke prayog main kuch mahatvapurn antar hai:
+ gurmukhi lipi kii unicode range U+0A00 se U+0A7F tak he. gurmukhi ke liye unicode kaa prayog shuru hue abhi zyada din nahin hue hai. punjabi ke zyaadaatar jaalgharon ne abhi unicode nahin apanaaya he.
+ 

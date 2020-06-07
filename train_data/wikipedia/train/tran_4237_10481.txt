@@ -1,0 +1,3 @@
+ font parivartak ek aisa software hota he jo ki ek font main likhe taxt ko duusare font main badalata he. vastav main yah 'font parivartan' ke bajaay 'inkoding parivartan' karte hai. udhaaharan ke liye kritidev10 ko unicod main badalane vaala parivartak kritidev kii ligasi inkoding ko unicode main badal degaa. 
+ unicode fonton ko font parivartak kii aavashyaktaa nahin hoti, paath sampaditr main taxt ko salact karke font badalane se hi badal jaataa he. non-unicode fonton ko aapas main badalane athwa non-unicode font ko unicode font main badalane ke liye font parivartak prayog hota he.
+ aajkal vibhinn phant se unicode phant main yaa unicode ko puraane font main parivartit karne kii suvidha uplabdh he.

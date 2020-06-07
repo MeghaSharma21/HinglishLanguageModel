@@ -1,0 +1,8 @@
+ belan jyamiti main ek triayami thos kii akruti he. iskaa parshv prishth vakr, sire samaan trigya ke vrittakar hote hai. :belan saral rup main ek roller yaa samaan vyas kaa gilaas he
+ belan kaa aaytan = πr2h 
+ belan kaa aaytan =aadhaar kaa kshetrafal x oonchai
+ belan kaa vakr prishth =2 π r h
+ belan kaa vakr prishth =aadhaar kaa kshetrafal x oonchai
+ belan kaa sampoorn prishth =2 π r
+ belan kaa sampoorn vakr prishth =2 x aadhaar kaa kshetrafal + belan kaa vakr prishth
+ khokhla belan 

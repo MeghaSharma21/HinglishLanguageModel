@@ -1,0 +1,20 @@
+ ganit main, paravalay ek dwivimiya samatleey vakr he jo darpan-samamit hota he or yah angrezi akshar U ke aakaar kaa hota he. paravalay ek dwimiya vakr he jise kai tarah se paribhaashit kiya jaataa he. ek paribhaasha paravalay ko shankav ke ek vishesh rup main paribhaashit karti he. iske anusaar, paravalay vah shankav he jinaki utkendrata 1 ke baraabar hoti he. paravalay ko bindupath ke rup main paribhaashit kiya ja saktaa he. paravalay aise binduon kaa bindupath he jisaki kisi nishchit rekha se duuri, kisi nishchit bindu se duuri ke baraabar hoti he. yahan us rekha ko niyata evam us bindu ko naabhi kehete hai. 
+ udhaaharan ke liye, sameekaran x2 = 4ay ek paravalay ko nirupit karata he jisaki niyata y = -a tathaa naabhi he. 
+ niyata par lamb rekha, jo naabhi se guzarati he "samamit aksh" yaa "paravalay kii aksh" kehalaati he. paravalay par sthit vah bindu, jo aksh ko pratichchhed karata he, arthath paravalay tathaa paravalay kii aksh ke pratichhedan bindu ko "paravalay kaa sheersh" kaha jaataa he, or isi bindu par paravalay sarvaadhik ghumaavdaar hota he. paravalay kii aksh par, naabhi tathaa sheersh ke bich kii duuri, "naabhiya duuri" kehalaati he. "nabhilamb" paravalay kii vah jeeva he jo niyata ke samaantar hoti he or naabhi se hokar guzarati he. paravalay kaa khulaa hua bhaag upar, neeche, baayen, daaen, yaa kisi anya aichhik disha main ho saktaa he. kisi bhi paravalay ko kisi anya paravalay par thik se pravisht karne ke liye punarsthapit or pun: saheja ja saktaa he, arthath sabhi paravalay jyamitiya rup se samaan hote hai.
+ jyamiti main paravalay, euclid tal par binduon ke ek bindupath ke rup main paribhaashit kiya ja saktaa he.
+ ek paravalay binduon kaa ek bindupath he, mana kisi bindu   P  {\displaystyle P} se ek nishchit bindu   F  {\displaystyle F} se duuri   | P F |  {\displaystyle |PF|}, usase niyata   l  {\displaystyle l} tak kii duuri   | P l |  {\displaystyle |Pl|} ke baraabar hoti he. aamtaur par nimna prakaar darshaya jaataa he 
+    { P : | P F | = | P l | }   {\displaystyle {\displaystyle \{P:|PF|=|Pl|\}}} 
+ naabhi   F  {\displaystyle F} se niyata   l  {\displaystyle l} par daale gaye lamb ke madhyabindu   V  {\displaystyle V} ko paravalay kaa sheersh kehete hai tathaa rekha   F V  {\displaystyle FV} paravalay kii aksh he.
+ nirdeshaank jyamiti main chaar mul paravalay hote hai
+ daayin ore khulaa paravalay
+    y 2  = 4 a x  {\displaystyle y^{2}=4ax} 
+ iskaa sheersh mulbindu, naabhi    {\displaystyle } tathaa niyata   x = − a  {\displaystyle x=-a} he.
+ bain ore khulaa paravalay
+    y 2  = − 4 a x  {\displaystyle y^{2}=-4ax} 
+ iskaa sheersh mulbindu, naabhi    {\displaystyle } tathaa niyata   x = a  {\displaystyle x=a} he.
+ upar kii ore khulaa paravalay
+    x 2  = 4 a y  {\displaystyle x^{2}=4ay} 
+ iskaa sheersh mulbindu, naabhi    {\displaystyle } tathaa niyata   y = − a  {\displaystyle y=-a} he.
+ neeche kii ore khulaa paravalay
+    x 2  = − 4 a y  {\displaystyle x^{2}=-4ay} 
+ iskaa sheersh mulbindu, naabhi    {\displaystyle } tathaa niyata   y = a  {\displaystyle y=a} he.

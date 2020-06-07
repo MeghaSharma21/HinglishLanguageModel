@@ -1,0 +1,10 @@
+ ganit main char parivartan ek moolbhoot takanic he jisamen mul char ko kisi anya char ke kisi upyukt falan dwaara pratisthapit kiya jaataa he. lakshya yah hota he ki nae char ke aane se samasya kaa hal saral ho jaataa he. udhaaharan ke liye, samakalan karne ke liye pratisthaapan dwaara samakalan vidhi kaa prayog liya jaataa he jo char parivartan hi he.
+ sameekaran
+ kaa hal nikaalane ke liye nimnlikhit vidhi main char parivartan kiya gaya he.
+ uparokt sameekaran main x3 = u rakhane par nimnlikhit sameekaran praapt hota he-
+ jo sugyaat dwighat sameekaran he or isse u kaa maan nikaal ja saktaa he.
+ iske baat mul char kaa maan nikaala ja saktaa he. iske liye u ko x3 ke baraabar karne par:
+ yadi maanate hai ki x koi vaastavik sankhya he to,
+ nimnlikhit yugapat samikarnon ko dekhen-
+ jahaan   x  {\displaystyle x} or   y  {\displaystyle y} dhanatmak purnank hai tathaa   x > y  {\displaystyle x>y} . 
+ saamanytah iskaa hal nikaalnaa bahut kathin nahin he kintu yah kuch jatil avashya ho jaataa he. kintu yadi dwitiya sameekaran ko   x y = 880  {\displaystyle xy=880} jaisaa karke samajhen or   s = x + y, t = x y  {\displaystyle s=x+y,t=xy} pratisthapit kar den to ye sameekaran   s + t = 71, s t = 880.  {\displaystyle s+t=71,st=880.} ban jate hai jinka hal ye he :   =  {\displaystyle =} yaa   = .  {\displaystyle =.}  is hal ko punarsthapit karne par   x + y = 16, x y = 55  {\displaystyle x+y=16,xy=55}, jisase aasaani se hal mil jaayegaa. yah hal he-   = .  {\displaystyle =.}  duusare kramit-yugma ko punarsthapit karne par   x + y = 55, x y = 16  {\displaystyle x+y=55,xy=16}, jiskaa koi hal nahin he. atah diye gayi yugapat samikarnon kaa hal yah he:   =  {\displaystyle =} .

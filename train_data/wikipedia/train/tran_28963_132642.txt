@@ -1,0 +1,13 @@
+ ganit main kaushi sanghanan pareekshan, jise augustin louis kaushi ke naam se namakaran kiya gaya ek anant shrenee ek liye maanak abhisaran pareekshan he. dhanatmak hraasmaan anukram f ke liye
+ abhisari he yadi or keval yadi
+ abhisari he. iske atirikt, is avasthaa main
+ ek jyamitiya drishy yah he ki ham prayek   2 n   {\displaystyle 2^{n}} par samalambaabh sahit yoga ko sannikatak karte hai. isko anya rup main is prakaar likh sakate hai ki samakalan or nishchit yoga ke madhya anukram ke liye, 'sanghanan' ke vyanjak charghaatanki falan ke pratisthaapan ke anuroop he. yah nimna udhaaharan se spasht he
+ yahan shrenee a > 1 ke liye abhisari he or a 1 ke liye abhisaran praapt hota he, b < 1 ke liye apsaran. jab b = 1 to c par nirbharta hoti he.
+ mana f vaastavik sankhyaon kaa dhanatmak, vardhaman rahit anukram he. sanketan kii saralata ke liye, an = f likhane par. ham shrenee   a 1  + a 2  + a 3  + ⋯  {\displaystyle a_{1}+a_{2}+a_{3}+\cdots } kaa adhyayan karte hai. sanghanan pareekshan ke liye shrenee ke vyanjakon ko lambaai   2 n   {\displaystyle 2^{n}} ke samoohon main lene par, ekadishtataa dwaara prayek samooh   2 n  a  2 n    {\displaystyle 2^{n}a_{2^{n}}} se kam hoga. atah
+ hamane yahan yah mana he ki anukram an vardhaman nahin he, atah prayek   n ≥ m  {\displaystyle n\geq m} ke liye   a n  ≤ a m   {\displaystyle a_{n}\leq a_{m}} . atah mul shrenee kaa abhisaran is "sanghanan" shrenee ke sidhe tulana ke anusaar chalata he. yah dekhne ke liye ki mul shrenee abhisari he jiske parinamswaroop pichhali shrenee bhi abhisari he, atah nimna prakaar maan rakhane par
+ or hamen punah sidhe tulana se abhisaran praapt hota he. or yah hamane siddh kar diya he. dhyaan rahe hamane nimna prakaar maan praapt kiye hai
+ yah pramaan haraatmak shrenee ke apsaran ke oresme pramaan kaa vyapkikaran he.
+ yah vyapkikaran sachlomilk ke anusaar he. mana   ∑ n = 0  ∞  a n   {\displaystyle \sum _{n=0}^{\infty }a_{n}} ek anant vaastavik shrenee he jiske vyanjak dhanatmak or vardhaman rahit hai, tathaa mana   u 0  < u 1  < u 2  < ⋯  {\displaystyle u_{0}<u_{1}<u_{2}<\cdots } aavashyak rup se dhanatmak purnanko kaa vardhaman anukram he, is prakaar
+ paribaddh he, jahaan   Δ u n   {\displaystyle \Delta u_{n}} agr antar he. tab shrenee   ∑ n = 0  ∞  a n   {\displaystyle \sum _{n=0}^{\infty }a_{n}} abhisari hogi yadi shrenee
+ abhisari ho.
+    u n  = 2 n   {\displaystyle u_{n}=2^{n}} lene par,   Δ u n  = 2 n   {\displaystyle \Delta u_{n}=2^{n}} praapt hota he, atah kaushi sanghanan pareekshan vishesh avasthaa ke rup main praapt hota he.

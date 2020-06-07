@@ -1,0 +1,8 @@
+ ganit main anant shreniyon ke abhisaran kii jaanch karne vaali vidhiyon ko abhisaran pareekshan kehete hai. ye vidhiyaan sashart abhisaran, nirpeksh abhisaran, abhisaran ke interval yaa apsaran kii jaanch karatin hai. 
+ S ke liye nishchit vyanjak gyaat karnaa sadaiv saral nahin he. at: ham yah jaanane ke liye ki koi vishisht shrenee abhisari he yaa nahin, abhisari or apsaari kii parikshavidhiyon kaa prayog karte hai. yadi koi shrenee keval dhanatmak padon se bani he, to kisi pad ke uparaant {Sn} ek vriddhimay anukram hoga or aise vriddhimay anukram ke abhisaran ke liye aavashyak or paryaapt anubandh yah he ki yah parimit ho, arthath ek aisi achar raashi K kaa astitv ho ki n ke samast maanon ke liye Sn < K ho. dhanatmak padonvaali shrenee ke abhisaran pareekshan kii vidhiyaan nimnlikhit hai :
+ is vidhi main, kisi anukram   { a n  }  {\displaystyle \left\{a_{n}\right\}} ke padon kii anya anukram   { b n  }  {\displaystyle \left\{b_{n}\right\}} ke padon se tulana kii jaati he. yadi,
+ n ke sab maanon ke liye,   0 ≤  a n  ≤  b n   {\displaystyle 0\leq \ a_{n}\leq \ b_{n}}, tathaa   ∑ n = 1  ∞  b n   {\displaystyle \sum _{n=1}^{\infty }b_{n}} abhisari ho to   ∑ n = 1  ∞  a n   {\displaystyle \sum _{n=1}^{\infty }a_{n}} bhi abhisari hogi.
+ kintu, yadi,
+ n ke sab maanon ke liye,   0 ≤  a n  ≤  b n   {\displaystyle 0\leq \ a_{n}\leq \ b_{n}}, tathaa   ∑ n = 1  ∞  a n   {\displaystyle \sum _{n=1}^{\infty }a_{n}} apsaari he, to   ∑ n = 1  ∞  b n   {\displaystyle \sum _{n=1}^{\infty }b_{n}} bhi apsaari hogi.
+ dekhen, anupaat pariksha 
+ dekhen - kosi kii mul pariksha

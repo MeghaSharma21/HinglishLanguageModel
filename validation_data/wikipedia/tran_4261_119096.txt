@@ -1,0 +1,3 @@
+ ganit main, seemaant tulana pareekshan anant shrenee ke abhisaran kii ek vidhi he.
+ mana ki   Σ n  a n   {\displaystyle \Sigma _{n}a_{n}} or   Σ n  b n   {\displaystyle \Sigma _{n}b_{n}} do shreniyan hai jahaan sabhi   n  {\displaystyle n} ke liye   a n , b n  ≥ 0  {\displaystyle a_{n},b_{n}\geq 0} he.
+ tab yadi   lim n → ∞   a n  b n   = c  {\displaystyle \lim _{n\to \infty }{\frac {a_{n}}{b_{n}}}=c} jahaan   0 0  {\displaystyle c>0} ke liye   ε  {\displaystyle \varepsilon } kaa maan svaichhik rup se chota chaynit kiya ja saktaa he jahaan   c − ε  {\displaystyle c-\varepsilon } dhanatmak praapt ho.atah   b n  0  {\displaystyle \lim _{n\to \infty }{\frac {1}{n^{2}+2n}}{\frac {n^{2}}{1}}=1>0} atah ham praapt karte hai ki mul shrenee bhi abhisari he.

@@ -1,0 +1,12 @@
+ bhautikee me, shakti yaa vidyut-shakti yaa power, vah dar he jis par koi kaary kiya jaataa he yaa urja sanchaarit hoti he, yaa ek niyat samay main kitni urja kii aavashyaktaa hoti he yaa urja vyay hoti he.
+   P =  W t   {\displaystyle P={\frac {W}{t}}\,} 
+ jahaan P shakti he, W kaary or t samay he.
+ ausat shakti, prati samay ikai main kiye gayi kaary yaa sanchaarit urja kaa ausat pariman he. tab taatkaalik shakti, ausat shakti kaa vah simit maan he jab samay antaraal Δt shunya ke sameep pahunchataa he.
+   P = lim Δ t → 0   Δ W  Δ t  = lim Δ t → 0  P  a v g    {\displaystyle P=\lim _{\Delta t\rightarrow 0}{\frac {\Delta W}{\Delta t}}=\lim _{\Delta t\rightarrow 0}P_{\mathrm {avg} }\,} 
+ jab urja sancharan kii dar yaa kaary niyat hota he tab ise nimna sutara main sarlikrut kiya ja saktaa he:
+   P =  W t  =  E t   {\displaystyle P={\frac {W}{t}}={\frac {E}{t}}} ,
+ jahaan t- samay me, W- kiya gaya kaary or E – sanchaarit urja he.
+ shakti kii ikai, urja kii ikai kaa samay dwaara vibhaajan ke baraabar he. shakti kii es ai ikai wat he jo '1 jul prati second' ke baraabar hoti he.
+ yadi kisi gatisheel vastu par koi bal lagata he to is bal dwaara vastu par aropit shakti, bal or vastu ke veg ke dot gunanfal ke baraabar hota he.
+ uparokt sutara kaa ghurnan gati main rup nimnavat he-
+ vidyut shakti praapt karne kaa sutara -

@@ -1,0 +1,6 @@
+ 1.8
+ yasi ek ni: shulk vitarit kii khoj ingine he, sahakarmi se sahakarmi ke siddhanton par banaaya gaya network. isaki mukhya java main likhaa ek computer program ,sau kai computaron par vitarit kiya jaataa he, as of September 2006, yasi - saathiyon ke tathakthith. prayek yasi sahakarmi swatantra rup se vishleshan karti he or anukramit pi 2 pi network ke siddhanton kaa upyog anya yasi - saathiyon ke saath saajha kiya jaataa he, jo ek aam database main parinaam anukraman web pej, or bhandar paaya gaya he, internet ke madhyam se.
+ arddh vitarit khoj ingine kii tulana main, yasi-network ek vikendrikrut vaastukala he. sabhi yasi-saathiyon ke baraabar hai or koi kendriya se maujuud he. yah uske computer par yasi chal rahe vyakti ne daura kiya web prishthon kaa anukraman, ek rengne mod main yaa ek sthaneey proxi sarwar ke rup main yaa to chalaaya ja saktaa he. .
+ khoj kaaryon ke liye upyog khoj shabdon darj karne ke liye ek khoj box pradaan karata he, or anya lokapriy search ingine ke liye ek samaan swaroop main khoj parinaam detaa he jo ek sthaneey str par chal web sarwar dwaara kiya jaataa he..
+  
+ yasi khoj ingine chaar tatwon par aadhaarit he:

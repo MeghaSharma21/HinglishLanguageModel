@@ -1,0 +1,1 @@
+ digital logic main inwarter athwa note get vah logic get he jo taarkik vilom lagu karata he arthath jiskaa output taarkik rup se input kaa ulta hota he. udhaaharan ke liye yadi input main "logic 1" lagaaya jaay to inwarter ke taput main "logic 0" miltaa he.

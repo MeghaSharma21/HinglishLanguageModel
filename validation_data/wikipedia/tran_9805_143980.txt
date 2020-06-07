@@ -1,0 +1,9 @@
+ ganit main discreet time furiar transafarm yaa ditift, furiar vishleshan ke kai rupon main se ek rup he. yah anant tak paribhaashit kisi anavarti discreet-time seqvence ko roopantarit karata he. ise yah bhi kehete hai ki samay-domen kaa aankada aavriti-domen main badal gaya. ditift dwaara praapt aavriti-domen kaa aankada satat evam aavarti hota he.
+ yadi koi vaastavik yaa samishra sankhyaon kaa samucchy :   x, n ∈ Z  {\displaystyle x,\;n\in \mathbb {Z} }, diya ho to   x   {\displaystyle x\,} kaa ditift praayah is prakaar vyakt kiya jaataa he:
+   X = ∑ n = − ∞  ∞  x  e − i ω n  .  {\displaystyle X=\sum _{n=-\infty }^{\infty }x\,e^{-i\omega n}.} 
+ nimnlikhit rupaantar karne par discreet-time seqvence phir se praapt ho jaayegaa:
+ The integrals span one full period of the DTFT, which means that the x samples are also the coefficients of a Fourier series expansion of the DTFT.  Infinite limits of integration change the transform into a continuous-time Fourier transform, which produces a sequence of Dirac impulses. That is:
+ neeche kuch maanak discreet time seqvence evam unke ditift rupantar diye hue hai. isamen prayukt pratikon kaa arth nimnavat he:
+ This table shows the relationships between generic discrete-time Fourier transforms. We use the following notation:
+ The first column provides a description of the property, the second column shows the function in the time domain, the third column shows the spectrum in the frequency domain:
+ furiar rupaantar, vaastavik evam kaalpanik yaa sam evam visham ke yoga ke rup main vyakt kii ja sakati he.   X = X R  + i X I    {\displaystyle X=X_{R}+iX_{I}\!} yaa   X = X E  + X O    {\displaystyle X=X_{E}+X_{O}\!} 

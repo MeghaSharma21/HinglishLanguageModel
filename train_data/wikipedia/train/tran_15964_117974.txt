@@ -1,0 +1,99 @@
+ chaar saral rekhaon se ghiri band akruti ko chaturbhuj kehete hai. eucalidian samtal jyamiti main, chaturbhuj ek bahubhuj he jisamen chaar kinare or chaar sheersh hote hai.
+ "chaturbhuj " shabd kii utpatti do latin shabdon 'quadri', jiskaa arth he 'chaar kaa ek sanskaran', or 'latus', jiskaa arth he "bhujaa", se hui he.
+ chaturbhuj saral yaa jatil hote hai. saral chaturbhuj uttal yaa avatal hote hai.
+ ek saadhaaran chaturbhuj ABCD ke aantarik konon kaa yoga 360° hota he, arthath-
+   ∠ A + ∠ B + ∠ C + ∠ D = 360 ∘  .  {\displaystyle \angle A+\angle B+\angle C+\angle D=360^{\circ }.} 
+ yah aantarik kone yoga sutara × 180° dwaara praapt hota he. 
+ koi bhi chaturbhuj jo swa-pratichchhedi nahin he, ek saadhaaran chaturbhuj hota he.
+ uttal chaturbhuj
+ ek uttal chaturbhuj main, sabhi aantarik kone 180° se kam hote hai or donon vikarn chaturbhuj ke andar sthit hote hai.
+ aniyamit chaturbhuj : koi bhi bhujaayen samanaantar nahin hoti he.
+ samalamb chaturbhuj : sammukh bhujaaon kaa kam se kam ek yugma samanaantar hota he. samaantar chaturbhuj ek samalamb chaturbhuj hota he.
+ samdvibahu samalamb chaturbhuj : sammukh bhujaaon kaa kam se kam ek yugma samanaantar hota he or aadhaar kone maap main baraabar hote hai. vaikalpik paribhaasha ke anusaar, yah samaan lambaai ke vikarnon vaala samalamb chaturbhuj hota he.
+ samaantar chaturbhuj : samanaantar bhujaaon ke do yugmon vaala ek chaturbhuj. aisa chaturbhuj, jisamen sammukh bhujaayen baraabar; sammukh kone baraabar; yaa vikarn ek duusare ko samdvibhajit karte hai. samachatubhuj samaantar chaturbhuj hote hai.
+ samachatubhuj : sabhi chaaron bhujaayen samaan hoti hai or donon vikarn ek duusare ko lamb-samdvibhajit karte hai. varg, ek samachatubhuj hota he.
+ aayat : sammukh bhujaayen samaan hoti hai, chaaron kone samakon hote hai, vikarn ek duusare ko samdvibhajit karte hai or lambaai main baraabar hote hai. varg, ek aayat hota he.
+ varg : sabhi chaaron bhujaayen samaan hoti hai, or chaaron kone samakon hote hai. sammukh bhujaayen samanaantar hoti hai, vikarn ek duusare ko samdvibhajit karte hai or samaan lambaai ke hote hai. ek chaturbhuj ek varg hoga yadi vah ek samachatubhuj bhi ho or ek aayat bhi.
+ patangakaar chaturbhuj : asann bhujaaon ke do yugma baraabar lambaai ke hote hai. taatpary yah he ki iskaa ek vikarn, chaturbhuj ko do sarvangasam tribhujon main vibhajit karata he, or isliye samaan bhujaaon ke do yugmo ke bich ke kone baraabar hote hai. iske donon vikarn ek duusare ke lambavat hote hai.
+ sparshi chaturbhuj : chaaron bhujaayen ek antahvrutt kii sparsh rekhaaen hoti hai. ek uttal chaturbhuj, ek chakree chaturbhuj hoga yadi isaki sammukh bhujaaon kaa yoga samaan ho.
+ chakree chaturbhuj : chaturbhuj ke chaaron sheersh ek parivritt par sthit hote hai. ek uttal chaturbhuj, chakree hoga yadi uske sammukh konon kaa yoga 180° ho.
+ avatal chaturbhuj
+ ek avatal chaturbhuj main, ek aantarik kone 180° se bada hota he or donon vikarnon main se ek vikarn, chaturbhuj ke baahar sthit hota he.
+ aisa chaturbhuj, jo swayan ko pratichchhed kare, jatil chaturbhuj kehalaata he.
+ vikarn : chaturbhuj ke do vikarn hote hai, jo vipareet shirshon ko jodate hai.
+ dvimadhyikaaye : ek uttal chaturbhuj main do dvimadhyikaaye hoti hai jo vipareet bhujaaon ke madhya binduon ko jodatii hai. ye donon, chaturbhuj ke cendrak par pratichchhed karti hai.
+ ek uttal chaturbhuj ABCD jisamen bhujaayen a = AB, b = BC, c = CD and d = DA hai, kaa kshetrafal gyaat karne ke liye vibhinn saamaanya sutara hai.
+ trikoshmetiya sutara
+ kisi chaturbhuj kaa kshetrafal   K  {\displaystyle K}, trikoshmetiya padon main nimna prakaar vyakt kiya ja saktaa he-
+   K =  1 2  p q ⋅ sin ⁡ θ,  {\displaystyle K={\tfrac {1}{2}}pq\cdot \sin \theta ,} 
+ jahaan   p  {\displaystyle p} or   q  {\displaystyle q} vikarnon kii lambaaiyaan hai or unke bich kone   θ  {\displaystyle \theta } he.
+ chaturbhuj kaa kshetrafal, isaki dvimadhyikaon ke padon main bhi vyakt kiya ja saktaa he-
+   K = m n ⋅ sin ⁡ φ,  {\displaystyle K=mn\cdot \sin \varphi ,} 
+ jahaan   m  {\displaystyle m} or   n  {\displaystyle n}, chaturbhuj kii dvimadhyikaon kii lambaaiyaan hai or unke bich kaa kone   φ  {\displaystyle \varphi } he.
+ bratsnidar kaa sutara, chaturbhuj kii bhujaaon or do vipareet konon ke sandarbh main kshetrafal ko vyakt karata he:
+     K  =    −  1 2  a b c d      =    − a b c d      {\displaystyle {\begin{aligned}K&={\sqrt {-{\tfrac {1}{2}}abcd\;}}\\&={\sqrt {-abcd\left}}\end{aligned}}} 
+ jahaan   a, b, c, d  {\displaystyle a,b,c,d}  chaturbhuj kii bhujaayen hai or   s  {\displaystyle s} chaturbhuj kaa arddh parimaap he, or   A  {\displaystyle A} or   C  {\displaystyle C} do vipareet kone hai.
+ bhujaaon or konon ke padon main ek or kshetrafal kaa sutara, jahaan kone   C  {\displaystyle C}, bhujaaon b or c ke madhya, or kone   A  {\displaystyle A}, bhujaaon a or d ke bich kaa kone he.
+   K =  1 2  a d ⋅ sin ⁡ A +  1 2  b c ⋅ sin ⁡ C .  {\displaystyle K={\tfrac {1}{2}}ad\cdot \sin {A}+{\tfrac {1}{2}}bc\cdot \sin {C}.} 
+ chakree chaturbhuj ke liye, sutara nimna hota he-
+   K =  1 2   sin ⁡ A .  {\displaystyle K={\tfrac {1}{2}}\sin {A}.} 
+ samaantar chaturbhuj ke liye, yah sutara nimna hota he-
+   K = a b ⋅ sin ⁡ A .  {\displaystyle K=ab\cdot \sin {A}.} 
+ vaikalpik rup se, ham chaturbhuj kii bhujaaon or vikarnon ke madhya kone θ ke padon main kshetrafal kaa sutara nimna prakaar likh sakate hai-
+   K =   | tan ⁡ θ |  4  ⋅ |  a 2  + c 2  − b 2  − d 2  | .  {\displaystyle K={\frac {|\tan \theta |}{4}}\cdot \left|a^{2}+c^{2}-b^{2}-d^{2}\right|.} 
+ samaantar chaturbhuj ke liye, yah sutara nimna hota he-
+   K =  1 2   | tan ⁡ θ | ⋅ |  a 2  − b 2  | .  {\displaystyle K={\tfrac {1}{2}}|\tan \theta |\cdot \left|a^{2}-b^{2}\right|.} 
+ bhujaaon   a, b, c, d  {\displaystyle a,b,c,d} vaale chaturbhuj ke kshetrafal kaa ek anya sutara-
+   K =  1 4    − 4 x 2  ) − 4 x 2  )  sin ⁡ φ  {\displaystyle K={\tfrac {1}{4}}{\sqrt {-4x^{2})-4x^{2})}}\sin {\varphi }} 
+ jahaan   x  {\displaystyle x}, vikarnon ke madhyabinduon ke bich kii duuri he or   φ  {\displaystyle \varphi } dvimadhyikaon ke bich kaa kone he.
+ bhujaaon   a, b, c, d  {\displaystyle a,b,c,d} or bhujaaon   a  {\displaystyle a} tathaa   b  {\displaystyle b} ke bich kone   α  {\displaystyle \alpha } vaale chaturbhuj ke kshetrafal ke liye antim trikoshmetiya sutara nimna he: 
+   K =  1 2  a b ⋅ sin ⁡ α +  1 4   4 c 2  d 2  −  2  ,  {\displaystyle K={\tfrac {1}{2}}ab\cdot \sin {\alpha }+{\tfrac {1}{4}}{\sqrt {4c^{2}d^{2}-^{2}}},} 
+ is sutara ko avatal chaturbhuj ke kshetrafal ke liye bhi istemaal kiya ja saktaa he, bas pehle + chihn ko - se badalanaa hoga.
+ gaiyr-trikoshmetiya sutara
+ nimnlikhit donon sutara bhujaaon a, b, c, d, ardhparimaap s tathaa vikarnon p va q ke padon main kshetrafal vyakt karte hai-
+   K =    −  1 4   ,  {\displaystyle K={\sqrt {-{\tfrac {1}{4}}}},} 
+   K =  1 4   4 p 2  q 2  −   2   .  {\displaystyle K={\tfrac {1}{4}}{\sqrt {4p^{2}q^{2}-\left^{2}}}.} 
+ dvimadhyikaon m, n or vikarnon p, q ke padon main bhi kshetrafal kaa sutara vyakt kiya ja saktaa he-
+   K =  1 2     ,  {\displaystyle K={\tfrac {1}{2}}{\sqrt {}},} 
+   K =  1 2    p 2  q 2  −  2   .  {\displaystyle K={\tfrac {1}{2}}{\sqrt {p^{2}q^{2}-^{2}}}.} 
+ vastav main, kshetrafal ke liye m, n, p tathaa q main se koi teen maan hi paryaapt hai kyonki kisi chaturbhuj main ye chaaron maan nimna prakaar sambandhit hote hai-   p 2  + q 2  = 2 .  {\displaystyle p^{2}+q^{2}=2.} 
+ atah is sutara main kinhin teen kaa maan rakhkar, chauthe char kaa maan aasaani se praapt kiya ja saktaa he. tab, teen kinhin padon main chaturbhuj ke kshetrafal kaa sutara nimna he-
+   K =  1 2    ⋅ ,  {\displaystyle K={\tfrac {1}{2}}{\sqrt {\cdot }},} 
+   K =  1 4    ⋅ ,  {\displaystyle K={\tfrac {1}{4}}{\sqrt {\cdot }},} 
+ sadish sutara
+ kisi chaturbhuj ABCD kaa kshetrafal, sadishon kaa prayog karke praapt kiya ja saktaa he. mana sadish AC or BD kramshah A se C or B se D tak ke vikarn hai. tab chaturbhuj kaa kshetrafal nimna hoga:
+   K =  1 2   |  A C × B D  |,  {\displaystyle K={\tfrac {1}{2}}|\mathbf {AC} \times \mathbf {BD} |,} 
+ jo sadishon AC or BD ke sadish gunan ke pariman kaa aadha he. dwi-vimiya eucalidian jyamiti main, kartiya tal main ek mukt sadish ke rup main sadish AC ko or sadish BD ko vyakt karne par, ise nimna prakaar likhaa ja saktaa he:
+   K =  1 2   |  x 1  y 2  − x 2  y 1  | .  {\displaystyle K={\tfrac {1}{2}}|x_{1}y_{2}-x_{2}y_{1}|.} 
+ kuch chaturbhujon main vikarnon ke gun
+ nimna sarini main soochibaddh he ki kuch saamaanya chaturbhujon main vikarn ek-duusare ko vibhajit karte hai yaa nahin, unke vikarn lambavat hai yaa nahin, or unke vikarnon kii lambaai baraabar he yaa nahin.
+ vikarn
+ vikarn
+ vikarn
+ note 1: sabase saamaanya samalambon or dwisambahu samalambon main lambavat vikarn nahin hote hai, lekin kai aise asmaan samalamb or dwisambahu samalamb hote hai jinamein lambavat vikarn hote hai. aise chaturbhujon kaa koi nishchit naam nahin hota.
+ note 2: patangakaar chaturbhuj main, ek vikarn duusare vikarn ko samdvibhajit karata he. saamaanya patangakaar chaturbhujon main asmaan vikarn hote hai, lekin kai aise patangakaar chaturbhuj hote hai jinamein vikarnon kii lambaai baraabar hoti he.
+ vikarnon kii lambaai
+ ek uttal chaturbhuj ABCD main vikarnon kii lambaai, ek vikarn dwaara banaae gaye prayek tribhuj par kojya niyam tathaa chaturbhuj kii kinhin do bhujaaon kaa upyog karke gyaat kii ja sakati he. is prakaar
+   p =  a 2  + b 2  − 2 a b cos ⁡ B  =  c 2  + d 2  − 2 c d cos ⁡ D   {\displaystyle p={\sqrt {a^{2}+b^{2}-2ab\cos {B}}}={\sqrt {c^{2}+d^{2}-2cd\cos {D}}}} 
+ tathaa 
+   q =  a 2  + d 2  − 2 a d cos ⁡ A  =  b 2  + c 2  − 2 b c cos ⁡ C  .  {\displaystyle q={\sqrt {a^{2}+d^{2}-2ad\cos {A}}}={\sqrt {b^{2}+c^{2}-2bc\cos {C}}}.} 
+ chaturbhuj ke vikarnon kii lambaaiyaan gyaat karne ke liye anya sutara:
+   p =    − 2 a b c d  a b + c d    {\displaystyle p={\sqrt {\frac {-2abcd}{ab+cd}}}} 
+ tathaa
+   q =    − 2 a b c d  a d + b c   .  {\displaystyle q={\sqrt {\frac {-2abcd}{ad+bc}}}.} 
+ samaantar chaturbhuj niyam kaa samanyikaran or taalmi kii prameya
+ kisi uttal chaturbhuj ABCD main, chaaron bhujaaon ke virgon kaa yoga, donon vikarnon ke virgon or vikarnon ke madhya binduon ko jodne vaale rekhakhand ke varg ke yoga ke baraabar hota he. is prakaar
+    a 2  + b 2  + c 2  + d 2  = p 2  + q 2  + 4 x 2   {\displaystyle a^{2}+b^{2}+c^{2}+d^{2}=p^{2}+q^{2}+4x^{2}} 
+ jahaan   x  {\displaystyle x}, vikarnon ke madhyabinduon ke bich kii duuri he. ise ular kii chaturbhuj prameya ke rup main janaa jaataa he or yahi samaantar chaturbhuj niyam kaa samanyikaran hota he.
+ german ganitagya karl anton bratsnidar ne 1842 main tolmi ke prameya ke samanyikaran ko bataaya-
+    p 2  q 2  = a 2  c 2  + b 2  d 2  − 2 a b c d cos ⁡  .  {\displaystyle p^{2}q^{2}=a^{2}c^{2}+b^{2}d^{2}-2abcd\cos {}.} 
+ is sambandh ko chaturbhuj ke liye kojya niyam mana ja saktaa he. chakree chaturbhuj main, jahaan A + C = 180°, yah sutara   p q = a c + b d  {\displaystyle pq=ac+bd} hota he. chunki cos ≥ −1, yah tolmi kii asamanta kaa pramaan bhi detaa he.
+ anya sambandh
+ chaturbhuj   A B C D  {\displaystyle ABCD} main, yadi X or Y, kramshah B or D se vikarn AC = p par daale gaye abhilambon ke paad hon, jahaan   a = A B, b = B C, c = C D, d = D A  {\displaystyle a=AB,b=BC,c=CD,d=DA}, tab
+   X Y =   |  a 2  + c 2  − b 2  − d 2  |  2 p  .  {\displaystyle XY={\frac {|a^{2}+c^{2}-b^{2}-d^{2}|}{2p}}.} 
+ ek uttal chaturbhuj ABCD main, jahaan bhujaa a = AB, b = BC, c = CD, d = DA hon, or uske vikarn bindu E par pratichchhed karen, tab
+   e f g h  =   {\displaystyle efgh=} 
+ jahaan   e = A E, f = B E, g = C E, a n d h = D E .  {\displaystyle e=AE,f=BE,g=CE,andh=DE.} 
+ ek uttal chaturbhuj kii akruti or aakaar, uski bhujaaon or kinhin do sammukh shirshon ke bich ke vikarn kii lambaai se nirdhaarit hota he. chaturbhuj ke vikarn p, q or chaaron bhujaayen a, b, c, d keli-menger saaranik dwaara nimnanusaar sambandhit hai:
+   det   = 0.  {\displaystyle \det {\begin{bmatrix}0&a^{2}&p^{2}&d^{2}&1\\a^{2}&0&b^{2}&q^{2}&1\\p^{2}&b^{2}&0&c^{2}&1\\d^{2}&q^{2}&c^{2}&0&1\\1&1&1&1&0\end{bmatrix}}=0.} 
+ chaturbhuj ke ek padanukramik vargeekaran ko dayee ore akruti main chitrit kiya gaya he. nimna varg, ucch virgon ke vishesh rup hai jinase ve jude hue hai.

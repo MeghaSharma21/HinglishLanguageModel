@@ -1,0 +1,8 @@
+ ganit main parimit antaron kii vidhiyaan un aankik vidhiyon ko kehete hai jo avakal samikarnon ke hal ke sannictikaran ke liye vibhinn avkaljon ke sthaan par parimit antaron kaa upyog karatin hai.
+ udhaaharan ke liye nimnlikhit saamaanya avakal sameekaran ko lete hai-
+ ular kii aankik vidhi nimnlikhit parimit antar bhinn kaa upyog karti he
+ isko u' ke sthaan par rakhane or thodaa saral karne ke baad,
+ yah ek parimit antar sameekaran (finite-difference equation]] he. iskaa hal hi mul avakal sameekaran kaa sannikat hal kehalaata he.
+ forward difference ke rup main:
+ Backward difference ke rup main:
+ Central difference ke rup main:

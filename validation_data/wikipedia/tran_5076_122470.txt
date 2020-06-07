@@ -1,0 +1,73 @@
+ 
+ orecle korporation redwood city, california, sanyukt rajya america main mukhyalay ek america bahurashtriya computer takanic nigam he| database prabandhan pranali kii vishesh rup se apane swayan ke brands - company computer hardware system or udhyam software utpaadon ke vikaas or vipanan main maahir hai| orecle microsoft ke baad, rajasav se duusari sabase badi software nirmaataa he| 
+ company ne yah bhi madhyam stareey software ke databes ke vikaas or pranaaliyon ke liye upkarnon banaata he, udhyam sansaadhan yojana software, graahak sambandh prabandhan software or aapurti shrinkhalaa prabandhan software| 
+ laire ellison, orecle ke sah sansthaapak, apane puure itihaas main orecle ke siio ke rup main kaary kiya he| unhone yah bhi 2004 main jeffri o henle ne apane pratisthaapan jab tak board ke adhyaksh ke rup main kaary kiya| 22 agast 2008 ko, associated press duniya main sheersh vetan paane vaale mukhya kaaryakari ke rup main ellison sthaan par raheen|
+ ellison namit sambandhparak database prabandhan pranali par edgar epa Codd dwaara likhit 1970 kaagaj se prerana lee " bade saajha data bank ke liye data kaa ek relational model | "unhone se ibiem system aar database ke bare main suna aid oats dwaara pradaan ibiem research jarnal main ek lekh | system anusandhan bhi Codd ke siddhanton se vyutpann, or ellison system ke saath R orecle ke utpaada sangat bananaa chaahate the, lekin ibiem unke dibmes rahasy ke liye truti code rakhane ke dwaara is band kar diya | ellison naam software vikaas prayogshaalaon ke tahat bob khan or aid oats ke saath 1977 main orecle korporation sah kii sthapana kii | 1979 main esadl relational software, ink ke liye iskaa naam badal diya he|1982 main, aresai orecle system karporation apane pramukh utpaada orecle databes ke saath adhik nikatataa se hi pankti main hi rakhaa gaya| is str par bob kii khan main company ke varisht programmer ke rup main seva kii| 1995 main, orecle system nigam orecle korporation ke liye iskaa naam badal diya he|] company ke aadhikarik taur par orecle naam he, lekin kabhi kabhi vastav main holding company kaa naam he jo orecle korporation, ke rup main janaa jaataa he |
+ orecle korporation kii shuruaati safalataa kaa ek hissaa apane utpaadon ko lagu karne ke liye si programing bhashaa ke upyog se paidaa hui | is alag oparating system ke liye porting dheel|
+ 
+ 1970 ke dashak
+ • 16 june 1977 : software vikaas prayogshaalaon laire ellison, bob khan or aid oats ne santa clara, california main shaamil kiya he|
+ • 1978: vidhansabha bhashaa main likhaa orecle sanskaran 1, smriti kii 128K main, RSX -11 ke tahat pidipi 11 par chalaata he| karyanvayan upyogkarta code se orecle code alag karti he| orecle V1 aadhikarik taur par kabhi nahin jari kiya he | naam orecle sansthaapakon sabhi Ampex nigam par he jabaki par kaam kiya tha jo ek siie pariyojna ke code naam se aata he|
+ • june 1979: esadl relational software ink ko naam diya gaya he or california ret hill road, menlo park, ke liye jagah badali | orecle 2, orecle databes software ke pehle sanskaran, rhite patterson air force base se kharidi ke rup main, pidipi -11 hardware par chalaata he| company yah graahakon ko apane utpaada kii praarambhik relies kharidne main sankoch ho saktaa he kyonki unka maananaa ​​he balki "sanskaran 1" se apane pramukh utpaada "sanskaran 2 " ke pehle sanskaran kaa naam kaa faisla kiya| 
+ • oktober 1979 : RSI sakriy rup VAX manch par orecle ko badhaava detaa he |
+ 1980 ke dashak
+ • 1981: umang gupta vah company ke liye pehali baar vyapaar kii yojana likhte hai or upaadhyaksh or general manager ke rup main kaary karata he jahaan aresai, main milti he|
+ • farvari 1981: RSI interective aavedan kii suvidha, orecle * form ko ek purvavarti sahit orecle databes ke liye upkaran, vikasshil shuru hota he|
+ • 1982 : RSI apni praathmik utpaada ke saath adhik nikatataa hi pankti ke kram main hi orecle system nigam kaa naam badalata he |
+ • march 1983 : orecle databes portability ke liye si main likhe or orecle sanskaran 3 jari kii he |
+ • april 1984 : orecle sikoiya capital se atirikt dhan praapt karata he|
+ • oktober 1984 : orecle sanskaran 4 padhaa sthirataa ko shuru, jari kii he |
+ • november 1984 : orecle databes software pisi manch par rakhi he | orecle ke emes dos sanskaran keval 512K smriti kii main chalaata he| 
+ • april 1985 : orecle sanskaran 5 jari kii he - client sarwar mod main sanchalit karne ke liye pehali RDBMSs main se ek |
+ • 1986: orecle sanskaran 5|1 vitarit prashnon ke liye samarthan ke saath jari he | clustering kii jaanch shuru karte hai|• 12 march 1986 : orecle $ 55000000 kaa rajasav saath saarvajanik ho jaataa he|
+ • agast 1987: orecle baariki se apane database software ke saath ekikrut vyapaar prabandhan software ke nirmaan, uske aavedan prabhag founds | orecle apni pariyojna prabandhan software ke liye tisiai praapt|
+ • 1988: orecle sanskaran 6 pankti str loking or garm byaap ke liye samarthan ke saath jari he | developers ke database main pi el / escuel prakriyaatmak bhashaa ingine ambeded lekin aisi prakriyaaon ke rup main kaarykram blokon store karne ke liye koi praavdhaan nahin kiye gaye or database main chalaata he - is kshamta 7 sanskaran main aayaa tha | upyogkartaaon ko escuel * plus, yaa ek mejabaan kaarykram main ambeded escuel bayaan ke madhyam ke rup main ek vaataavaran se sarwar main tatkaal nishpaadan ke liye pi el / escuel block prastut saktaa he| orecle main alag pi el / escuel ingine shaamil vibhinn client upkaran |
+ • 1989: orecle redwood shors, california ke liye apane vishwa mukhyalay le jaataa he| rajasav $ 584000000 tak pahunchne |
+ 1990 ke dashak
+ • 1990: teesri timahi main, orecle iske pehle kabhi nuksaan kii report he, yah karmchaariyon ke saikadon band detaa he | ellison orecle america ke raashtrapati, CFO ke rup main jeffri o henle or sioo ke rup main remand je len ke rup main maaikel es fields kaam detaa he |
+ • june 1992: orecle 7 pradarshan sanvardhan, prashasnic upyogitaaon, aavedan vikaas upkaran, suraksha suvidhaon, sangrahit prakriyaaon or trigar ke rup main database main pi el / escuel kaarykram ikaayiyon batch karne kii kshamta he or kathatmak referential akhandta ke liye samarthan ke saath jari he |
+ • 1993: orecle orecle prapatr, report, graphics, or book bandalon jo apane ' sahakaari vikaas paryaavaran ", vijyapti|
+ • 1994: orecle digital upkaran nigam se database utpaada disambar Rdb praapt| orecle Rdb keval OpenVMS manch par chal rahi he|
+ • 1 june 1995 : orecle system corporation ne orecle pranaaliyon nigam main orecle corporation ke vilay kii ghoshnaa kii| is len - dein holding company sanrachana samaapt or public holding company, orecle system karporation ke saath, oparating company, orecle korporation streamlines | vilay ke bhaag ke rup main, orecle system nigam orecle korporation kaa naam or ek delaware nigam ke rup main shaamil jivit ikai he |
+ • 21 june 1995 : orecle corporation samanaantar prashnon sahit nae data bhandaaran suvidhaon kii ghoshnaa kii|
+ • november 1995 : orecle ellison paris main ek idisi sammelan main network computer avadharana parichay jab ek internet ranneeti kii ghoshnaa karne ke pehle badi software companiyon main se ek ho jaataa he|
+ • 1996: orecle orecle PowerBrowser ke web brouzar vijyapti|
+ • april 1997 : orecle jaanch ke pehle sanskaran relies |
+ • june 1997: orecle 8 escuel vastu praudyogiki, internet praudyogiki or data ke terabytes ke liye samarthan ke saath jari he |
+ • sitambar 1997 : orecle corporation java manch ke liye ek patibaddhta kii ghoshnaa kii, or orecle ke java ekikrut vikaas ke vaataavaran kaa parichay, baad main orecle JDeveloper kaha jaataa he |
+ • janvari 1998: orecle anuprayog 10|7 network computing vaastukala vijyapti| vyapaar software ke sabhi aavedan ab ek maanak web brouzar main web ke paar chalaa |
+ • may 1998 : orecle corporation ne orecle anuprayog 11 vijyapti|
+ • april 1998 : orecle yah orecle databes ke saath ek java virtual mashin kaa ekikaran karegaa ki ghoshnaa kii|
+ • sitambar 1998 : orecle 8i jari kii he |
+ • oktober 1998 : orecle 8 or orecle anuprayog sarwar 4|0 linaks manch par jari kar rahe hai |
+ • may 1999 : orecle java ke liye vyapaar ghatakon, database jaagruk anuprayogon ke nirmaan ke liye pustakaalayon or vikaas upkarnon kaa ek set ke pradarshan, JDeveloper 2|0 relies|
+ 2000 ke dashak
+ • 2000: oraclapanobile sahaayak sthapit kiya gaya he | orekal 9 ai or anuprayog sarwar jari kii he | may main, orecle orecle saamagree prabandhan esadike ke rup main phir se branded baad main, internet fil system kii ghoshnaa kii|
+ • 2001: ellison orecle apane swayan ke vyavsaayik anuprayogon ko lagu karne or kaa upyog tak 1 arab dollar bachaaya ghoshnaa kii he ki |
+ • 2004: orecle jari kii he |
+ • 13 disambar 2004 : pipulsoft ke niyantran ko lekar ek lambii ladaai ke baad, orecle iske liye pipulsoft praapt karne ke liye ek samjhaute par hastakshar kiye hai kii ghoshnaa prati share $ 26I50 I
+ • 14 janvari 2005 : orecle corporation ne yah 50,000, pipulsoft kaa qabza karnaa nimna lagbhag 5,000 kii kami karne ke liye apane sanyukt kaarybal kam ho jayega kii ghoshnaa kitti
+ • sitambar 2005 : orecle corporation yah ek nakadi kii peshkash ke madhyam se, nijee company global rasad technologies, Inc, rasad or parivahan prabandhan software ke samaadhaan kaa ek vaishvik pradaata ke adhigrahan ke liye sahamat ho gaya he kii ghoshnaa kitti
+ • 12 sitambar 2005 : orecle corporation $ 5I8 bilian sibel systams, siaram praudyogikiyon ke ek nirmaataa or vyapaar khufia software kii ek pradaata, kii apni kharid kii ghoshnaa kitti
+ • 18 oktober 2005 : orecle database password prabandhan main ek gambhir suraksha bhedyata bina santhaan ke joshua rhite or landan vishvavidhyalay ke carlos siaidi ​​dwaara prakashit kiya jaataa he orecle korporation suraksha upayon ke maujuuda or nimna acha udyog prathaon paryaapt garh the ki javabali haii orecle 2007 main 11 ji dibmes kii apni rihaai tak antarnihit suraksha chhed band nahin kiya I
+ • 12 april 2006 :, prati share $ 4I90 par sanchaar or media udyog ke liye billing or rajasav prabandhan samaadhaan ke ek vaishvik pradaata, yaa : orecle korporation portal software, Inc ke adhigrahan kii ghoshnaa lagbhag 220,000,000 $ I
+ • 25 oktober 2006 : orecle corporation atoot linaks kii ghoshnaa kitti
+ • 2 navambar 2006 : prati share $ 13I50, yaa lagbhag liye ek nakadi nivida peshkash ke madhyam se,, udhyam saamagree prabandhan software samaadhaan ke ek vaishvik pradaata orecle korporation yah Stellent, ink ke adhigrahan ke liye sahamat ho gaya he kii ghoshnaa 440,000,000 $ I
+ • 15 disambar 2006 : MetaSolv stockholders ke adhikansh MetaSolv software, sanchaar udyog ke liye aaparishan samarthan pranali ke ek pradaata software kaa orecle ke adhigrahan ko manjuuri di I
+ • 2007: orecle 11 ji jari kii he I
+ • 1 march 2007 : prati share $ 52I00, yaa lagbhag $ 3300000000 ke liye ek nakadi nivida peshkash ke madhyam se :, pradarshan prabandhan software samaadhaan ke ek vaishvik pradaata, orecle hiperine samaadhaan nigam ko kharidne ke liye ek samjhaute kii ghoshnaa kitti adhigrahan aadhikarik taur par 1 july 2007 ko hui thi I
+ • 22 march 2007 : I orecle kadachaar or anuchit pratispardhaa ke liye california adaalaton main, ek pramukh pratidwandvi, sap agi ke khilaaf ek adaalat ne maamle filein
+ • 15 may 2007 orecle chanchal software nigam kharidta he
+ • 16 oktober 2007 : orecle fusion anuprayog ranneeti kii yojana banaai jari he or bhavishya ke vishay main sawaal uthaane, jon Wookey, anuprayog vikaas or uske aavedan ranneeti ke sir ke liye varisht upaadhyaksh ke asann prasthaan kii pushti karata he I
+ • 16 janvari 2008 : " I nakadi kii $ 7200000000 net " orecle yah kii kul ke liye prati share nakad main $ 19I375 ke liye BEA system khareednaa hoga kii ghoshnaa
+ • 24 sitambar 2008 : I orecle yah himachal pradesh orecle databes mashin naam ke ek sah viksit or sah branded data godaam upkaran main sarwar or bhandaaran bazaar hoga kii ghoshnaa
+ 2010 ke dashak
+ • 27 janvari 2010 : orecle san microsystems kaa adhigrahan kiyaati
+ • 17 march 2010 : I orecle enterprize prabandhak ops centre, shaareerik or abhaasi surya ke vaataavaran ke prabandhan ke liye ek manch kii shuruuaat 
+ • 16 april 2010 : I orecle lagbhag $ 685000000 ke liye charan forward praapt karne ke liye sahamat hai
+ • july 5, 2010: I mexico vikaas centre mexican Sillicon ghati ke rup main janaa Guadalajara, Jalisco, main karyaalayon ke saath sanchalit karne ke liye shuru hota he 
+ • 29 july 2010 : I orecle america nyaay vibhaag dwaara dhokhadhadi ke liye doshi paaya gaya he,
+ • 23 navambar 2010 : I orekal sap ke khilaaf $ 1300000000 mukadmaa jeet - orecle software kaa aseem or avaidh rup se downlod karne kaa aarope lagaaya gaya tha jo apni ikai TomorrowNow, ke galat kaam sweekaar karte hue itihaas main sabase badi software chori nirnay, esaypi main kami chahta he juri puraskaar I
+ • 24 march 2011 : I orecle gaiyr GAAP kul rajasav 36 % $ 8I8 arab thi, jabaki vitt varsh 2011 Q3 GAAP kul rajasav, upar 37 % $ 8I8 arab the ghoshnaa 
+ • oktober 2011 : I orecle korporation badal sevaaon ko majboot karne ke liye 1I5 arab dollar ke liye RightNow technologies ink kaa adhigrahan 
+ • 9 farvari 2012 : I orecle pratibha prabandhan utpaadon or sevaaon ko jodne ke liye 1900000000 $ ke liye Taleo ke adhigrahan kii ghoshnaa kii

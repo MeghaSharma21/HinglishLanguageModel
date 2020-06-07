@@ -1,0 +1,45 @@
+ CS5 
+ adobi elstritor adob systams dwaara viksit or vipanit vector graphix editor he.
+ naveenatam sanskaran, elstritor CS5, utpaada shrankhla kii pandrahavin peedi he.
+ adobi elstritor pehle pahal adobi ke aantarik font deveopmentsoftware or postscriptfil formet ke vyavsyeekaran ke rup main 1986 main appal macintosh ke liye viksit kiya gaya tha.
+ haalanki iske pehle dashak ke dauraan adobi ne mukhya rup se macintosh ke liye elstritor viksit kiya, chhitput rup se yah anya platefarm ko samarthan detaa rahaa. 1990 ke dashak ke prarambh main, adobi ne enexti, silicon graphix aiarex or san solaaris platefarm ke liye elstritor ke sanskaran jari kiye lekin bazaar kii pratikriya utsahjanak na hone ke kaaran ise band karnaa padaa.
+  
+ vyapak rup se aalochana kii gai. haalanki sanskaran 4 purvavlokan rup main sampadan kaa samarthan karne vaala, elstritor kaa pehla sanskaran tha jo 1993 main 5.0 tak macintosh sanskaran main nahin aayaa tha.
+ 1996 main elstritor 6 kii shuruyaat ke saath, adobi ne path sampadan ke sambandh main upyogkarta interfes main mahatvapurn parivartan kiye or kai upyogkartaaon ne unnayan sweekaar nahin kiya. elstritor tru tip kaa bhi samarthan karne laga jisase postscripttip 1 or tru tip ke bich "font yuddh" kaafii had tak vivaadaaspad ban gaya.
+ windos main macintosh sanskaran kii tru ports jo
+  1997 main sanskaran 7 ke saath shuru huin diziner antat elstritor ko manakikrut kar sake. 1996 ke ant main corel ne coreldro 6.0 ko macintosh main port to kiya lekin yah bahut kam or bahut der se sweekaarya hua.
+ ko pasand karte the.
+ matrix kiya or drow kii ek "jeet" yah thi ki isane maanav agnyashay ke teen vibhinn clip art vyuu prastut kiye.
+ bhaag ke rup main freehand mecromedia ko bech diya .
+ shaktiyon main antar spasht karte hue, web publicing, restarizeshan purvavlokan,PDF or esaviji ko samarthan dene ke liye elstritor ko unnat kiya gaya. adobi ke band kiye ja chuke utpaada strimline ke samaan sanskaran 9 main anurekhan visheshta shaamil thi.
+ elstritor CS 3-aiami kshamtaaon vaala pehla sanskaran tha jisane upyogkartaaon ko saral 3D vastuon kii rachana ke liye aakaar ko baahar nikaalane yaa ghumaane kii anumati di.
+ elstritor CS2 kii nai visheshtaon main shaamil the live tres, live paint, control pallate or custom workaspes.
+ rang lagu karne kii adhik chhot detaa he.
+ CS3 main anya visheshtaon ke saath shaamil tha control baar ke interfes adhyatan, pruthak binduon ke sanrekhan kii kshamta, multiple crop ariaz, color guide panel or live color.
+ CS4 oktober 2008 main jari kiya gaya tha. isamen kuch ekadam nae tuls ke saath puraane tuls main kiye gaye anek sudhaar bhi shaamil hai.
+ CS5 april 2010 main jari kiya gaya tha. maujuuda kaaryakshmata main anek unnayan ke saath, elstritor CS5 kii nai visheshtaon main shaamil hai ek pariprekshya grid tul, ek brisl brush or stroke ke liye ek vyapak adhyatan jise adobi dwaara "sundar strokes" ke rup main sanderbhit kiya jaataa he.
+ sanskaran 1.0 ke saath shuru karke, adobi ne betman archive sesandro boticheli kii "da berth of venus" kii chhavi ko license dene ke liye or venus ke chehre ke bhaag ko elstritor kii branding chhavi ke rup main chunaa.
+ '
+ elstritor CS or CS2 main venus kii chhavi ko creative suut main prakritik chitrakaari ke anuroop banane ke liye kalatmak phool se badal diya gaya.
+ lagbhag samaan he. CS5 pratik chihn bhi vastutah vahi he, sivaay iske ki CS5 ke anya sabhi utpaada logo kii tarah logo ek box kii tarah he.
+ adobi elstritor main nimnlikhit bhashaayen shaamil hai: arabi, chini sarlikrut, chini paaramparik, check, danish, dach, angrezi, french, french, german, greek, hebrew, hungary, italvi, japani, korian, polish, romanian, roosi, spanish, spanish, swedish, turki, indonesia, ukraine.
+ adobi elstritor madhya purvi bhashaa roopaantar vinsoft international se uplabdh hai.
+ ek or sasta samaadhaan he metadizine solutions se indicaplus naamak ek tritiy paksh plag-in 
+ madhya purvi/hebrew or madhya purvi/arabi sanskaran vishesh rup se arabi or hebrew bhashaaon ke liye viksit kiye gaye hai.
+ lekin adobi elstritor ke is sanskaran kii laagat kaafii zyaada he. arabi or hebrew jaisi jatil lipiyon ko adobi elstritor ke saamaanya sanskaran par sakasham karne ke liye plag-in, indicaplus 
+ paryaapt he.
+ elstritor madhya purvi sanskaran arabi yaa hebrew paathya-vastu kii typing or leing out ke liye vishesh settings ke saath aate hai jaise:
+ kashidas kaa upyog 
+ vaikalpik rup se, uparyukt sab adobi elstritor ke liye bhashaayi plag-in indicaplus kaa upyog karke praapt kiya ja saktaa he.
+ elstritor madhya purvi sanskaran OS ke saath ke sabhi or saath hi madhya purvi kshetron main graphic dizineron ke dwaara vyapak rup se prayog kiye ja rahe tisare paksh ke font kaa badi sankhya main samarthan karte hai.
+  elstritor madhya purvi sanskaran ek atirikt font sthapit karata he jisase aap madhya purvi bhashaaon main apana kaam kar sakate hai:vinsoft pro, jo chaar shaileyon main uplabdh he madhyam, madhyam tirachha, bold or bold tirachha.
+  yah sab kaaryashiltaa saste saamaanya adobi elstritor sanskaran main indicaplus uplabdh he.
+ elstritor madhya purvi sanskaran yaa indicaplus plag-in vaale elstritor ke saamaanya sanskaran main daaen se baayen vyavhaar kii dharna kai vastuon par lagu hoti he: kahani, anuchhed or charitra. aap ek dastauez main daaen se baayen or baae se daaen shabd, anuchhed or aalekh kaa aasaani se mishran kar sakate hai.
+ elstritor madhya purvi arabi sanskaran main ek vyapak arabi shabdkosh he jisase pasandida niyamon ke saath jaise street aleef hamaza, strict final yaa, dono yaa koi nahin, arabi paathya-vastu kii vartanee kii jaanch kii ja sakati he.
+  elstritor madhya purvi sanskaran hebrew ke liye shabdkosh or haikenation modul ke saath aate hai. 
+ madhya purvi paathya-vastu kii vishisht aavritiyaan khojkar badali ja sakati hai. elstritor madhya purvi sanskaran main ek "lahaze par dhyaan na den" vikalp shaamil he. jaanch karne par upyogkarta paathya-vastu kii lambii shrankhla kii khoj kar saktaa he chaahe usamen koi lehza shaamil ho yaa nahin.
+ elstritor madhya purvi sanskaran main artieff, unicode, verde, freehand, coreldro, peedieff, esaviji, piesdi, ipies, iemef or dexf/deadbluji filon tathaa ke liye purvi madhya paathya-vastu ke liye iemef ipies aayaat or niryaat ke behtareen vikalp shaamil hai.
+ paathya-vastu ke aayaat or niryaat ko tathaa web or dexf/deadbluji fil aayaat ke liye sahejen suvidha sukar banane ke liye madhya purvi varnon main encoding jod diya gaya he.
+  
+ saanchaa:Vector graphics editors
+ saanchaa:AdobeCS

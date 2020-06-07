@@ -1,0 +1,9 @@
+ latech, tech naamak tipasetting program ke saath prayukt 'document markup bhashaa' tathaa 'dastavej nirmaan pranali' he. 'latech' se matlab us programmen bhashaa se he jisamen dastavej likhe jate hai, un sampaditron ko 'latech' nahin kehete jinaki sahaayta se ye dastavej likhe jate hai. latech main koi dastavej banane ke liye kisi bhi bhi text-sampaditr kii madad se .tex file taiyaar kar lee jaati he. 
+ shikshajagat main latech kaa khub upyog kiya jaataa he. latech kaa prayog isaliye upyogi he ki tech dwaara ucch gunvattta kii tipasetting praapt hoti he. yah tipasetting pranali programeble desktoff prakaashan kii suvidha pradaan karti he or tipasetting tathaa desktop prakaashan ke adhikansh pakshon ko isaki sahaayta se swachaalit banaaya ja saktaa he, jaise sankhyankan tathaa cross-sanderbhit karnaa, saraniyan, chitra, pej-leout, pustak-suchi aadi.
+ latech ek ucch stareey programmen bhashaa he jo tech kii kshamta kaa upyog karke ucch gunvattta kii tipasetting pradaan karti he. latech multah tech ke kuch macro ke samooh se bana he.
+ latech mulat: 1980 ke dashak ke aarmabhik varshon main likhaa gaya tha. samprati iskaa LaTeX2e sanskaran chal rahaa he.yah ek nickshulk uplabdh software he.
+ 
+ latech programmen bhashaa main devanagari lipi main bhi dastavej banaaye ja sakate hai. iske liye "devanagari" naamak sankul sthapit karnaa hota he. isko aasaan vidhi se likhane ke liye ek saralatam udhaaharan nimna he:
+ yah ek latex_devnag.dn naam se bani sanchika he:
+ ubantu athwa linaks prachaalan tantra main ise nimna vidhi se sanchalit karte havenubodhak> devnag latex_devnag.dnanuboXaka> pdflatex latex_devnag.tex
+ sankhyaon ko devanagari lipi main likhane ke liye .tex sanchika main {\dn 1 2 3 4 5 6 7 8 9 0} likhnaa hoga jo 1 2 3 4 5 6 7 8 9 0 ke rup main pradarshit hoga.

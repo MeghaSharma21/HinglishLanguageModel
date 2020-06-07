@@ -1,0 +1,28 @@
+ yahan sambandhit vastuon sahit rangon kii aanshik suchi di gai he. rang kaa naam evam rang sheershakon kii suchi bhi dekhen.yahan kripya dhyaan den ki neeche die gaye adhiktar rangon ke dhabbe computer prakshetra vishesh kii namakaran paddati se liye gaye hai. udhaahrantah X11 yaa HTML4 . prayek dhabbe ke liye laal haraa nila rang praturup yaa RGB maan die gaye hai, kyonki aise maanak sRGB varna vyom ke turm main paribhaashit kiye jate hai. in dhabbon main se kai dhabbon ko ko CMYK maan main parishuddh roopantaran karnaa, do rikt sthanon ke badale gamet ke kaaran; sambhav nahin he. parantu sanchaalan pranaaliyon evam chitra sampaadan softwaron main rang prabandhan pranaaliyon kaa samanvay; nikatatam yaa parishuddh parivartan yathasambhav prayasit he.HSV maan yani  evam shaddashamalav triplate bhi yahan sarini main die gaye hai. adholikhit rangon ke dhabbon ke yatharth rangon ke rup main bhi antar ho saktaa ha, jo ki kai paramitaron par nirbhar he, jaise ki; pradarshak upkaran, rang prabandhan kii sating evam aasapaas ke vaataavaran par nirbhar drushti yogyata.
+ dhyaan yogya he, ki rangon ke naam bhi echchhik va nikatatam hai, evam bhinn - bhinn logon, samskritiyon par nirbhar hai, aise ki koi ek bhi yahdhabb kisi rang vishesh kaa ekadam dhi nahin he. saath hi computer ke pradarshak patal kii bhi kuch simittaayen hai, atev kai rangeen rogan colorful pigments bhi patal par bilkul hi nahin dikhaae ja sakate hai. phir prakritik sansar kaa computer anukaran computer simulation bhi to ek kaccha sannictikaran hi he.
+ 
+ 
+ a aa i u uu e i o ou an k kha ga gha c chha ja jha t tha da dha t tha da dha na pa pha ba bha m ya r l va sha sha sa ha ksha tra jna ri
+ 
+ 
+ 
+ 
+ 
+ sabhi rangon kaa sangam hone par shwet rang banataa he . ise praayah varnheen samajha jaataa he . 
+ yah laal rang kaa parivartan he jo ki shwet rang milaane se banataa he . 
+ sampoorn prakaash main sarvaadhik tarangadairdhya vaali kirnon se maanvi aankh par banane vaala rang he [[laal} yaa rakt varna . yah lagbhag 625–750 nm ke andar hoti he . yah ek praathmik rang mana jaataa he . ise rakt varna bhi kehete hai.
+ yah pratyaksh spactrum ke pilaa evam laal rang ke bich main, lagbhag 585 - 620 nm ke tarang dairghy main miltaa he . HSV color space main yah 30º ke paas hota he .
+ yah laal, naarangi evam pile rang ke gahare shed main hota he . 
+ 
+ sampoorn prakaash main sarvaadhik tarangadairdhya vaali kirnon se maanvi aankh par banane vaala rang he [[laal} yaa rakt varna . yah lagbhag 570-580 nm ke andar hoti he . yah ek praathmik rang mana jaataa he . HSV color space main yah 60º ke paas hota he.
+ 
+ ye echromatic rang kaale evam safed ke bich hote hai . 
+ sampoorn prakaash main sarvaadhik tarangadairdhya vaali kirnon se maanvi aankh par banane vaala rang he haraa yaa rakt varna . yah lagbhag 520–570 nm ke andar hoti he . yah ek praathmik rang mana jaataa he . HSV color space main yah #0º ke paas hota he.'
+ yah pratyaksh spactrum ke nila evam haraa rang ke bich main, lagbhag 585 - 620 nm ke tarang dairghy main miltaa he . subtractive main yah praathmik rang mana jaataa he . 
+ sampoorn prakaash main sarvaadhik tarangadairdhya vaali kirnon se maanvi aankh par banane vaala rang he nila yaa rakt varna . yah lagbhag 440–490 nm ke andar hoti he . yah additive main ek praathmik rang mana jaataa he . HSV color space main yah #0º ke paas hota he.
+ yah pratyaksh spactrum ke nila evam haraa rang ke bich main, lagbhag 380-450 nm ke tarang dairghy main miltaa he. subtractive main yah praathmik rang mana jaataa he.
+ 
+ ye rang ve hote hai, jo ki adhiktar computer graphics roopankaaron dwaara prayog kiye jate hai, computer monitor par pradarshit karne ke liye.
+ 
+ sanyoji rang:nila     navy |lim     haraa |laal     marun —vyaklit rang:kyaan     tial |rani yaa fushia     purple |pilaa     jaitoon
+ naarangi     bhura |gulabi     bangnee —neutral rang:   rang |saleti yaa saleti     rupahala |   shwet

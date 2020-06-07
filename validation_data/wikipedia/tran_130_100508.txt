@@ -1,0 +1,5 @@
+ tarang vakreey vidhi kaa upyog asamika ko hal karne main kiy jaataa he. wcm ke prashno ko hal karte samay ek paksh shunya ho, pad guna main ho. yadi ek pad parimey he to dhyaan rahe ki har main shunya nahi aaye .
+  ≥ 0 ;  ≤ 0
+ → x = 3, 2 ; → x= -5, 6
+ praapt x ke maano ko sankhya rekha main rakhane par ek tarang khinchhte hai jo daayi ore se shuru karte hai . yadi pad ki ghaat visham he to tarang sankhya rekha ko praapt bindu par kaategi. yadi chinh ≥ he to sankhya rekh ke upar va us bindu ko lenge jis par tarang katati he. yadi chinh ≤ he to sankhya rekha ke neeche va us bindu ko lenge jis par tarang katati he. 
+ uttar dete samay yadi chinh ≥ he yaa ≤ he to uttar -∞ se praapt pratham bindu tak tathaa pratham bindu se duusare bindu tak phir +∞ tak denge.

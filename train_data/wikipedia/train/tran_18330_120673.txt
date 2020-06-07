@@ -1,0 +1,9 @@
+ bharat oparating system solutions ek linaks vitaran he, jo si-dack dwaara viksit kiya gaya he. yah software bos gnu/linaks yaa bos linaks ke naam se bhi janaa jaataa he. iskaa naveenatam sanskaran bos gnu/linaks sanskaran 3.0 he jo ki sitambar 2008 main jari kiya gaya tha.
+ is software package kaa ullekh bharat ke apane personal computer oparating system tathaa bhartiya software industry se nikle sarvaadhik sargarbhit utpaadake taur par kiya gaya he.
+ bharat sarkaar dwaara rashtriya str par abhigrahan or kriyanvayan ke liye is software kaa samarthan kiya gaya he.
+ bos gnu/linaks ek "el.es.bi. pramanit" linaks vitaran he, jise linaks maanak aadhaar main varnit maanakon ke saath anupaalit hone ke kaaran linaks foundation dwaara pramanit kiya ja chukaa he.
+ bos gnu/linaks, dibian se vyutpann he. dibian, linaks karnel kaa prayog karata he, lekin dibian ke adhikansh moolbhoot prachaalan tantra upkaran gnu pariyojna se aae hai; is tarah se "gnu/linaks" se "dibian" or "bos" jude hue hai. dibian gnu/linaks ek saamaanya prachaalan tantra kii tulana main zyada suvidhaayen pradaan karata he. yah lagbhag 18733 packejon se zyada main uplabdh he.bos gnu/linaks main lagbhag sabhi package shaamil hai. 
+ ek utpaada is arth main ek mukt software hota he, kyonki iskaa prayog mukt software foundation dwaara kiya jaataa he or iskaa vitaran gnu general public license ke tahat kiya jaataa he.
+ vartmaan samay main bos gnu/linaks ke naveenatam desktop sanskaran ko atharah bhartiya bhashaaon main loklij kiya ja chukaa he.
+ oktober 2008 bos gnu/linaks ke tak chaar mukhya sanskaran jari hue hai.
+ divakar mani 10:42, 5 janvari 2011 

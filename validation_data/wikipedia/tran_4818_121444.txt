@@ -1,0 +1,6 @@
+ bhavanipur rangarachowk, bhagalpur, bihar sthit ek gaanv he.
+ {{Navbox 
+ |name = rangarachowk prakhand ke gaanv |title = rangarachowk prakhand  ke gaanv |state = uncollapsed 
+ |list1  =  teentanga  •  baisi-jahangirpur  •  bhavanipur  •  madrauni-gobindpur-kausali  •  madrauni-pachhiyarital  •  madusudanpur  •  rangara  •  sadhua  •  sadhopur {{•}mrrl
+ }}
+ 

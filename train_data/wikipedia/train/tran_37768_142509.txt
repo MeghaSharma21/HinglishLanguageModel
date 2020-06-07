@@ -1,0 +1,14 @@
+ architekchar or sanrachana ejiniyari main trace ek aisi sanrachana hoti he jo ek yaa ek se adhik trikoniya ikaayiyon se milakar bani hoti he. ye ikaiyaan saral avyavon se bani hotin he or inke sire paraspar 'node' par jude hote hai. sabhi vahyabal or pratikriyaayein inhi nodon par lagate he or yahan se avyavon main tensil yaa compressive bal ke rup main prakat hote hai.
+ 'ekataleey trace' vah trace hoti he jiske sabhi avyav or node dwibemiya samtal main hote he jabaki 'spes trace' ke andar member or nodes tribim ke andar hote he.
+ trace ke andar plane memberz hote he jo kii jointo ke dwaara ek duusare se jude hote he. trace kaa aakar trikoniya isliye hota he kyukki es aakar ke andar sabase jayda sthirataa hoti he.
+ es trace ke andar vertical member compressant ko sehate he jabaki horizantal member ko.
+ en trasas kaa priyog archd bridjas me kiya jaataa he. duusare vishwa yudh ke dauraan iskaa kaafii priyog hua tha
+ Double chorded heavy timber truss with 80 foot clear span.
+ The Hong Kong Bank of China Tower 中銀大廈 has an externally visible truss structure.
+ The HSBC Main Building, Hong Kong has an externally visible truss structure.
+ Support structure under the Auckland Harbour Bridge.
+ The Auckland Harbour Bridge from Watchman Island, west of it.
+ A space truss carrying a floor in The Woodlands Mall.
+ Electricity pylon
+ simple tetrehidran
+ planer spes trace kaa chitra jo priyog kii jaati he makaano ke florce hisse me

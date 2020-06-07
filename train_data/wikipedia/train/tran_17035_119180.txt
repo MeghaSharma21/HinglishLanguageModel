@@ -1,0 +1,10 @@
+ maxwell ke sameekaran vidyutchumbakeey kshetron ke vyavhaar kii vyakhya karte hai. vidyut kshetra, vidyut visthaapan kshetra,, chumbakeey kshetra or chumbakeey kshetra kii tivrata chaar chumbakeey kshetra sadish hai. sadish E, D, B or H ke avkalaneey hone ke liye aavashyak he ki madhyam satat ho. 
+ kintu yadi kahin alag-alag vidyutshiltaa evam chumbakeey pargamyata vaale do madhyam milte hai to unke intervaprishth par vidyutchumbakeey kshetron kaa vyavhaar nimnlikhit prakaar kaa hota he-
+ where:    n  12   {\displaystyle \mathbf {n} _{12}} is normal vector from medium 1 to medium 2.
+ atah intervaprishth par E kaa sparsharekhiy ghatak satat hota he.
+ where:    n  12   {\displaystyle \mathbf {n} _{12}} is normal vector from medium 1 to medium 2.   ρ s   {\displaystyle \rho _{s}} is the surface charge between the media.
+ atah intervaprishth par D kaa abhilambik ghatak satat nahin hota balki unamem interaaprishthiya tal par maujuud taleey aavesh ghanatv ke baraabar antar hota he.
+ where:    n  12   {\displaystyle \mathbf {n} _{12}} is normal vector from medium 1 to medium 2.
+ atah intervaprishth par B kaa abhilambik ghatak satat hota he.
+ where:    n  12   {\displaystyle \mathbf {n} _{12}} is normal vector from medium 1 to medium 2.   j  s   {\displaystyle \mathbf {j} _{s}} is the surface current density between the two media.
+ atah, yadi taleey dhara shunya ho to intervaprishth par H kaa sparsharekhiy ghatak satat hoga.

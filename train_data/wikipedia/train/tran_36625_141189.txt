@@ -1,0 +1,15 @@
+ prerak yaa inductor ek vaidyut avyav he jisamen koi vidyut dhara pravaahit karne par yah chumbakeey kshetra ke rup main urja kaa bhandaaran karata he. prerak dwaara chumbakeey urja ke bhandaaran kii kshamta ko iskaa prerakatv kaha jaataa he or ise maapne kii ikai henry he.
+ prerak ko saadhaaran bhashaa main 'chok' or 'kundalee' bhi kehete hai.
+ jahaan I prerak se hokar pravaahit dhara or L prerakatv he.
+ yadi prerak se sinavakreey I dhara bah rahi ho to, uskaa voltage
+ jahaan ω kaa maan,
+ jahaan f prayavarti dhara kii aavriti he.
+ yahan XL ko preraky pratibaadha kehete hai.
+ prerak main jab sinakaari vidyut dhara bahati he to uski dhara kii kala, uske siron ke bich vibhavaantar se 90 degree peeche hota he.
+ prerakon ko samaantar kram main yaa shreneekram main joda ja saktaa he.
+ samaantar kram main jude n prerakon kaa tulya prerakatv Leq ke liye nimnlikhit sambandh he-
+ 
+ yahan mana gaya he ki kisi bhi prerak kaa kisi duusare ke saath anyonya prerakatv shunya he.
+ 
+ shreneekram main jude prerakon kaa tulya prerakatv,
+    +  μ 2 π  o   {\displaystyle +{\frac {\mu }{2\pi }}o\left} 

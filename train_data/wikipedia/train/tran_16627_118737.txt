@@ -1,0 +1,12 @@
+ ganit main 1,2,3,... ityadi sankhyaon ko prakritik sankhyaayein kehete hai. ye sankhyaayein vastuon ko ginaney athwa kram main rakhane ke liye prayukt hoti hai.
+ prakritik sankhyaon ke jo gunaswabhaav bhajyata se sambandhit hai.
+ 
+ 
+ 
+ 
+ unka adhyayan sankhya siddhant main hota hai. udhaaharan: abhajya sankhyaon kaa bantan. vibhaajan praganana ityadi gananaa tathaa krameekaran sambandhi samasyaon kaa adhyayan kramchay-sanchay main kiya jaataa he.
+ kuch lekhak shunya ko bhi prakritik sankhyaon ke samucchy main ginate hai, lekin adhiktar lekhak keval 1, 2, 3, ... ityadi dhan sankhyaon ko prakritik sankhyaayein bataate hai.
+ ganitagya prakritik sankhyaon ke samucchy ko N athwa   N  {\displaystyle \mathbb {N} }  se darshaate hai. yah samucchy gananeey tathaa aparimit he, arthath isaki ganan sankhya alif-shunya    {\displaystyle } he.
+ 0 ko is samucchy main samavisht kiya ja rahaa he yaa nahin, ye spasht karne ke liye kabhi kabhi ek superskript yaa sabscript laga diya jaataa he, jaise:
+ 0 ko prakritik sankhyaon main na ginaney vaale kuch lekhak arin sankhyaon ke samucchy {0, 1, 2, 3, ...} ko W se darshaate hai. anya lekhak dhan sankhyaon ko script P    {\displaystyle } se, shunya ke script Z    {\displaystyle } se or rin sankhyaon ko script N    {\displaystyle } se darshaate hai.
+ samucchy siddhantkaar aksar arin sankhyaon ko unani akshar chote omega    {\displaystyle } se darshaate hai.

@@ -1,0 +1,46 @@
+ laplas roopaantar ek prakaar kaa samakal roopaantar he. yah bhautikee evam ejiniyari ke anekanek kshetron main prayog kiya jaataa he. udhaaharan ke liye paripath vishleshan main. isko    L  { f  }   {\displaystyle \displaystyle {\mathcal {L}}\left\{f\right\}} se nirupit karte hai. yah ek raikhik sankriya he jo vaastavik argument t vaale falan f ko samishra argument vaale falan F main badal detaa he. 
+ laplas roopaantar, prasiddh ganitagya khagolvid pier simon laplas ke naam par rakhaa gaya he. laplas roopaantar kaa upyog avakal sameekaran tathaa samakal sameekaran hal karne main kiya jaataa he. 
+ anubandh yah he ki uparokt samakalan kaa astitv ho. uparokt prakaar se paribhaashit laplas roopaantar 'ekapaksheeya laplas roopaantar' kehalaata he. laplas roopaantar kaa dwipaksheeya roopaantar nimnlikhit prakaar se paribhaashit kiya jaataa he-
+ tippanee:   u  {\displaystyle u}  kaa arth he unit step falan
+   f = lim s → ∞  s F   {\displaystyle f=\lim _{s\to \infty }{sF}} 
+   f = lim s → 0  s F   {\displaystyle f=\lim _{s\to 0}{sF}} 
+ 
+ 
+ 
+ 
+ pratilom laplas roopaantar neeche die gaye samishra samakal dwaara nikaala ja saktaa he. is samakal ke kai naam hai, jaise bromawich samakal, furye-melin samakal yaa melin kaa pratilom sutra :
+ jahaan γ ek vaastavik sankhya he taaki samakal kaa contur-path kanvargens ke kshetra F ke andar ho. pratilom laplas roopaantar nikaalane kaa ek doosraa sutara post kaa pratilom sutara he.
+ nabhikeey bhautikee main geradioskriy kshay ko abhivyakt karne vaala avakal sameekaran neeche diya gaya he. kisi namoonay main radioskriy parmaanuon kii sankhya N he tathaa iske kshay kii dar N ke samaanupati hoti he. isi ko nimnlikhit avakal sameekaran dwaara abhivyakt kiya ja saktaa he-
+ jahaan λ, kshay niyatank he. is sameekaran kaa hal laplas roopaantar kii sahaayta se nikaala ja saktaa he.
+ is sameekaran ko ek hi paksh main le jaakar likhane par,
+ ab ham is sameekaran ke donon pakshon kaa laplas roopaantar lete hai.
+ jahaan
+ tathaa
+ iskaa hal karne par,
+ ant main ham pratilom laplas roopaantar lete hen jisase saamaanya hal praapt hota he.
+ kshanik paripathon ke vishleshan main praayah laplas roopaantar kaa upyog kiya jaataa he. iske liye paripath ke avyavon ko s-domen main badalakar kaam ko aage badhaate hai. neeche tulya paripath die gayi hai-
+ parshv chitra ko dekhen jisamen do loop hai. inamen bahane vaali dhara   i 1   {\displaystyle i_{1}} tathaa   i 2   {\displaystyle i_{2}} chitra main darshaayi gayi hai. mana    i 1   {\displaystyle i_{1}} tathaa   i 2   {\displaystyle i_{2}} ke aarmabhik maan shunya hai, arthath   i 1  = 0  {\displaystyle i_{1}=0} or    i 2  = 0  {\displaystyle i_{2}=0} .  kirkhof ke niyam ke anusaar,
+     d i 1   d t  + 5 i 1  + 40 i = 110  {\displaystyle {di_{1} \over dt}+5i_{1}+40i=110}       
+   2  d i 2   d t  + 10 i 2  + 40 i = 110  {\displaystyle 2{di_{2} \over dt}+10i_{2}+40i=110}    
+ chitra se spasht he ki   i = i 1  + i 2   {\displaystyle i=i_{1}+i_{2}}, 
+     d i 1   d t  + 45 i 1  + 40 i 2  = 110  {\displaystyle {di_{1} \over dt}+45i_{1}+40i_{2}=110} 
+     d i 2   d t  + 20 i 2  + 25 i 2  = 55  {\displaystyle {di_{2} \over dt}+20i_{2}+25i_{2}=55}  ko 2 se bhaag dene par)
+ in par laplas roopaantar lagane par,
+   s I 1  − i 1  + 45 I 1  + 40 I 2  =  110 s   {\displaystyle sI_{1}-i_{1}+45I_{1}+40I_{2}={\frac {110}{s}}} 
+   s I 2  − i 2  + 20 I 1  + 25 I 2  =  55 s   {\displaystyle sI_{2}-i_{2}+20I_{1}+25I_{2}={\frac {55}{s}}} 
+ yaa,
+    I 1  + 40 I 2  =  110 s   {\displaystyle I_{1}+40I_{2}={\frac {110}{s}}} 
+   20 I 1  +  I 2  =  55 s   {\displaystyle 20I_{1}+I_{2}={\frac {55}{s}}} 
+ yaa,
+        =    {\displaystyle {\begin{bmatrix}&40\\20&\end{bmatrix}}{\begin{bmatrix}I_{1}\\I_{2}\end{bmatrix}}={\begin{bmatrix}110/s\\55/s\end{bmatrix}}} 
+ iskaa hal nimnlikhit he:
+      =  1  − 800        {\displaystyle {\begin{bmatrix}I_{1}\\I_{2}\end{bmatrix}}={\frac {1}{-800}}{\begin{bmatrix}&-40\\-20&\end{bmatrix}}{\begin{bmatrix}110/s\\55/s\end{bmatrix}}} 
+ atah,
+    I 1  =  1  s 2  + 70 s + 325    −  2200 s   )  =  1       {\displaystyle I_{1}={\frac {1}{s^{2}+70s+325}}{\biggl -{\frac {2200}{s}}{\biggr )}={\frac {1}{}}{\biggl }} 
+    I 2  =  1  s 2  + 70 s + 325     )  =  1       {\displaystyle I_{2}={\frac {1}{s^{2}+70s+325}}{\biggl {\biggr )}={\frac {1}{}}{\biggl }} 
+ dhyaan den ki   I 1  = 2 I 2   {\displaystyle I_{1}=2I_{2}} atah ham keval   I 2   {\displaystyle I_{2}} kii gananaa hi karenge.
+    I 2  =  1      =  55      =  55 s    {\displaystyle I_{2}={\frac {1}{}}{\biggl }={\frac {55}{}}{\biggl }={\frac {55}{s}}} 
+ isse,
+    i 2  =  55 65  =  11 13   {\displaystyle i_{2}={\frac {55}{65}}={\frac {11}{13}}} 
+ chunki   i 1  = 2 i 2   {\displaystyle i_{1}=2i_{2}}, atah
+    i 2  =  22 13   {\displaystyle i_{2}={\frac {22}{13}}} 

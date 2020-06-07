@@ -1,0 +1,17 @@
+ dwi-pradwar jalkram aise vidyut paripath ko kehete hai jisamen bahari jagat se judane ke liye do-jodi sire hote hai. udhaaharan ke liye trangistor ek dwi-port network he hota he.)
+ dhyaan den ki sabhi Z prachalon kii vimaa om he.
+ jahaan
+ yadi   y 12  = y 21   {\displaystyle y_{12}=y_{21}} ho to is dwi-pradwar ko vyutkram dwi-pradwar kehete hai. yah bhi dhyaan den ki sabhi Y prachalon kii vimaa, cemens he.
+ jahaan
+ dhyaan den ki h prachalon kii vimayein alag-alag he. isi liye inhen sankar prachal kehete hai. isamen se jo prachal mukhya tiryak rekha par nahin hai ve bimarahit hai .
+ jahaan
+ vyutkram network ke liye，   A D − B C = 1  {\displaystyle \textstyle AD-BC=1} . samamit network ke liye,   A = D  {\displaystyle \textstyle A=D} . vyutkram or urja-hraas-rahit network ke liye, A or D vaastavik sankhyaayein hongi jabaki B or C purnatah kaalpanik sankhyaayein .
+ jahaan
+    g 21  =    U 2  U 1   |  I 2  = 0   g 22  =    U 2  I 2   |  U 1  = 0   {\displaystyle g_{21}=\left.{\frac {U_{2}}{U_{1}}}\right|_{I_{2}=0}\quad g_{22}=\left.{\frac {U_{2}}{I_{2}}}\right|_{U_{1}=0}} 
+    h 21  =    I 2  I 1   |  U 2  = 0   h 22  =    I 2  U 2   |  I 1  = 0   {\displaystyle h_{21}=\left.{\frac {I_{2}}{I_{1}}}\right|_{U_{2}=0}\quad h_{22}=\left.{\frac {I_{2}}{U_{2}}}\right|_{I_{1}=0}} 
+    y 21  =    I 2  U 1   |  U 2  = 0   y 22  =    I 2  U 2   |  U 1  = 0   {\displaystyle y_{21}=\left.{\frac {I_{2}}{U_{1}}}\right|_{U_{2}=0}\quad y_{22}=\left.{\frac {I_{2}}{U_{2}}}\right|_{U_{1}=0}} 
+    z 21  =    U 2  I 1   |  I 2  = 0   z 22  =    U 2  I 2   |  I 1  = 0   {\displaystyle z_{21}=\left.{\frac {U_{2}}{I_{1}}}\right|_{I_{2}=0}\quad z_{22}=\left.{\frac {U_{2}}{I_{2}}}\right|_{I_{1}=0}} 
+    a 21  =    I 1  U 2   |  I 2  = 0   a 22  =    I 1  I 2   |  U 2  = 0   {\displaystyle a_{21}=\left.{\frac {I_{1}}{U_{2}}}\right|_{I_{2}=0}\quad a_{22}=\left.{\frac {I_{1}}{I_{2}}}\right|_{U_{2}=0}} 
+    b 21  =    I 2  U 1   |  I 1  = 0   b 22  =    I 2  I 1   |  U 1  = 0   {\displaystyle b_{21}=\left.{\frac {I_{2}}{U_{1}}}\right|_{I_{1}=0}\quad b_{22}=\left.{\frac {I_{2}}{I_{1}}}\right|_{U_{1}=0}} 
+ jahaan   Δ   {\displaystyle \Delta \mathbf {} },  kaa saaranik he.
+ kuch matrix jodon main bahut saral sambandh he. admitans paramitrs, impidans paramitrs ke matrix vyutkram hai. invars hybrid paramiters, hybrid paramitrs ke matrix vyutkram hai. isi prakaar ABCD-paramiters kaa swaroop, swaroop kaa matrix vukram he. arthath,

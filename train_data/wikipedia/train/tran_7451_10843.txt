@@ -1,0 +1,10 @@
+ trikonmiti main ek saamaanya tribhuj ke liye nimnlikhit sambandh ko kojya niyam yaa kojya sutara kehete hai -
+ kojya niyam pithagoras ke prameya kaa samanyikrut sthiti he, arthath   γ   {\displaystyle \gamma \ } = 90 degree to   2 a b cos ⁡ γ  = 0  {\displaystyle 2ab\cos \gamma \ =0} atah :   c 2  = a 2  + b 2   {\displaystyle c^{2}=a^{2}+b^{2}} 
+ kojya niyam us sthiti main upyogi hota he jab kisi tribhuj kii do bhujaayen evam unke bich kaa kone diya ho tathaa teesri bhujaa kii lambaai nikaalani ho. yaa teenon bhujaayen di hui hon or koi bhi kone nikaalnaa ho, jaise-
+ tribhuj ABC main,
+ bhujaa b ke saamne kaa kone   β  {\displaystyle \beta } nikaalo.
+ saamne ke chitra main,
+ tathaa
+ uparokt donon samikarnon main se d2 kaa vilopan karne par,
+ isi prakaar,
+ atah 

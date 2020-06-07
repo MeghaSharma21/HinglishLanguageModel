@@ -1,0 +1,5 @@
+ 7.0.2
+ pejmekar adobi dwaara viksit ek pej leout software he. yah ditipi ke kaaryon main kaaphi prayukt hota he. iskaa naveenatam sanskaran adobi indizin ke naam se he. abhi bhi bharat main pejmekar kaa chote-mote vyavsaayon evam dukaanon main kaaphi kaary hota he.
+ pejmekar kii ek mukhya kami he ki yah indic unicode kaa samarthan nahin karata, jis kaaran isamen unicode hindi tip nahin kii ja sakati. at: chapai sambandhi kaaryon ke liye nonri-unicode hindi fonton kaa sahaara lenaa padataa he.
+ adhiktar non-unicode font remington leout kaa prayog karte hai, jinhen remington kaa abhyaas na ho unako pehle kisi anya aujaar main taxt tip karke phir use copy kar pejmekar main paste karnaa padataa he. phonetic dwaara non-unicode font main tip karne ke liye hindipad, tathaa baraa diaract naamak tathaa inascript dwaara tip karne ke liye madhyam naamak aujaar kaa prayog kiya ja saktaa he.
+ pejmekar ke naye sanskaran indizin main hindi evam anya bhartiya bhashaaon kaa samarthan sakasham karne hetu indicaplus naamak ek plagain uplabdh he.

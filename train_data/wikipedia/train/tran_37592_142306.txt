@@ -1,0 +1,5 @@
+ yahan un software-sadhano kii suchi di gayi he ninaki sahaayta se jivant yuasabi kaa nirmaan kiya jaataa he.
+ bahuchaalan kaa arth he ki us aujaar kii sahaayta se ek hi yuasabi ke upar ek se adhik prachaalan tantra sthapit kiye ja sakate hai. iske saath hi yuasabi par ek 'bootlodar' bhi bana diya jaataa he jo boot karte samay prayokta ke saamne yah vikalp upasthit karata he ki vah un anekon prachaalan tantron main se kisi ek kaa chunaav kar sake.
+ This program is designed to write a raw disk image to a removable device or backup a removable device to a raw image file.
+ Official and derivates of Android, Arch, CentOS, Debian, Fedora, Gentoo, Knoppix, Manjaro, Linux Mint, PcLinuxOS, Porteus, Puppit, Sabayon, Slax, Tinycore, Ubuntu.
+ Antivirus, system and security tools, Rescue CD, Disaster Recovery and Partition Editor. Clone of Hard Disk and Partition ... and more ISOs

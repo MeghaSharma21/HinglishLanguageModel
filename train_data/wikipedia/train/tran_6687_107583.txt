@@ -1,0 +1,26 @@
+  dishtakaari yaa rujukari yaa ractifire aisi yukti he jo aavarti dhara ko dishtdhaara main badalane kaa kaary karti he. arthath ractifire, e.si. se di.si. parivartak he. dishtakaari bahut upyogi he kyonki aajkal ke bahut se upkaran disi se hi chalate hai jabaki baahar se unhen e-si hi di jaati he. dishtakaari banane ke liye thos avasthaa diod, nirvaat-tub diod, mercury-arq-valve, selenium diod or es.si.aar. aadi prayog kiye jate hai. ardhchaalak diod ke aane ke pehle nirvaat-nalika diod yaa copper-oxide yaa selenie-stack dishtakaari prayog main aate the. 
+ dishtakaari ke kaary ke ulta kaary karne vaali yukti ko inwarter kehete hai.
+ praayah sabhi dishtakaari ek yaa adhik diodon ko vishesh kram main jodkar banaaye jate hai. adhik diod ke prayog se praayah disi apekshaakrit adhik shuddh hoti he arthath isamen 
+ is tarah ke dishtakaari main e-si kaa aadha bhaag hi lod main bheja jaataa he jabaki baaki aadha hissaa lod main jane se roak diya jaataa he. yah bahut kam shakti ke output ke liye hi prayog main liya jaataa he, adhik shakti ke liye nahin. kyonki yah bahut kam dakshata se vidyut-shakti kaa hastaantaran karata he. ek phej ke paripathon main half-wave ractifire keval ek diod kaa istemaal karke banaaya ja saktaa he. . teen-feji supplai main iske liye teen diod lagate hai.
+ voltage regulation = acha
+ everej voltage = ve maiks/ pai
+ ausat dhara = ai maiks/ pai
+ aaremes voltage yaa prabhavi voltage = ve maximum / 2
+ aaremes dhara yaa prabhavi dhara = ai maximum /2
+ dakshata = 40. 6%
+ ripal factor yaa urmika gunank = 1.2 1%
+ form factor yaa akruti gunank yaa roopak * = 1.57
+ Peak factor = 2
+ TUF = 0.286
+ PIV = Vmax
+ Output frequency = f_in
+ is tarah kaa dishtakaari input asi ke dono bhaagon ko lod main bhejtaa he or lod main ek hi disha main dhara sunishchit karata he. spasht he ki yah ardh-tarang dishtakaari se adhik daksh he. 
+ ek-phej paripathon main do tarah ke purna-tarang dishtakaari prayog kiye jate hai:
+ 
+ centre-tap ractifire ke liye do hi diod lagane passage hai kintu iske liye ek centre-tap yukt transfarmar kii zarurat padati harrchhentre tap / midpoint rectifier-supplai ke positive cycle ke dauraan diod D1 farward bis ho jaataa he or band kunjee kii tarah vyavhaar karata he is diod D2 reverse by so jaataa he tathaa khuli kunjee kii tarah vyavhaar karata he supplai ke negative cycle ke dauraan diod D2 farward bis so jaataa he band kunjee kii tarah vyavhaar karata he is dauraan diod D1 reverse bis ho jaataa he tathaa khuli kunjee kii tarah vyavhaar karata he!Average voltage =2Vmax/ fhaievareja karant = do imax /
+ jab adhik shakti kaa disi kii aavashyak hoti he to ek-feji vidyut shakti ke bajaay teen-feji asi ko ractifi karnaa adhik upyukt rahata he. iske liye 6-diod lagate hai. udhaaharan ke liye aajkal ke automobiles main 3-feji alternetr ke saath 3-feji brij dishtakaari laga hota he jo bydaree ko charge karne ke liye disi banaata he. 
+ ucch voltata kii disi praapt karne ke liye voltata-dvigunak  yaa 'voltage multiplir' kaa upyog kiya jaataa he. isse kam e.si. voltage se bhi bahut adhik disi voltage banane main madad milti he.
+ pi.dablyoo.em. rujukari, input asi ko bahut adhik aavriti par band-chaalu karke disi banaate hai. isse output disi main ripal kii aavriti bahut adhik hoti he or input asi se jo dhara lee jaati he vah bhi lagbhag sin-aakaar kii hoti he .  aajkal adhik aavriti par band-chaalu kiye ja sakane vaale mossphate or aijibiti aadi swichon kii sulabhta ke kaaran is prakaar ke rujukari upyog main aane lage hai.
+ jis rujukari ke output main ripal kii aavriti adhik hoti he, usko filter karne ke liye aavashyak L or C kaa maan kam lagegaa . isi liye adhik shakti kii disi banane ke liye 12-pulse, 24-pulse yaa 48-pulse ke rujukari upyog main laaye jate hai. 
+ dishtakaari ek atyant upyogi vidyut-parivartak he. iske kuch upyog nimnlikhit hai-
+ ardhchaalak praudyogiki ke aane ke pehle, dishtakaari banane ke liye nirvaat-nalika diod, mercury-arq-valve, copper-oxide yaa selenie-stack dishtakaari prayog main aate the. 

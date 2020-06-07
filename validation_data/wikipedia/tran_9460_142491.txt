@@ -1,0 +1,10 @@
+ bijganit main bahupadi sheshfal prameya, bahupadi deergh bhaajan kaa ek anuprayog he. is prameya ke anusaar, kisi rekhiy bhaajak   x − a  {\displaystyle x-a\,} se kisi bahupad   f   {\displaystyle f\,} ko bhaag karne par shesh   r  {\displaystyle r\,} kaa maan   f  {\displaystyle f} ke baraabar hota he.
+ mana   f = x 3  − 12 x 2  − 42  {\displaystyle f=x^{3}-12x^{2}-42\,} . 
+   x − 3  {\displaystyle x-3\,} se bahupadi bhaag karne par bhagfal 
+    x 2  − 9 x − 27  {\displaystyle x^{2}-9x-27\,} tathaa shesh   − 123  {\displaystyle -123\,} praapt hota he.
+ or duusari taraf,   f = − 123  {\displaystyle f=-123\,} .atah f ko se vibhajit karne par shesh = f= -123.
+ yah bahupadi deergh bhaajan kii paribhaasha se hi spasht ho jaataa he, kyonki 
+ jahaan   g   {\displaystyle g\,},   q   {\displaystyle q\,}, evam   r   {\displaystyle r\,} kramshah bhaajak, bhajanfal evam shesh hai tathaa   r   {\displaystyle r\,} kii koti   g   {\displaystyle g\,} kii degree se kam he.
+ ab yadi   g = x − a  {\displaystyle g=x-a\,} rakhaa jaay to shesh   r   {\displaystyle r\,} kii degree shunya hogi; arthath   r = r  {\displaystyle r=r\,} or
+ ab   x = a   {\displaystyle x=a\!\,} rakhane par 
+ itisidiam

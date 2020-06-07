@@ -1,0 +1,1 @@
+ dirname ek unics cmand he jo files ke folder kaa naam bataata he - iske naam kaa mul he Directory Name. agar input ke rup main kisi folder kaa naam hi diya gaya he to yah us ke savit foulder kaa naam detaa he - akhir ke slash ko hataakar. udhaaharan - 

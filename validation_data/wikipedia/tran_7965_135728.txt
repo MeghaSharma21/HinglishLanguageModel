@@ -1,0 +1,2 @@
+ C# ek sanganakeey programmen bhashaa he. iskaa nirmaan microsoft ne kiya he.
+ C# ek Object Oriented bhashaa he. iske nirmaan samuh ke mukhya andres hesalberg he. iskaa naveenatam varjan C# 5.0 he, jo kii August 15, 2012 ko pradarshit hua.

@@ -1,0 +1,3 @@
+ is prisht kaa uddeshy vartmaan samay main prayukt sabhi compiler, compiler-janarator, interpritre, evam anuvaadakon kii sarini sulabh karana he.
+ Production quality, open source compilers.
+ Research compilers are mostly not robust or complete enough to handle real, large applications. They are used mostly for fast prototyping new language features and new optimizations in research areas.

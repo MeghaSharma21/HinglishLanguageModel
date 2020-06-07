@@ -1,0 +1,21 @@
+ ganit main kai nishkone vakron ko jodakar bane vakr ko spline kehete hai. atah yah ek paryaapt rup se nishkone khandash: bahupad he. antarveshan kii samasyaon main splin antarveshan praayah bahupad antarveshan kii tulana main adhik pasand kiya jaataa he kyonki yah kam degree ke bahupado kaa upyog karte hue bhi samaan parinaam detaa he. iske alaava ucch degree ke upyog se bahupad antarveshan main aane vaali rung parighatna spline antarveshan main nahin aati.
+ computer graphics main splin kaa bahut upyog hota he kyonki inkaa gathan saral hota he, moolyankan yatharth evam aasaan he or yah jatil aakaar ko bhi interactive karv dijin ke madhyam se sannictikaran karne main sakasham he. saamanytah ghan spline, vishesh rup se ghan B-spline evam ghan Bézier spline upyog main laae jate hai.
+ splin ek khandit bahupad real function he.
+ ek antaraal jo kii k kramankit evam vibhinn up antaraalon    {\displaystyle } se nirmit he evam 
+ S ko i antaraal ke liye simit karnaa ek bahupad he 
+ taaki 
+ bahupad   P i   {\displaystyle P_{i}} kaa ucchtam kram splin kaa kram S kehalaata he. yadi sabhi up-antaraal ek hi avadhi ke hai tab splin uniform kehalaata he anyathaa vah non-uniform kehalaata he.
+ hamaara iraadaa ek aise bahupad chunane kaa he jo kii S kii paryaapt nirvighnata kii guarantee detaa he. vishesh rup se, n kram ke splin ke liye S ko n-1 kram tak aatanrik binduon   t i   {\displaystyle t_{i}} : sabhi   i = 1, …, k − 1  {\displaystyle i=1,\dots ,k-1} or sabhi   j 0 ≤ j ≤ n − 1  {\displaystyle j\quad 0\leq j\leq n-1} par lagaataar vibhedit hona jaruri he.
+    P i    = P i + 1     {\displaystyle P_{i}^{}=P_{i+1}^{}} 
+ 
+ yah splin ke mahatvapurn upyogon main se ek he. isaki kalan vidhi Spline interpolation anuchhed main he.
+ 
+ dwighat splin kaa saral udhaaharan he 
+ jiske liye   S ′  = 2  {\displaystyle S'=2} 
+ ghaneey splin kaa saral udhaaharan he 
+ is rup main 
+ or 
+ ghaneey splin kaa ghanti ke aakaar kaa vakr banane main upyog kaa udhaaharan irvin-haul bahupad he:
+ 
+ computer se pehle gadanaa haath se kii jaati thi. step function jaise function upyog kiye jate the parantu bahupadon ko praathamikta di jaati thi. computer ke aane se splains ne pehle bahupadon ko pratisthapit kiya or phir computer graphics main lacheele or sudol aakaar banane ke kaam main aaye.
+ saamanytah yah man gaya he kii splains kaa pehla ganitagya sandarbh Schoenberg, ke 1946 ke ek patr main kiya gaya jo kii shaayad pehali jagah thi jahaan splin shabd kaa prayog hua. haalanki mul vichaar vimaan or jahaaj nirmaan udyog se aayaa tha.

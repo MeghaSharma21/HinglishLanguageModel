@@ -1,0 +1,8 @@
+ kisi sataha ke ikai kshetrafal par lagane vaale abhilamb bal ko daab kehete hai. isaki ikai 'newton prati varg meter' hoti he. daab kii or bhi kai prachlit ikaiyaan hai.
+ ganit kii dashti main:
+ jahaan:
+ dabaav ek adish raashi he. isaki SI ikai pascal he; 1 Pa = 1 N/m2
+ dabaav kii SI ikai he pascal, baraabar ek newton prati varg meter . ikai kaa yah vishesh naam 1971 main juda tha; isse pehle SI ikai main pascal ko keval N/m2 likhte the.
+ gatik daab ke liye sutara:     p =  1 2   ρ ⋅ v 2   {\displaystyle p={\frac {1}{2}}\ \rho \cdot v^{2}\,}    
+ yaa,
+ Aus der kinetischen Gastheorie folgt: 

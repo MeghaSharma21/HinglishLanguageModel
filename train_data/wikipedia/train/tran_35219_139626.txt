@@ -1,0 +1,13 @@
+ jyamiti main binduon ke do samucchy ko paraspar sarvangasam kehete hai yadi unamem se kisi ek samucchy ko sthaanantaran, ghurnan, paravartan yaa inke mishrit kriyaaon ke dwaara parivartit karne par doosraa samucchy praapt kiya ja sake. sarvangasam = sarv + ang + sam = sabhi ang baraabar. ise or adhik saral rup main yon kah sakate hai ki do chitra yadi aakaar-prakaar main samaan hai to ve paraspar sarvangasam hote hai .
+ yadi do tribhujon kii teenon bhujaayen evam sangat kone samaan hon to ve paraspar sarvangasam hote hai.
+ kintu praayah keval teen sangat angon kii samanta pradarshit kar dena hi sarvangasamata sidd karne ke liye paryaapt hota he.
+ SAS : yadi do tribhujon kii do sangat bhujaayen or unke bich ke kone samaan hon to ve sarvangasam hai. 
+ SSS : yadi ek tribhuj kii teenon bhujaayen duusare tribhuj kii teenon sangat bhujon ke baraabar hon to dono tribhuj sarvangasam hai.
+ ASA : Two triangles are congruent if a pair of corresponding angles and the included side are equal.The ASA Postulate was contributed by Thales of Miletus . 
+ In most system of axioms, the three criteria — SAS, SSS and ASA — are established as theorems. In the School Mathematics Study Group system SAS is taken as one of 22 postulates.
+ AAS : Two triangles are congruent if a pair of corresponding angles and a not-included side are equal, since the 3rd angle would have to be equal, and therefore the side would be included. This one is valid only in Euclidean geometry.
+ The SSA condition which specifies two sides and a non-included angle ) does not always prove congruence.
+ Specifically, SSA does not prove congruence when the angle is acute and the opposite side is shorter or equal to the adjacent side but longer than the sine of the angle times the adjacent side. This is the ambiguous case. In all other cases, SSA proves congruence. Notice that the opposite side cannot be smaller than the adjacent side times the sine of the angle as this could not describe a triangle.
+ The SSA condition proves congruence if the angle is obtuse or right. In the case of the right angle condition), we can calculate the third side and fall back on SSS.
+ The SSA condition proves congruence if the angle is acute and the opposite side either equals the adjacent side times the sine of the angle or is longer than the adjacent side.
+ AAA is sthiti main dono tribhuj keval samroop hote hai, jaruri nahin ki ve sarvangasam bhi hon. aisa isaliye he ki yah sthiti aakaar ke bare main kuch bhi nahin kahati. tathaapi yadi goleey jyamiti yaa atiparavaleey jyamiti kii baat karen to unamem yah sthiti sarvangasamata ke liye paryaapt haii Love is called AAA angle.

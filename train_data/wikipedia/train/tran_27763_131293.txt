@@ -1,0 +1,34 @@
+ jaivasuchanavigyaan jeev vigyaan kii ek shakha he. bioinformctics yaa jaev soochna vigyaan, jeev vigyaan kaa ek nayaa kshetra he, jiske antargat jaev soochna kaa arjan, bhandaaran, sansaadhan, vishleshan, vitaran, vyakhyaadi kaary aate hai. is kaary main jeev vigyaan, soochna takanic tathaa ganit kii takneekein upyog main laai jaatin hai. ham yahan bhi kaha sakate he kii yah computer or soochna takaniki vigyaan kaa mail he 
+ iske madhyam se khaastaur par kisi paudhe ke jeens main kis prakaar ke parivartan karnaa, jaanaleva beemaari ke liye uttaradaayi jeens samooh kaa pataa karnaa, aushadhi nirmaan main sahaayta aadi main kiya jaataa he. jaev soochna vigyaan is vishay kii sthapana ke bare main poulin hogeveg or ben hesper ne varsh 1978 ko vichaar kiya or duniya ke saamne byoinfarmatics vishay laae. vartmaan main computer kii pattern ricognation, data mining, mashin larning algoridmas va vijualigeshan se sambandhit aplications kaa prayog kiya ja rahaa he. iske madhyam se jin khojna, jinom assembly, drug dizin, drug discovery, protein strecchar allinement, protein strecchar pridiction aadi kshetron main iskaa prayog kiya ja rahaa he. byoinfarmatics athwa computesnal biology maalikular biology ke kshetra main soochna praudyogiki kaa prayog athwa biological data ke prabandhan evam vishleshan hetu computer technology kaa anuprayog he. isamen computer kaa upyog biological aankadon ke sankalan, bhandaaran, vishleshan tathaa sangyojan ke liye kiya jaataa he. yah ek ubharta hua interdiciplinary research kshetra he tathaa jindagi kii gunvattta badhaane ke liye iskaa upyog lagaataar badhata ja rahaa he. byoinfarmatics kaa antim lakshya shrunkhlaa, sanrachana sahitya tathaa anya biological aankadon main chhipi jaivik soochnaaon ko ujagar kar use maanav jivan ke str ko upar uthaane ke liye upyog main laana he.
+ 1. advanced computing vikaas centre, pune main jaev soochna vigyaan sansaadhan or aavedan suvidha charan II
+ 2. jaev soochna vigyaan or aplide jaev praudyogiki, bangalore main protein or arene ke anukram sanrekhan ke liye noval elgoridam
+ 3. iaiti, dilli main web-sakasham protein satrekchar prediction software kaa vikaas
+ 4. ibiabi, bangalore main maadaa prajnan pranali ke liye vishisht jin kii expressant pattern kii bhavishyavaanee ke liye software kaa vikaas
+ 5. rashtriya vanaspatik anusandhan santhaan, lakhanu main bhartiya vanaspati bagwani network
+ 6. jaev praudyogiki centre je.en. krishi vishvavidhyalay, jabalpur main protein kii 3D sanrachana kii ligand binding site ko pahchaanane ke liye software tul kaa vikaas
+ 7. eyu-kebisi anusandhan kendra, anna vishvavidhyalay chennai main bacterial jinom or hydrogen praiaction pathave main kaalpanik oref kii pahchaan ke liye jaev soochna vigyaan drushtikon
+ 8. cancer virdohi khojah rajeev gandhi jaev praudyogiki kendra, tiruvanantpuram main prakritik utpaadon main samrudh rasaynic prayogshaalaon kii virtual screening
+ 9. jaivik pranaaliyon ke uttejk charan ke varnan ke liye sookshmavaad dushtikon kaa vikasah jeenyu nai dilli main etho-epa1 ke protone pumping pathave par vishay adhyayan
+ 10. jaev soochna vigyaan kendra, pandicherry vishvavidhyalay main paudhe or standhari jinom ke nirmaan kii protein digining ke liye software tuls kaa vikaas
+ 11. ibiabi bangalore main jaev soochna vigyaan main anusandhan or prashikshan utkrushtataa kendron oushr pune or pandicherry vishvavidhyalay main jaev soochna vigyaan kendron main tip 2 diabetis melitas ke aanvik aadhaar, emiloidogenic protein ke modelling folding tetra ko samajhnaa
+ 12. si-dack, pune main ucch pravaahakshmata jinom vishleshan ke liye computesnal karypravah kaa vikaas
+ 13. ibiabi bangalore main mahatvapurn standhari utakon ke liye vishisht jin expressant database or pramotor pridiction program kaa vikaas
+ 14. antahvishayi vigyaan or praudyogiki rashtriya santhaan, tiruvanantpuram main jaivik simulation ke liye agent dhavkaal parivesh kaa vikaas
+ 15. jaev praudyogiki or jaev soochna vigyaan vibhaag, north eastern hill vishvavidhyalay, shilong main meghalaya main microbial samudaay kaa tulanaatmak vishleshan
+ 16. bharatidasana vishvavidhyalay, tiruchirapal main tavilite jone anukram anotesan tul kaa vikaas
+ 17. iaiessi, bangalore main jinom or protein kram main vibhinn doharaavon kaa pataa lagane ke liye internet computing software
+ 18. rajeev gandhi jaev praudyogiki kendra, tiruanantpuram main tip 3 polikatid synthes protein sanrachanaon ke databes kaa vikaas
+ 19. krishi jaev soochna vigyaan sanvardhan kaarykram
+ 20. jeenyu main lakshya aadhaarit pharmacor drushtikon kaa upyog karke noval malaria rodhi aushadhi kaa nirmaan
+ 21. hub protein kii bhavishyavaanee karne vaala web sarwar
+ 22. aushadhi shiksha evam anusandhan santhaan, punjab main upakoshikeey sthaniyakaran kii silico prediction main
+ 23. bhartiyar vishvavidhyalay, coimbatore main protein kenasis relationships or pathave kii text mining or data warehoucing
+ 24. iaiti, guwahati main purvottar ke jingiberasiya main diene barkoding aadhaarit jaev vividhta suchi
+ 25. iaiti, guwahati main lishmaniasis ke viruddh chikitsa
+ 26. chaay anusandhan sanghathan, assam main chaay jaev soochna vigyaan par purvothar pariyojna
+ 27. north eastern hill vishvavidhyalay, shilong main purvottar bharat ke microbial database kaa vikaas
+ 28. purvottar paraseete jaankaree or vishleshan centre - north eastern hill vishvavidhyalay, shilong main silico drushtikon. 
+ byoinformctics main nimna saadhan apekshit hai:
+ inamen teen pramukh hote hai:
+ internet ke alag alag sarvars par byoinformctics se sambandhit bahut se soptware uplabdh hai. inamen se pramukh hai:-
+ bioinformatics ne jaiviki ke kshetra main shodh karne ke tareeke ko hi badal diya he. vishesh praasangikta ke jaev soochna vigyaan main, desh vishisht maanav, paudhon or pashuon ke rogon ko samajhnaa, aushadhi khoj kii prakriya main lagane vaale samay ko kam karnaa or jalwaayu parivartan kii chunautiyon ko jaananaa jaise mudde shaamil hai. jaev soochna vigyaan main bade paimaane par saadhaaran manushyon or samaaj se sambandhit in muddon main se kuch ko hal karne kii kunjee he. prayogtmak upmarg ke bajaay ab kisi bhi shodh kaa prarambh computer par uplabdh databeses kii upyukt software dwaara talash evam tulana se hota he. kisi vaigyanik dwaara ek jin ke base anukram ko praapt kar lene ke pashchaat, uski kisi databes par pehle se vidyaman kisi anukram se tulana kii ja sakati he. donon anukramon main kitni samanta he, is aadhaar par nae jin kii kaaryastylee yaa utpatti par prakaash daalaa ja saktaa he. isse nimna kshetron main krantikari parivartan kii aashaaen hai:-

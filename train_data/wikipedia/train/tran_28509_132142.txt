@@ -1,0 +1,2 @@
+ matlab aankik gananaa kaa software he. yah chaturth peedi kii programmen bhashaa bhi he jo arre ko mul maanakar banaayi gayi he. yah matheworks dwaara nirmit he. iske prayog se matrix se sambandhit gananaayen, falnon evam aankadon kii plotting, kisi algoridm kaa lagu karnaa, prayokta-interphes kaa nirmaan aadi kiye ja sakate hai. yah C, C++ or fortron aadi anya programmen bhashaaon main likhe code ko bhi chalaa sakati he.
+ sailab evam frimat aadi kuch muktastrot program iske vikalp hai.

@@ -1,0 +1,91 @@
+ is anuchhed ko vikipedia lekh Pythagorean theorem ke is sanskaran se anudit kiya gaya he.
+ pithagoras prameya eucalidia jyamiti main kisi samakon tribhuj ke teenon bhujaaon ke bich ek sambandh bataane vaala prameya he. is prameya ko aamtaur par ek sameekaran ke rup main nimnlikhit tareeke se abhivyakt kiya jaataa he-
+ jahaan c samakon tribhuj ke karn kii lambaai he tathaa a or b anya do bhujaaon kii lambaai he. pithagoras yunaan ke ganitagya the. paramparanusaar unhen hi is prameya kii khoj kaa shrey diya jaataa he, haalanki yah mana jane laga he ki is prameya kii jaankaree unase purv tithi kii he. bharat ke pracheen granth boudhayan shulbasutra main yah prameya diya hua he. kaaphi pramaan he ki babylon ke ganitagyon bhi is siddhant ko jaanate the. ise 'boudhayan-pithagoras prameya' bhi kehete hai.
+ agar ham karn kii lambaai ko c or anya do bhujaaon kii lambaai ko a or b lete hai, to prameya ko nimnlikhit sameekaran ke rup main vyakt kiya ja saktaa he:
+ yaa, 
+ yadi c pehle se diya gaya he or ek bhujaa kii lambaai nikaalnaa ho, to nimnlikhit sameekaran kaa upyog kiya ja saktaa he :
+ yaa
+ yah sameekaran samakon trikon ke teenon bhujaaon ke bich ek saral sambandh pradaan karata he. is prameya kaa samanyikaran 'kojya niyam' kehalaata he jisaki sahaayta se kisi bhi trikon ke teesri bhujaa kii lambaai kii gananaa kii ja sakati he yadi shesh do bhujaaon kii lambaai or unke bich ke kone kii maap di gayi ho.
+ yah ek aisa prameya he jiske anya pramayon kii tulana main sambhavtah sarvaadhik pramaan gyaat hai . elisha scot loomis dwaara rachit paaythagorian theram kitaab main, 367 pramaan die gaye hai.
+  boudhayan prameya ke adhikansh pramaanon kii tarah, yah do samroop tribhujon kii bhujaaon ke samaanupati hone ke gun par aadhaarit he.
+ mana ABC ek samakon tribhuj he, jisamen kone C samakon he, jaisaa akruti main dikhaaya gaya he. ham C bindu se karn par lamb daalate hai or bhujaa AB ke saath us lamb kii lambaai H hai. yah nayaa trikon ACH hamaare trikon ABC ke samroop he, kyonki un donon main hi samakon he or A kone unka hissaa he. iskaa matlab he kii teesraa kone bhi donon tribhujon main samaan he. isi aadhaar par tribhuj CBH bhi ABC ke samroop he. in samarupataaon se hamen do samaanupaat praapt hote hai:
+ jaise
+ tathaa
+ inhen aise bhi likhaa ja saktaa he
+ in do samikarnon kaa sankshep karne par,
+ anya shabdon main, boudhayan prameya:
+ euclid ke tatwon main, pustak 1 kaa prastaav 47, boudhayan prameya nimnlikhit linon ke saath ek tark se sabit hota he.A, B, C ko samakon trikon ke kone maanate hai, jisamen samakon A par hoga. A se karn ke vipareet ek adholamb chhoden varg main karn par.wo rekha karn par varg ko do aaayaaton main vibhajit karti he, prayek kaa samaan kshetra he kyunki donon main se ek pairon main varg banataa he.
+ aupchaarik pramaan ke liye, hamen chaar praathmik lemmata kii aavashyaktaa he:
+ is pramaan ke peeche sahaj vichaar, jo iskaa paalan karnaa aasaan bana saktaa he, ki upar ke do virgon ko ek hi aakaar ke samanaantar chaturbhuj main badla gaya he, phir modakar or baayen or daahine aayat ko nichle varg main badla gaya he, phir nirantar kshetra main.
+  pramaan nimnanusaar he:
+ yah pramaan euclid ke tatwon main prastaav 1.47 ke rup main pesh hota he.
+ james e. garfield ko ek upanyaas bijiy pramaan dwaara shrey diya gaya he:
+ puraa samalamb bai varg kaa aadha he, to uskaa kshetrafal = 2/2 = a2/2 + b2/2 + ab.
+ trikon 1 or trikon 2 prayek kshetrafal ab/2 he.
+ trikon 3 kaa kshetrafal c2/2 he or yah karn par varg kaa aadha he.
+ lekin trikon 3 kaa kshetrafal bhi = - 
+ isliye karn par varg = anya do parshvon ke virgon kaa jod he.
+ is pramaan main, karn par varg plus trikon kii 4 pratiyaan ko anya do parshvon main virgon ke rup main jod sakate hai plus trikon kii 4 pratiyaan.yah pramaan china se darj kii gai he.
+ upar euclid ke pramaan ke chitra se, ham teen samaan aankadon ko dekh sakate hai, prayek main "ek varg ke upar trikon" he. kyunki bada trikon do chote trikon se bana he, uskaa kshetrafal in do chote kaa jod he. samanta se, teen varg ek duusare ke saath usee anupaat main hai jaise vah teen trikon or isi tarah ke bade varg kaa kshetrafal do chote virgon ke kshetrafal kaa jod he.
+ viparyay se pramaan ko chithran or anemeshan ke dwaara diya gaya he. is udhaaharan main, har ek bade varg kaa kshetrafal 2 he. donon main, charon samaan trikon kaa kshetrafal hataa diya gaya he. shesh kshetron, a2 + b2 or c2, baraabar hai.Q.E.D
+  yah pramaan vastav main bahut aasaan he, lekin yah praarambhik nahin he, is arth main ki yah keval sabase buniyadi siddhant or yucalidian jyamiti ke pramayon par nirbhar nahin he. vishesh rup se, jab trikon or virgon ke kshetrafal kaa sutara dena bahut aasaan he, yah sabit karne ke liye aasaan nahin he ki ek varg kaa kshetrafal uske tukdon ke kshetron kaa jod he. vastav main, aavashyak gun sabit karnaa paaythagorian prameya siddh karne kii tulana main kathin he .vastav main, yah kathinaayee sabhi saadhaaran kshetra shaamil yucalidian pramaan ko prabhavit karata he; udhaaharan ke liye, ek samakon trikon kaa kshetra paane ke liye ek dharna shaamil he ki yah ek hi oonchai or tal ke ek aayat kaa aadha kshetra he. isi kaaran se, jyamiti ke liye swayansiddh parichay aam taur par trikon kii samanta ke aadhaar par ek or pramaan kaa prayog karata he .
+ is paaythagorian prameya kaa teesraa graphic chithran main karn kaa varg parshvon ke varg main feet baithta he. ek sambandhit pramaan yah dikhaa saktaa he kii punah sthapit bhaag mul ke samaan hai or, kyunki samaan kaa jod samaan he, kii unke kshetra bhi samaan hai. yah dikhaane ke liye kii ek varg hi parinaam he, hame nae parshvon kii lambaai ko c ke baraabar dikhaanaa padegaa.dhyaan den kii is pramaan ke kaam karne ke liye, hame chote varg ko or adhik hisson main kaatane ke tareeke ko sanbhaalane ke liye rasta pradaan karnaa hoga chunki parshv or chote hote jaayenge.
+ is pramaan kaa bijiy bhinnrup nimna tark dwaara pradaan kiya gaya he. chithran ko dekhte hue jo ek bada varg he jiske konon main samaan samakon trikon he, in chaar trikon main prayek kaa kshetra C ke saath ek kone ke dwaara diya gaya he.
+ in trikon ke A-parshv kone or B-parshv kone anupoorak kone hai, nile kshetra ke prayek kone samakon hai, is kshetra ko ek varg banaate hue jiske parshv kii lambaai C he. is varg kaa kshetrafal he C2.is tarah samast kaa kshetra diya jaataa he:
+ haalanki, bade varg ke parshvon kii lambaai A + B, ham uske kshetrafal kii gananaa kar sakate hai jaise 2, jo A2 + 2AB + B2 main vistaarit hota he.
+ boudhayan prameya main pahunchaa ja saktaa he nimnlikhit chitra ke adhyayan se kii ek parshv main parivartan kaise karn main ek parivartan ke utpaadan kar saktaa he or ek thoda kalan kaa upyog karke.
+ parshv a ke da main parivartan ke parinaam swarup,
+ trikon kii samanta or antar main badlaav ke liye.isliye
+ char ke viyojan par.
+ parshv b main parivartan ke liye ek doosraa kaarykaal jodne kaa parinaam he.
+ samekit detaa he
+ jab a = 0 tab c = b, to b2 "nirantar" he. isliye
+ jaise dekha ja saktaa he, parivartan or parshvon ke bich vishesh anupaat ke kaaran he yah varg jabaki parshvon main parivartan kii swatantra yogadan kaa parinaam raashi he jo jyamitiya saakshyon se spasht nahin he. is die gaye anupaat se yah dikhaaya ja saktaa he kii parshvon main parivartan parshvon se pratipanupati anupaat hai. is vibhedak sameekaran suzav detaa he kii yah prameya sambandhit parivartan ke kaaran he or iske vyutpatti lagbhag line abhinn abhikalan ke samaan he.
+ yah maatra da or dc kramshah a or c main atyant chote parivartan hai. lekin ham iske badale vaastavik sankhya Δa and Δc kaa upyog karte hai, tab unke anupaat kii seemaa da/dc he jab unka aakaar shunya nikatataa, vyutpanni or c/a bhi nikatataa he, trikon ke parshvon kii lambaai kaa anupaat or vibhedak sameekaran kaa parinaam pataa chalata he.
+ is prameya kaa viparyaay bhi sach he:
+ kisi bhi teen dhanatmak sankhya a, b or c aisi he a2 + b2 = c2, vahaan ek trikon maujuud he jiske parshv hai a, b or c or har aise trikon main parshvon ke bheech ek samakon he jinaki lambaai a or b he.
+ yah viparyaay euclid ke tatwon main maujuud hota he.kosine kii vidhi kaa prayog karke yah sabit kiya ja saktaa he, yaa nimnlikhit pramaan ke dwaara:
+ ABC ko ek trikon maanate hai jiske parshvon kii lambaai a, b or c he, a2 + b2 = c2 ke saath.hamen yah sabit karnaa he ki a or b parshvon ke bich ke kone samakon he. ham ek or trikon kaa nirmaan karte hai jisamen parshvon ke bich ek samakon he jisaki lambaai a or b he. paaythagorian prameya se, nimnanusaar he ki is trikon ke karn lambaai bhi c he. chunki donon trikon ke parshvon kii ek hi lambaai he a, b or c, ve anukool hai or isliye unka ek hi kone hona chahie.isliye, jin parshvon kii lambaai a or b he hamaare mul trikon main unke bich kaa kone ek samakon he.
+ paaythagorian prameya ke viparyaay kaa ek anumaan he kii nirdhaaran karne kaa ek saral tarika he kii yadi ek trikon samakon, obtyus, yaa acute he, is prakaar se.jahaan c ko teenon parshvon main lanbaa chunaa gaya he:
+  ek paaythagorian tripal main teen sakaaratmak purnank hai a, b or c, jaise kii a2 + b2 = c2.anya shabdon main, ek paaythagorian tripal ek samakon ke parshvon kii lambaai kaa varnan karata he jahaan teenon parshv kii purnank lambaai he. uttari europe ke bade pattharon se bane smarakon se sakshya yah dikhaate hai ki aise tripal likhane kii khoj se pehle se jane jaanate the. is tarah ke tripal saamanytah se likhe gaye hai .kuch prasiddh udhaaharan hai or 
+ ,, ,, ,, ,, ,, ,, ,, , 
+ paaythagorian prameya ke parinaamon main se ek he ki taratamyaheen lambaai, jaise kii 2 kaa vargamul, banaaya ja saktaa he. ek samakon jiske pair donon ek ikai ke baraabar hai uske karn kii lambaai 2 kaa vargamul he. yah pramaan ki 2 kaa vargamul tarkahin he lambey samay se yojit vishwaas ke vipareet tha ki sab kuch tarksangat tha. puranic katha ke anusaar, hippasus, jisane do ke vargamul kii tarkshoonyata sabase pehle sabit kari thi, use parinaam ke rup main samudr main dub gaya tha.
+ kaatizian nirdeshaank main duurastha formula ko paaythagorian prameya se se praapt kiya gaya he. agar or chauras main ank hai, to unke bich kii duuri, jise yucalidian duuri bhi kaha jaataa he, jo diya jaataa he
+ atirikt saamanytah se, yucalidian main n-antar, do binduon ke bich kii yucalidian duuri,   A =   {\displaystyle \scriptstyle A\,=\,} or   A =   {\displaystyle \scriptstyle A\,=\,}, paaythagorian prameya kaa upyog karte hue, paribhaashit kiya gaya he:
+ euclid ke tatwon main boudhayan prameya ko saamanyakrit kiya gaya tha:
+ agar koi ek samaan aankade khadaa karata he ek samakon trikon ke parshvon main, to do chhoton ke kshetron kaa jod bade ke kshetrafal ke baraabar he.
+ boudhayan prameya, parshvon kii lambaai se sambandhit adhik saamaanya prameya kaa ek vishesh cese he, kosine kii vidhi:
+ is jatil aantarik utpaada antariksh main do vector v or w diya jaae, to boudhayan prameya nimnlikhit rup le leti he:
+ vishesh rup se,||v + w||2 =||v||2 +||w||2 agar v or w ayty hai, haalanki viparyaay kaa sach hona zaruri nahin he.
+ ganitiya preran kaa prayog karke, pichhlaa parinaam kisi parimit sankhya ke jodon main ayty vector tak badhaayaa ja saktaa he. ke kisi bhi parimit sankhya ko badhaayaa ja saktaa he.v1, v2,…, vn ko vector maanate hai ek aantarik utpaada antariksh main jisamen = 0 jab 1 ≤ i γ hota he. isliye, a2 + b2 > c2 hota he.
+ jin trikon main ek obtyus kone hota he, α + β < γ hota he. isliye, a2 + b2 < c2 hota he.
+ edsjar disxtra ne is prastaav ko acut, samakon or obtyus trikon ke bare main is bhashaa main kaha he:
+ jahaan kone α parshv a ke vipareet he, kone β parshv b ke vipareet he or kone γ parshv c ke vipareet he.
+ yucalidian jyamiti ke siddhant se paaythagorian prameya se praapt hua he, vastav main, upar bataae paaythagorian prameya kaa yucalidian prakaar bina yucalidian jyamiti ke nahin hota he. swasiddh ke baraabar dikhaaya gaya he.) udhaaharan ke liye, goleey jyamiti main, octate se simit ikai kshetra ke samakon trikon ke teenon parshvon kii lambaai   π / 2  {\displaystyle \scriptstyle \pi /2} ke baraabar he; yucalidian paaythagorian prameya kaa ulanghan karti he kyunki   π / 2  {\displaystyle \scriptstyle \pi /2} 
+ iskaa matlab he kii bina yucalidian prameya main, paaythagorian prameya ko yucalidian prameya se ek alag rup lenaa chahie.yahan do maamalon par vichaar karnaa padegaa- golakaar jyamiti or atishyoktipurna samtal jyamiti hai; har maamle main, yucalidian maamle kii tarah, uchit kosine ke niyam se parinaam nikalataa he:
+ ek gola jisaki trigya R he usapar koi bhi samakon trikon ke liye, paaythagorian prameya yah rup letaa he
+ yah sameekaran kosine ke golakaar kanoon kaa ek vishesh maamle ke rup main praapt kiya ja saktaa he. is kosine samaaroh ke liye mcclaurin shrinkhalaa kaa upyog karke, yah dikhaaya ja saktaa he ki trigya R anantta tak pahunchataa he, ke rup main he, paaythagorian prameya kaa golakaar rup yucalidian rup tak pahunchataa he.
+ is atishyoktipurna samtal main kisi bhi trikon ke liye, paaythagorian prameya yah rup letaa he
+ jahaan cosh ke atishyoktipurna kosine he.
+ is prakaarya ke liye mcclaurin shrinkhalaa kaa upyog karke, yah dikhaaya ja saktaa he ki jis tarah atishyoktipurna trikon bahut choti ho jaat he, paaythagorian prameya kaa atishyoktipurna rup yucalidian rup ko nikatataa he.
+ atishyoktipurna jyamiti main, ek samakon trikon ke liye bhi likhaa ja saktaa he,
+ jahaan     a ¯    {\displaystyle \scriptstyle {\bar {a}}} rekha khand ab kii samanta kaa kone jo     a ¯    {\displaystyle \scriptstyle {\bar {a}}} jahaan μ gunatmak duuri prakaarya he .
+ atishyoktipurna trikonmiti main, sin ke kone kii samanta santusht karata he
+ is prakaar, yah sameekaran rup letaa he
+ jahaan a, b, and c samakon trikon ke parshvon kii ganaatmak dooriyaan hai .
+ 3 ayaamon main ank { and { ke bich kii duuri √2+2)]2+2) = √2+2+2) he or isi prakaar 4 yaa adhik ayaamon ke liye.
+ paaythagoras formula ko cartigian nirdeshaank samtal main do ankon ke bich kii duuri pataa karne ke liye prayog kiya jaataa he or maanya he agar sab nirdeshaank asli hai: ank {2+2).lekin jatil nirdeshaank ke saath: udhaaharan, ank { or {i,0} ke bich kii duuri shunya banegi, jiskaa parinaam he ridakshio ed absurdam.yah isliye he kyonki yah formula paaythagoras kii prameya par nirbhar he, jo apane has pramaan main kshetrafal par nirbhar he or kshetrafal trikon par nirbhar he or anya jyamitiya aankadon par jo andar ko bahaar se alag karti he, jo mumkin nahin hota agar nirdeshaank jatil hote.
+ is prameya kaa itihaas chaar bhaagon main baanta ja saktaa he: paaythagorian tripal kaa gyaan, samakon trikon parshvon ke bich ke rishte kaa gyaan, asann kone ke bich sambandhon ke gyaan or prameya ke pramaan.
+ misr main bade pattharon kaa bana smarak lagbhag 2500 BC se or uttari europe main, purnank parshvon ke samakon trikon shaamil hai. bartel leandert won dar varden kaa anumaan he kii yah paaythagorian tripal kii khoj bijiy se hui he.
+ 2000 or 1786 BC ke bich likhaa gaya, misr kii madhyam kingdom papirus berlin 6619 main ek samasya shaamil he jiskaa samaadhaan ek paaythagorian tripal he.
+ mesopotamia ke notebook plimpton 322, 1790 or 1750 BC main mahaan hammurabi ke shasankaal ke dauraan likhaa gaya tha, jisamen kai pravishtiyon shaamil hai jo paaythagorian tripal ke nikatataa se sambandhit. 
+ baudhyanasulba sutara, jisaki vibhinn tarik 8 veen shatabdi BC or 2 veen shatabdi BC ke bich die gaye hai, bharat main, jisamen paaythagorian tripal kii ek suchi shaamil he jisaki khoj bijiy se hui he, paaythagorian prameya kaa ek bayaan or ek samdvibahu samakon trikon ke liye paaythagorian prameya kaa jyamithik pramaan he.
+ apastamba sulba sutara main saamaanya paaythagorian prameya kii sankhyatmak pramaan shaamil hai, ek kshetra sanganana ke upyog se.won dar varden kaa vishwaas he "yah nishchit rup se pehle ke paramparaon par aadhaarit thi".albert burk ke anusaar, yah prameya kaa mul pramaan he; usne aage prameya kiya kii paaythagoras ne arakonam kaa daura kiya, bharat or uski nakal kari.
+ paaythagoras ne, jisaki tareekhen saamanytah 569-475 BC di gai he, paaythagorian tripal ke nirmaan ke liye bijiy tareeke kaa istemaal karke, euclid main proklose kii camentry ke anusaar.proklose ne, tathaapi, 410 or 485 AD ke bich likhaa tha. sar thomas el. hith ke anusaar, paaythagoras ko prameya kaa koi ropan nahin tha paanch sadiyon tak paaythagoras ke jivit rahane tak.haalanki, jab plutarch or siceru jaise lekhakon ne paaythagoras ko prameya tehraaya, unhone is tarah se kiya jo ki ropan vyapak rup se janaa jaae or nihsandeh rahe.
+ 400 BC ke dauraan, proklose ke anusaar, plato ne paaythagorian tripal ko khojane kii ek vidhi di jise bijganit or jyamiti sanghatit hua. lagbhag 300 BC, euclid ke "tatwon" main, prameya kaa sabase purana vartmaan siddhanton vaala pramaan pesh kiya gaya tha.
+ kuch samay 500 BC or 200 AD ke bich likhaa gaya tha, chini paath chau pi suan ching, paaythagorian prameya kaa ek drishy pramaan detaa he - china main ise "gaugu prameya" kaha jaataa he — trikon ke liye.haan rajvansh ke dauraan, 202 BC se 220 AD tak, paaythagorian tripal ko ganitiya kala ke nauven adhyay main dekha gaya he, samakon trikon ke ek ullekh ke saath.
+ china main pehla record kiya gaya upyog he, jo "gaugu prameya" ke naam se janaa jaataa he, bharat main bhaskar prameya ke naam se janaa jaataa he.
+ kaaphi bahes he kii kya paaythagorian prameya kii khoj ek yaa kai baar hui thi. boyar kaa sochna he kii shulba sutara main paae gaye tatv mesopotamia vyutpatti ke ho sakate hai.
+ paaythagorian prameya puure itihaas main kai kism kii maas media main sanderbhit he.
+ ! "bijukha dwaara pradarshit "gyaan" galat he. sahi bayaan "ek samakon trikon ke pairon ke virgon kaa jod baaki parshvon ke varg ke baraabar hai" hota.
+ ! "

@@ -1,0 +1,2 @@
+ ganit main avakal  ganit calculas kaa upbhaag he jisamen parivartan kii dar kaa adhyayan kiya jaataa he. calculas kaa doosraa upbhaag samakalan ganit he.
+    f ′  = lim h → 0   f − f  h   {\displaystyle f'=\lim _{h\to 0}{f-f \over h}} 

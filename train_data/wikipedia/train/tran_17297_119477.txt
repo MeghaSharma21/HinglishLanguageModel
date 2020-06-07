@@ -1,0 +1,1 @@
+ inascript ek band-strot librari he jo ki ECMA-262 tritiy sanskaran hetu ek ECMAScript ingine uplabdh karwaati he.. yah si++ main likhi gayi he. yah ikeb 2 tathaa 3 naamak web broujar ke dwaara prayog kii gayi thi. ikeb 4 wepikit leout ingine kaa ECMAScript ingine javascript kor ke saath prayog karata he. 

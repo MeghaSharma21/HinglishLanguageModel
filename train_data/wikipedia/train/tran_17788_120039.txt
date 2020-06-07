@@ -1,0 +1,15 @@
+ ganit main kisi falan ke sabase adhik or sabase kam maan ko us falan kaa ucchisht or nimnisht  kehete hai. ucchisht or nimnisht ko sammilit rup se charam kehete hai. ye ucchisht or nimnisht falan ke kisi simit kshetra main ho sakate hai athwa us falan ke sampoorn domen main. falan ke kisi simit kshetra main sthit ucchisht or nimnisht ko 'sthaneey charam' kehete hai jabaki falan ke sampoorn domen main falan kaa jo sabase adhik/kam maan ho use 'global charam' kehete hai. parshv chitra main lobal or local charam maan dikhaaye gayi hai.
+ isse adhik vyapak rup se kahen to, kisi samucchy kaa ucchisht or nimnisht, us samucchy ke sadasyon main sabase adhik or sabase kam maan vaale sadsy hote hai. 
+ falnon ke charam maanon ko nikaalnaa hi ishtatmakaran kaa uddeshy he. 
+ ham nimnlikhit falan par vichaar karte hai 
+ sabase pehle ham is falan kaa pratham avkalaj nikaalte hai or usko shunya ke baraabar rakhkar sambhavit ucchisht/nimnisht kaa pataa lagaate hai.
+ is baat ko sunishchit karne ke liye ki x = 0 par ucchisht/nimnisht he, ham is x=0 par is falan ke dwitiya avkalaj kaa maan nikaalte hai or dekhte hai ki donon binduon par dwitiya avkalaj dhanatmak he yaa rinatmak.
+ nimnlikhit falan ko lete hai-
+ iskaa pratham avkalaj nikaalte hai:
+ falan kaa dwitiya avkalaj yah he: 
+ pratham avkalaj ko shunya rakhane par x kaa maan nimnlikhit miltaa he-
+    x 1  =  1 2   {\displaystyle x_{1}={\sqrt {\frac {1}{2}}}} par falan ke dwitiya avkalaj kaa maan rinatmak he, atah x=x_1 par is falan kaa ucchisht he.isi prakaar ham dekhte hai ki   x 2  = −  1 2   {\displaystyle x_{2}=-{\sqrt {\frac {1}{2}}}} par falan ke dwitiya avkalaj kaa maan dhanatmak he, atah x_2 par falan kaa nimnisht he.
+ nimnlikhit falan par vichaar karen jiskaa graph saamne diya gaya he-
+ sabase pehle ham is falan kaa pratham avkalaj nikaalte hai or usko shunya ke baraabar rakhkar sambhavit ucchisht/nimnisht kaa pataa lagaate hai.
+ is baat ko sunishchit karne ke liye ki x = 0 par ucchisht/nimnisht he, ham is x=0 par is falan ke dwitiya avkalaj kaa maan nikaalte hai or dekhte hai ki yah dhanatmak he yaa rinatmak.
+ atah ham nishkarsh nikaalte hai ki is falan kaa koi na ucchisht he na koi nimnisht.

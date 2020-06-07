@@ -1,0 +1,13 @@
+ pratijyaptik kalan tathaa booleey bijganit main nimnlikhit do niyamon ko demorgan niyam kehete hai.
+ " nahin" evam " yaa " samaan hai.
+ isi prakaar,
+ " nahin" evam " or " samaan hai.
+ angreji main,
+ "not '" is the same as " or "
+ also,
+ "not " is the same as " and ".
+ samucchy siddhanth or booleey bijganit main ise nimnlikhit prakaar se likhaa jaataa he-
+ jahaan:
+ vidyut ejiniyari, electronics tathaa computer ejiniyari main demorgan ke niyam ko nimnlikhit dhang se likhaa jaataa he-
+ tathaa
+ jahaan:

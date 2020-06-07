@@ -1,0 +1,9 @@
+ ganit main 1 - 2 + 4 - 8 + · · · ek anant shrenee he jiske vyanjak uttarotar do kii ghaat ke rup main hai. ek gunottar shrenee ke rup main iskaa pratham pad 1, he or sarvanupaat -2 he.
+ ek vaastavik sankhyaon kii shrenee ke rup main yah anant par apsaran karti he, atah vaastavik paridrishy main iskaa sankalan mahatv hin he. vistrut rup se dekhne par shrenee kaa vyapak sankalan ⅓ he.
+ yahan par a= 1 or r = - 2 he atah sankalan kaa maan ⅓ hoga.
+ leonard oiler ne abhisari shrenee ½ − ¼ + ⅛ − 1/16 + ... se 1 - 2 + 3 - 4 + · · · ke roopantaran kaa adhyayan kiya jise ab oiler roopaantar ke rup main janaa jaataa he. oiler ne nishkarsh nikaala ki 1 − 2 + 4 − 8 + ... = ⅓. unke anant shrenee ke sankalan se sambandhit vichaar aadhunik pahunch se mail nahin khate, aaj oiler sankalan ke anusaar 1 − 2 + 4 − 8 + ... oiler sankalneey he or iskaa oiler sankalan ⅓ he.
+ oiler roopaantar dhanatmak padon ke anukram se armbh hota he:
+ atah agr antar kaa anukram nimna prakaar hoga
+ jo abhinn anukram hai atah prayek n ke liye sabhi punrarit agr antar Δna0 = 1 se armbh hote hai. oiler roopaantar nimna shrenee he
+ yah ek abhisari gunottar shrenee he jiskaa saamaanya sutara se maan ⅓ praapt hota he.
+ shrenee 1 - 2 + 4 - 8 + . . . kaa boral sankalan bhi ⅓ he; jab emil borol ne 1896 main borol sankalan kaa seemaant sutara pratipaadit kiya tab shrenee 1 − 1 + 1 − 1 + ... ke baad yah uske udaahranarth pratham parinaamon main se ek tha.

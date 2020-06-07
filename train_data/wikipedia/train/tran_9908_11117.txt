@@ -1,0 +1,3 @@
+ computer yaa sangadak vigyaan main, binary tree ek tree data streqachar he. is tree kii mukhya visheshta yah he kii, isamen prayek node ke adhiktam do or nimnatam shunya children hote hai.
+ binary tree ek jad aadhaarit tree he. isamen prayek node kii adhiktam bahay shakha do hoti he. in children ko left or rhite child ke naam se jaanate hai. jin node ke child node hote he, unhen parent node kehete hai. 
+ binary tree ko nirdeshit evam anirdisht donon tareekon se pradarshit kar sakate hai. yadi chhatij tareeke se tree ko pradarshit kar rahen he to ise nirdeshit tree se pradarshit karte hai. or yadi binary tree ko urdhvadhar pradarshit kaa rahen he, to ise anirdisht tree se pradarshit karenge.

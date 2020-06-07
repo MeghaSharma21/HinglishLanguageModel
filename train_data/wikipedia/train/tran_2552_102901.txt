@@ -1,0 +1,1 @@
+ chaaya prakriya ke antargat, santulit histogram thresholding vidhi swatah chaaya thresholding ke liye ek bahut hi saral vidhi ha| jaise otsu kii vidhi or punraritiya sankalan thresholding vidhi. yah ek histogram par aadhaarit thresholding vidhi he. is paddati ke anusaar kisi chhavi ko mukhyatah do pramukh shreniyon main vibhajit kiya jaataa he: pariprekshya or agrabhumi.

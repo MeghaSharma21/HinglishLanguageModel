@@ -1,0 +1,19 @@
+ clasik-remington nai devanagari ibus lekhan vidhi he jiskaa prayog, ubuntu yaa jisamen bhi "M17n" librari samarthit ho, main kiya jaataa he.
+ remington lekhan vidhi kaa vikaas "shiv shankar gupta", jo lekhan ke kshetra main karyrat the, kiya he. roj naye lekhon ko sanjaal par daalane kii jarurat or kritidev phont jaise unicode lekhan pranali kii anuplabdhta ke chalate shiv shankar gupta ne is vidhi kaa vikaas kiya.
+ nai vidhi hone ke baavjood jinka haath kritidev ke hisaab se chalata he wo iskaa prayog bina kisi samasya ke kar sakate hai. vastutah ye vidhi unheen ke liye he jo kritidev main kaary karte rahete he.
+ 1- kritidev phont kaa prayog keval Wordpad, Microsoft Word yaa usee ke jaise anuprayogon main ho saktaa he par Classic-remington kaa prayog har jagah kiya ja saktaa he.
+ 2- kritidev main likhe lekh ko nakal kar sanjaal par nahin daalaa ja saktaa par Classic-remington ke saath aisa nahin he.
+ 3- kritidev kaa prayog kuch hi anuprayogon main kiya ja saktaa he par Classic-remington ke saath aisa nahin he. iskaa prayog kshetra bahut vistrit he.
+ shiv shankar gupta ke saujany se Classic-remington kaa mul code unke dwaara vikipedia ko jari kiya gaya he. jo yahan diya ja rahaa he.
+ source code------------------------------------------------------------------
+ 
+ 
+ 
+ (map
+ (state
+ source code--------------------------------------------------------------
+ 1-apni suvidhanusaar kisi bhi naam kii ek khaali '.mim' fil main code kii nakal karke use surakshit kar den. 
+ 2-iske baad surakshit kii gai fil ko /usr/share/m17n main daal de.
+ 3-'ibus' ko band karke punah shuru karen.
+ 4-'ibus preference' main jaakar 'input method' par jaayen.
+ 5- bhashaa suchi ke hindi bhaag se 'classicremington' kaa chayan karen.

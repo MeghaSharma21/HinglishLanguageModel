@@ -1,0 +1,5 @@
+ anuprastha dravyaman kan bhautikee main upyog kii jane vaali ek mahatvapurn bhautik raashi he jis rup main yah z disha ke anudish lorents abhivardhan main nishchar rahati he. praakrit vimaa main
+ hadrone sanghatt bhautik vigyaani anuprastha dravyaman kii alag paribhaasha kaa upyog karte hai, kisi kan ke dwi-kan kshay kii sthiti main:
+ atah isi prakaar,
+ dravyaman rahit kshay kanon ke liye, jahaan   m 1  = m 2  = 0  {\displaystyle m_{1}=m_{2}=0}, anuprastha urja saadhaaran rup se   E T  = |   p →  T  |  {\displaystyle E_{T}=|{\overrightarrow {p}}_{T}|} praapt hoti he or anuprastha dravyaman nimna hoga
+    M T   {\displaystyle M_{T}} kaa vitaran, matra kan ke satya dravyaman   M T  ≤ M  {\displaystyle M_{T}\leq M} par antim bindu rakhata he. ise tewatron main   W  {\displaystyle W} kaa dravyaman gyaat karne ke liye kiya jaataa tha.

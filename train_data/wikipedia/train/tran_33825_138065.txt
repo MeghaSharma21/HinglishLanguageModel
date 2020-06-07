@@ -1,0 +1,4 @@
+ vyanjan shabd kaa prayog waisi dhvaniyon ke liye kiya jaataa he jinke ucchaharan ke liye kisi swar kii zarurat hoti he. aisi dhvaniyon kaa uccharan karte samay hamaare mukh ke bheetar kisi na kisi ang vishesh dwaara vaayu kaa avrodh hota he.yah jab ham bolte he,hamaare jeebh muh ke upar ke hisse se ragadkar ushn hawa baahar aata he.
+ is talika main sabhi bhashaaon ke vyanjan giye gayi hai, unke IPA varnaksharon ke saath.
+ note karen :
+ dhyaan den ki mahapraan dhvaniyon, jaise kha, gha, pha, dha, aadi ke liye uske alpapraan chinh ke baad superscript main h kaa nishaan lagaaya jaataa he, jaise :

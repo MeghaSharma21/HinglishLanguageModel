@@ -1,0 +1,13 @@
+ vidyut shakti ek pranali ke bheetar parmparik aaweshit kanon ke bich culumb bal se judy sthitij urja hoti he. yahan aparimit sthit kanon ke bich sandarbhit vibhaveey urja shunya hoti he.:§25-1 isaki paribhaasha he: kaary kii maatra, jo aaweshit bhaar rahit kanon par lagaayi jaye, jisase ve aparimit duuri se kisi nishchit duuri tak laaye ja saken. 
+ vidyut aadhunik jivan ke sabhi kshetron ke liye anivaary aavashyaktaa he or ise mul maanviya aavashyaktaa ke rup main mana gaya he. yah mahatvapurn mul sanrachana he jis par desh kaa saamaajik-aarthik vikaas nirbhar karata he. pratispardhi daron par bharosemand or gunvattta vidyut kii uplabdhta arthvyavastha ke sabhi kshetron ke vikaas ko banaae rakhane ke liye bahut hi mahatvapurn he arthath praathmik, dwitiyak or tritiyak. yah gharelu bazaaron ko vaishvik rup se pratispardhi banane main sahaayta karti he or is prakaar se logon kaa jivan str sudharta he.
+ bharat ke samvidhan ke antargat bijli samavarti suchi kaa vishay he jisaki saatvin anusuchee kii suchi iii main pravishti sankhya 38 he. bharat vishwa kaa chatha sabase bada urja upabhokta he jo vishwa ke kul urja khapat kaa 3.5 pratishat upbhog karata he. tapiya, jal bijli or nabhikeey urja bharat main bijli utpaadan ke mukhya strot hai. kul santhaapit vidyut utpaadan kshamta 1,47,402.81 megawatt, rahi he, jisamen 93,392.64 megawatt ; 36,647.76 megawatt ; 4,120 megawatt ; or 13,242.41 megawatt shaamil hai.
+ sthaayee avasthaa main, pradaan kii gai vidyut urja aavesh ke samaanupati hoti he:
+ yahan W urja he, Q aavesh tathaa   Δ V  {\displaystyle \Delta V} vibhavaantar he.
+ isamen   Q = I ⋅ t  {\displaystyle Q=I\cdot t}, rakhane par :
+ jahaan   P  {\displaystyle P} shakti tathaa t samay main he.
+ kilowat-ghanta vidyut urja kaa suvidhajanak maatrak he jo badi maatra main vidyut urja kii maatra ko abhivyat karne ke liye prayog kiya jaataa he.
+ samaran rahe ki   1 J = 1 W ⋅ 1 s  {\displaystyle 1\;J=1\;W\cdot 1\;s} 
+ jul ke niyam ke anusaar kisi pratirodh main dhara pravaahit karne par pratirodh main ooshmaa ke rup main vidyut urja kaa kshay hota he.
+ yadi pratirodh   R  {\displaystyle R} main   i  {\displaystyle i} dhara pravaahit ho to,
+ atah 
+ yahan   W  {\displaystyle W} jul main,   R  {\displaystyle R} om main,   i  {\displaystyle i} ampir main tathaa   t  {\displaystyle t} second main he.

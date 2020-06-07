@@ -1,0 +1,1 @@
+ object oriented programing, computor programing kaa ek prakaar he, jo objects kii pariklpana par aadhaarit he. object oriented programingko samajhane hetu kuch aadharbhoot siddhanton or iske mukhya ghatakon ko samajhnaa aavashyak he. jaise-object, class, methd, ityadi.

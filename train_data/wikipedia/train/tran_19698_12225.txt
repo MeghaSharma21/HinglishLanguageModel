@@ -1,0 +1,14 @@
+ LC paripath main prerakatv tathaa sandharitra hote hai. inako 'anunaadi paripath' yaa 'tanks paripath' yaa 'tund paripath' bhi kehete hai. L or C milakar ek vaidyut anunaadi kii tarah kaam karte hai . 
+ LC kaa upyog kisi niyat aavriti kaa vaidyut sanket utpann karne ke liya kiya jaataa he. iske alaava ise kisi jatil sanket main se kisi nishchit aavriti ke sanket ko chunane ke liye bhi kaam main laayaa jaataa he. is kaaran LC paripath bahut se electranik yuktiyon main prayukt hote hai, jaise radio main compitra, filter, tuner or aavriti mishrak ke rup main prayog kiya jaataa he.
+ LC paripath ek adarshikrut paripath he jo is manyata par banaaya gaya he ki is paripath main pratirodh anupasthit yaa shunya he or is kaaran urja kaa hraas shunya he. kintu kisi bhi vyaavhaarik LC paripath main kuch na kuch urja hraas avashya hoga. yadhyapi koi bhi paripath shuddh rup main LC nahin he phir bhi is adarsh paripath kaa adhyayan samaj viksit karne ke liye upyogi he. 
+   Z =  R + j ω L + 1 /    {\displaystyle Z=\ R+j\omega L+1/\,\!} 
+    ω 0  =  1 /  L C    {\displaystyle \omega _{0}=\ 1/{\sqrt {LC}}\,\!} 
+   Q =  L ω 0  / R   {\displaystyle Q=\ L\omega _{0}/R\,\!} 
+   Y =  1 / R + 1 /  + j ω C   {\displaystyle Y=\ 1/R+1/+j\omega C\,\!} 
+    ω 0  =  1 /  L C    {\displaystyle \omega _{0}=\ 1/{\sqrt {LC}}\,\!} 
+   Q =  R /    {\displaystyle Q=\ R/\,\!} 
+ 
+ LC paripath kaa kampan kii aavriti L tathaa C ke maan par nirbhar karti he. kampan kii koniya aavriti nimnlikhit sutara se di jaati he.
+ tathaa aavriti hertz main,
+ anunaad kii sthiti main ,
+ spasht he ki yadi urjahraas se rahit paripath ho to

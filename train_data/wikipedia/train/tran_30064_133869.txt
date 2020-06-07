@@ -1,0 +1,3 @@
+ sankriyaatmak pravardhak yaa aaparational emplifire ek ekikrut paripath ke rup main nirmit DC-kapald, atyadhik-labdhi vaala voltage emplifire he. isamen praaia: difrenciel input or ekmev output hota he. aadhunik electraniki main iske anekanek upyog hai. praaia: ise rinatmak feedback dekar amplifire aadi ke rup main prayog kiya jaataa he yaa dhanatmak feedback dekar asilator aadi banaaye jate hai. iskaa input impidence bahut adhik tathaa output impidence bahut kam hota he.
+ vaastavik op-amp, adarsh op-amp ke gunon ke najadik pahunchane kii koshish kar rahe hai. vaastavik aaparational empliphiron ke kuch saamaanya gun nimnavat hai-
+ neeche kii sarini main kuch aaparational empliphiron ke gun diye gayi hai-

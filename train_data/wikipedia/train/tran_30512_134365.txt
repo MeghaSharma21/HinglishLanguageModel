@@ -1,0 +1,7 @@
+ anuroop filter yaa analog filter electraniki main prayukt hone vaale sanket prasanskaran ke moolbhoot avyav hai.
+ anuroop filtron ke kuch kaary nimnlikhit hai-
+ anuroop filter mukhya rup se do prakaar ke hote hai-
+ aavriti-band ke aadhaar par analog filtron ke nimnlikhit prakaar hai-
+ dizin ke anusaar analog filtron ke nimnlikhit prakaar hai-
+ pasive analog filter ke vikaar ke mukhya teen charan the-
+ jab op-amp kaa vikaas hua to analog filter ke kshetra main active filtron kaa padaarpan hua. microcontrolar, dspi, microprocesar aadi computing yuktiyon ke aagaman ke baad filtering kaa kaary digital rup main bhi hone laga, jise 'digital filter' kehete hai.

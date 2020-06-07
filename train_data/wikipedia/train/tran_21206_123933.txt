@@ -1,0 +1,33 @@
+ steffon volzamaan niyam jise steffon kaa niyam ke naam se bhi janaa jaataa he ek sambandh he jo krishnika dwaara vikarit shakti ko taap ke shabdon main varnit karata he. vishesh rup se steffon volzamaan niyamanusaar ikai samay main sabhi tarangadairghy paraas main krishnika dwaara prati ikai prishthiya kshetrafal dwaara vikarit kul urja   j ⋆   {\displaystyle j^{\star }} krishnika ke ooshmagatikeey taap T ke chaturth ghaat ke anukramanupati hota he :
+ anukramanupati niyatank σ ko steffon-bolzamaan sthiraank athwa steffon niyatank kaha jaataa he jise anya gyaat moolbhoot bhautik niyatankon se vyutpan kiya jaataa he. iskaa maan nimna hota he :
+ jahaan k boltsman niyatank he, h plank niyatank or c nirvaat main prakaash kaa veg he. atah 100 K taap par urja falks ghanatv 5.67 W/m2 hota he evam 1000 K par 56,700 W/m2, aadi. vikaran kaa maan inhen π se vibhajit karne par praapt hota he.
+ ek pind jo sabhi aaptit vikiranon ko avashoshit nahin karata krishnika kii tulana main kam kul urja utsarjit karegaa or ise utsarjaktaa   ε < 1  {\displaystyle \varepsilon <1} dwaara varnit kiya jaataa he :
+ kirann   j ⋆   {\displaystyle j^{\star }} kii vimaa urja falks ke samaan hoti he or anterrashtriya ikai pranali main jul prati sacond prati varg meter athwa samaan rup se wat prati varg meter hoti he. nirpeksh taap T kii anterrashtriya ikai pranali main ikai kelvin he.   ε  {\displaystyle \varepsilon } ko dhoosar pind kii utsarjaktaa kaha jaataa he; yadi yah adarsh krishnika he to,   ε = 1  {\displaystyle \varepsilon =1} hota he. adhik vyapak rup main utsarjaktaa tarangadairghy par nirbhar karti he arthath utsarjaktaa tarangadairghy kaa falan he,   ε = ε  {\displaystyle \varepsilon =\varepsilon } .
+ kisi vastu dwaar vikarit shakti ko prishthiya kshetrafal,   A  {\displaystyle A} se guna karne par:
+ steffon volzamaan seemaa ke baahar adhidhaatu banaai ja sakati hai.
+ yah niyam joseph steffon dwaara jon tindal dwaara nirmit praayogic parikshan ke aadhaar par 1879 main pratipaadit kiya gaya or ludwig boltzman ne 1884 main ushmagatiki ke upyog se iskaa saidhantik vishleshan kiya.
+ steffon ne apane niyam kii sahaayta se surya kaa prishthiya taap gyaat kiya. unhone charles soret ke aankadon se gyaat kiya ki surya se urja falks ghanatv nishchit taap par garm kii gai patalika se 29 guna adhik hota he. ek gol patalika prekshan yantra se kuch duuri par is tarah se rakhaa gaya ki yah surya ke samaan kone par dikhaai de. soret ne patalika kaa taap lagbhag 1900 °C se 2000 °C prakkalit kiya.
+ surya ke alaava ek taare ke taapmaana ko isse utsarjit urja ko krishnika chikiran ke samaan maanakar sanniktan kiya ja saktaa he. atah:
+ jahaan L dipti he, σ steffon-bolzamaan sthiraank, R stailer trigya or T prabhavi taap he. yahi sutara surya ke saapeksh mukhya anukram taare kii trigya gyaat karne ke liye bhi kaam main liya ja saktaa he:
+ jahaan   R ⊙   {\displaystyle R_{\odot }}, saura trigya he.
+ steffon volzamaan niyam kii sahaayta se, khagolgy aasaani se taare kii trigya kaa anumaan laga lete hai. yah niyam blike hole ke ushmagatiki ke adhyayan main bhi miltaa he jise hawking vikiran ke naam se janaa jaataa he.
+ isi prakaar se ham krishnika sanniktan dwaara surya se praapt urja or prithvi se vikarit urja ko samikrut kar prithvi kaa prabhavi taap TE gyaat kar sakate hai. surya dwaara utsarjit shakti, ES, nimna sameekaran dwaara di jaati he:
+ prithvi par a0 ke gole se guzarane vaali urja, surya or prithvi ke madhya duuri or gole ke prayek varg meter se guzarane vaali urja nimna sameekaran dwaara di jaati he
+ ek box nihit vikiran   T 4   {\displaystyle T^{4}} ke anukramanupati hoti he is prabhaav ko ushmagatiki ke upyog se vyutpann kiya ja saktaa he. yah chirsmmat vidyutgatiki kaa paalan karata he jahaan vikiran daab   P  {\displaystyle P} aantarik urja ghanatv se sambandhit hota he:
+ box kii kul aantarik urja jisamen vikiran nihit he ko nimna prakaar likhaa ja saktaa he:
+ ise moolbhoot ushmagatikeey sambandh main rakhane par
+ jiske parinamswaroop
+ atah
+ yah sameekaran maxwell sambandhon se praapt kiye ja sakate hai. uparokt sameekaran se inhen nimna prakaar likhaa ja saktaa he:
+ or
+   S  {\displaystyle S} ke dwitiya koti avkalaj kii   P  {\displaystyle P} or   V  {\displaystyle V} ke saath samanta kaa parinaam nimna prakaar he:
+ yah pradarshit kiya ja saktaa he ki   n  {\displaystyle n} vimi samshti main vikiran daab nimna sameekaran dwaara diya jaataa he
+   P =  u n   {\displaystyle P={\frac {u}{n}}} 
+ atah   n  {\displaystyle n} vimi samshti main,
+   T d S = P d V + n V d P  {\displaystyle TdS=PdV+nVdP\,} 
+ isliye,
+ jisase nimna praapt hota he
+ yaa
+ maan rakhane par
+ vyapak rup main sthiraank kaa maan
+ jahaan   ζ  {\displaystyle \zeta } remaan jita falan or   p  {\displaystyle p},   n  {\displaystyle n} kaa ek falan he, jahaan   p = 4  {\displaystyle p=4} .

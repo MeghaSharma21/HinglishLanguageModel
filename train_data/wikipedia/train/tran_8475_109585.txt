@@ -1,0 +1,32 @@
+ kisi ek nishchit bindu se samaan duuri par sthit binduon kaa bindupath vrutt kehalaata he. yah nishchit bindu, vrutt kaa centre kehalaata he, centre or vrutt kii paridhi ke kisi bhi bindu ke bich kii duuri vrutt kii trigya kehalaati he. 
+ vrutt ek prakaar kaa shankav hota he jisaki utkendratha shunya hoti he arthath niyata samtal main anant par sthit hoti he. ek vrutt ko ek vishesh prakaar ke dirghavritt ke rup main bhi paribhaashit kiya ja saktaa he jisamen donon nabhiyaan sampati hoti hai or utkendrata 0 hoti he.
+ chaap: vrutt kii paridhi kaa koi bhi bhaag.
+ centre: vrutt par sthit sabhi binduon se samdurastha bindu.
+ jeeva: ek rekhakhand, jo vrutt par sthit kinhin do binduon ko milane par banataa he. ek jeeva vrutt ko do vruttkhandon main vibhajit karti he.
+ paridhi: vrutt ke chaaron ore kii vakr lambaai.
+ vyas: ek rekhakhand jiske antabindu vrutt par sthit hote hai or jo centre se gujarata he yaa vrutt ke kinhin do binduon ke bich kii adhiktam duuri he. yah vrutt kii sabase badi jeeva hoti he or yah trigya kii doguni hoti he.
+ discs: ek vrutt se ghira antah samatleey kshetra.
+ trigya: vrutt ke centre se vrutt kii paridhi ke kisi bhi bindu tak kaa ek rekhakhand, jo vyas kaa aadha hota he.
+ trigyakhand: kinhin do trigyaon ke bich ek chaap se ghira kshetra.
+ vruttkhand: centrerahit ek kshetra jo vrutt kii ek jeeva or ek chaap se ghira hota he. ek jeeva vrutt ko do vruttkhandon main vibhajit karti he.
+ chhedak rekha: ek vistaarit jeeva, jo vrutt ke samatleey hoti he tathaa vrutt ko do binduon par pratichchhedit karti he.
+ ardhvrutt: vrutt ke vyas tathaa vyas ke antabinduon se bane chaap ke madhya kaa kshetra ardhvrutt hota he. ardhvrutt kaa kshetrafal, vrutt ke sampoorn kshetrafal kaa aadha hota he.
+ sparshi: vrutt ke samatleey sidhi rekha jo ek bindu par vrutt ko sparsh karti he.
+ euclid ke anusaar,
+ 'ek vrutt ek rekha se ghira hua ekavimiya samtal hota he or kisi nishchit bindu se lekar us bandharekha tak khinchi gai sabhi rekhaaen baraabar hoti hai. is bandharekha ko paridhi or is nishchit bindu ko vrutt kaa centre kehete hai.'
+ vrutt kii paridhi ko do binduon par pratichchhed karne vaali rekha ko us vrutt kii chhedak rekha kehete hai.
+ vrutt kii paridhi ko kisi ek bindu par sparsh karne vaali rekha ko us vrutt kii sparsh rekha kehete hai.
+ paridhi kii lambaai
+ vrutt kii paridhi tathaa uske vyas kaa anupaat π hota he, jiskaa maan lagbhag 3.141592654 ke baraabar he. is prakaar paridhi kii lambaai C, trigya r or vyas d se nimna prakaar sambandhit he:
+ C = 2πr = πd
+ kshetrafal:
+ archimedes ne vrutt ke kshetrafal maapan main siddh kiya ki ek vrutt se ghira kshetra ek tribhuj ke kshetrafal ke baraabar he, jiskaa aadhaar vrutt kii paridhi kii lambaai ke baraabar or isaki oonchai vrutt kii trigya ke baraabar hoti he. π tathaa trigya ke varg kaa gunanfal, vrutt ke kshetrafal ke baraabar hota he.
+ kshetrafal = πr2 
+ yadi vrutt kaa vyas d ho tab,
+ kshetrafal = /4 = 0.7854d2
+ yah varg ke kshetrafal ke lagbhag 79% ke baraabar he jisaki bhujaa kii lambaai d he.
+ sameekaran:
+ ek x-y kartiya nirdeshaank pranali main, centre or trigya r ke vrutt kaa sameekaran
+ 2 + 2 = r2
+ yadi vrutt kaa centre mulbindu tathaa trigya r ho tab vrutt kaa sameekaran:
+ x2 + y2 = r2

@@ -1,0 +1,3 @@
+ bangla lipi purvi nagari lipi kaa ek parimarjeet rup he jise bangla bhashaa, asamiya yaa vishnupriya manipuri likhane ke liye prayog kiya jaataa he. purvi nagari lipi kaa sambandh bramhi lipi ke saath he. aadhunik bangla lipi ko charles wilkins dwaara 1778 main aadhaar diya gaya jab unhone is lipi ke liye pehali baar tiphset kaa prayog kiya. asamiya evam manipuri likhte samay kamobesh isi lipi kaa prayog thode bahut parivartan ke saath kiya jaataa he. udhaaharan ke taur par, r akshar evam va main bhashanusaar antar dikhte hai. 
+ bangla ke liye unicode kaa range U+0980 se U+09FF he
+ 

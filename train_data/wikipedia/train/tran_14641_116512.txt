@@ -1,0 +1,2 @@
+ raikhik shakti aapurti vah shakti aapurti he jisamen output ko niyantrit karne vaali mukhya shakti-yukti 'lenior range' main kaam karti he na ki 'switch mod' yaa aan-aaf mod main nahin.
+ udhaaharan ke liye 15 volt output vaala 7815 voltage niyantrak isi ek raikhik shakti aapurti he. isi tarah 7812, 7805, 7915, 7912 aadi bhi lenior power supplai hi hai.

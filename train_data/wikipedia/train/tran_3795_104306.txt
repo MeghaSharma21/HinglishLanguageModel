@@ -1,0 +1,46 @@
+ 0 - shunyam
+ 1 - ekah, eka, ekam, 
+ 2 - dwau, dwe, dwe
+ 3 - trayah,tisrah,trini
+ 4 -chatvaara chatsrah, chatvaari
+ chaar ke baad sabhi sankhayen sabhi lingon main ekasmaan rup main hoti hai.
+ 5 - panch
+ 6 - shat
+ 7 - sapt 
+ 8 - asht
+ 9 - nav 
+ 10 - dash
+ 11 - ekadash
+ 12 - dwadash
+ 13 - trayodash
+ 14 - chaturdash
+ 15 - panchadash
+ 16 - shodash
+ 17 - saptadash
+ 18 - ashtadash
+ 19 - navadash/oonvinshatih/aconvinshatih
+ 20 - vinshatih
+ 21 - ekavinshatih
+ 22 - dwavinshatih
+ 23 - trinvinshtih
+ 24 - chaturvinshatih
+ 25 - panchavinshatih
+ 26 - shadvinshatih
+ 27 - saptvinshatih
+ 28 - ashtavinshatih
+ 29 - navvinshatih/ekontrinshat/oontrinshat
+ 30 - trinshat
+ 40 - chatvarinshat
+ 50 - panchashat
+ 60 - shashtih
+ 70 - saptatih
+ 80 - ashitih
+ 90 - navtih
+ 100 - shatam
+ 1000 - sahasram
+ 100000 - laksham
+ 100,00,000 - koti
+ aadha - ardham
+ ek pav - padam, ardhardham
+ puraa - purnam
+ anant - anantham

@@ -1,0 +1,3 @@
+ aisi programmen bhashaa ko scrypting bhashaa kehete hai jiskaa prayog karke kisi duusare saftware anuprayog par niyantran kiya ja sake or script ke sahare us anuprayog se adhik kaam liya ja sake. javascript, parl, pithan, rubi, piechapi aadi kuch pramukh scrypting bhashaaen hai.
+ udhaaharan ke liye firefaks ek broujar he jo si / si++ main likhaa hua he. iske upar javascript main kuchhek panktiyon kaa program likhakar bade-bade kaam karaaye jate hai.
+ scrypting bhashaayen kai maamle main bhinn hai. unki pramukh visheshtaayen is prakaar hai:

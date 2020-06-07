@@ -1,0 +1,6 @@
+ ruddhoshm prakram kisi ushma gatik nikaay main kiye gaye aise prakram ko kehete hai, jisamen parivartan ke samay nikaay or vahya vaataavaran ke bich ushmiya urja kaa aadan-pradaan na ho. 
+ ruddhoshm prakram kii pariklpana atyant vyaavhaarik mahatv kii he. teji se ghatit hone vaale anekon rasinic va bhautik prakram ruddhoshm prakram hote hai yaa ruddhoshm prakram ke sannikat hote hai. kintu ruddhoshm prakram ke pehle yaa baad ke prakram main ooshmaa kaa aadan-pradaan hota he.
+ vyutkramntic ruddhoshm prakram se hokar guzarate hue adarsh gas kaa ganitiya sameekaran nimnlikhit he-
+ 
+ where P is pressure, V is volume, and for this case n = γ where 
+ CP being the specific heat for constant pressure, CV being the specific heat for constant volume, γ is the adiabatic index, and f is the number of degrees of freedom .

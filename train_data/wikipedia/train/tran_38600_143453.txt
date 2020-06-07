@@ -1,0 +1,9 @@
+ microcontrolar ek aai si he jisamen puraa computer samahit hota he; arthath ek hi ai si ke andar computer ke chaaron bhaag nirmit hote hai.
+ vastutah yah bhi ek prakaar kaa microprocesar hi he kintu isaki dizin main is baat kaa vishesh dhyaan rakhaa jaataa he ki yah aatmanirbhar ho ; tathaa sasta ho. is uddeshy kii prapti ke liye praayah RAM va ROM bhi antahnirmit kar diye jate hai jabaki microprocessron ko kaam main laane ke liye RAM va ROM alag se lagaana pasta he.
+ pehle microcontrolar kii programing praayah asembli bhashaa main kerani padati thi. kintu aajkal achche-achche saftwaron ke aa jane se ab sidhe C yaa C++ main programing sulabh ho gayi he.jaise kii Arduino microcontrolar main bhi C programing kaam aati he| 
+ sabase pehla kaam karne main safal microcontrolar 1971 main banaaya gaya 
+ sonu p.o. laksar,distt haridwar u.k.
+ microprocesar
+ digital signal procesar
+ field programeble get arre
+ sanganak

@@ -1,0 +1,14 @@
+ dwi-vim samshti bhautik brahmand ke samatleey prakshep kaa jyamiti pratimaan he jisamen ham rahete hai. do vimaaon ko saamanytah lambaai or chaudaai kehete hai. donon dishaaen ek hi samtal main sthit hoti hai.
+ bhautik vigyaan or ganit main n-vimi samshti main kisi bindu kii sthiti ko vyakt karne ke liye ek n vaastavik sankhyaon ke anukram prayukt kiya jaataa he. jahaan n = 2, hone par praapt sthiti ko dwi-vim samshti athwa 2di kaha jaataa he or ise eucalidia samshti drushtikon bhi kaha ja saktaa he.
+ bhautik vigyaan main dwi-vim samshti antariksh ke samatleey nirupan ko kaha jaataa he jisame ham nivas karte hai or ise dwivim samshti kaha jaataa he.
+ do vimaaon main, anant rup se samabahubhuj paribhaashit kiye ja sakate hai. jinamein se kuch praarambhik nimna prakaar hai:
+ shlafali pratik {p} sam p-bhuj ko nirupit karata he.
+ sam -henagan {1} or samadvikon {2} ko apbhrasht samabahubhuj mana jaataa he. ye eucalidia samshti main apbhrashtataa-rahit astitv rakhte hai jaise ek 2-gola athwa 2-sthoolak.
+ is tarah ke anant dwi-vim samabahubhuj dekhe ja sakate hai jo uttal akruti nahin rakhte, jiskaa shlafali pratik parimey sankhyaon {n/m} se nirmit hota he. inhen bahubhaj sitara kaha jaataa he uttal samabahubhuj ke samaan sheersh-abhivinyas dwaara nirupit kiye jate hai.
+ vyapak rup main, kisi prakritik sankhya n ke liye, sabhi m ke liye, shlafali pratik {n/m} ke saath n-bindu uttaltaa rahit samabahubhuj sitara is prakaar hai ki m < n/2 }) or m tathaa n asahbhajya hai.
+ dwi-vim main adhigolak ek vrutt ko kehete hai, kabhi-kabhi ise 1-golak bhi kaha jaataa he kyonki yah ek-vimi bahumukh he. eucalidia samtal main isaki lambaai 2πr or iske antahkshetra kaa kshetrafal
+ he jahaan   r  {\displaystyle r} trigya he.
+ sarv-prachlit nirdeshaank paddati kartiya nirdeshaank paddati, dhruviya nirdeshaank paddati or bhugoleey nirdeshaank pranali hai.
+ kartiya nirdeshaank paddati
+ dhruviya nirdeshaank paddati
+ bhugoleey nirdeshaank pranali

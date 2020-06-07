@@ -1,0 +1,3 @@
+ ganit main kisi arunatmak purnank n kaa kramgunit yaa 'phactorial' vah sankhya he jo us purnank n tathaa usase chote sabhi dhanatmak purnankon ke gunanfal ke baraabar hota he. ise n!, se nirupit kiya jaataa he. udhaaharan ke liye,
+ 0! kaa maan is 1 hota he.
+ ganit ke anekon kshetron main kramgunit kaa upyog karnaa padataa he, jinamein se kramchay sanchay, bijganit tathaa ganitiya vishleshan pramukh hai. 

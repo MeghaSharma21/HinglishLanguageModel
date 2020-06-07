@@ -1,0 +1,24 @@
+ shortkat ke saath menu ke saath hare prakaash daalaa or smaranokari ke saath pilaa prakaash daalaa.
+ abhikalan main, 'kunjeepatal shortkat' ek yaa ek se adhik kunjee ek parimit set he ki aahvaan ek software yaa oparating system oparation jabadwara trigar upyogkarta
+ WINDOWS KEY + E ke se aap My Computer khol sakate hai.
+ control batan dabaae rakhte hue kisi bhi file ko mouse se draig karen. uski ek or copy ban jaaegi.
+ Control+Shift ko dabaate hue mouse se kisi bhi program, file, foulder, drive ko draig karen. iskaa shortkat hajir ho jayega.
+ kaam karte-karte kahin janaa pade to Windows+L batan dabaakar system ko lock karke jaaen. yah tabhi kaam karegaa jab koi windo khuli ho or computer kisi password se khulata ho.
+ delit kii hui filein system se puri tarah delit nahin hotin, balki ricycle bin main chali jaati hai, jahaan se unhen dobaaraa laayaa ja saktaa he. agar kisi file ko hameshaa ke liye delit karnaa he to Shift+Delete combinaton aajamaayen.
+ agar mouse ko rhite clic kiye bina uskaa kaam karnaa chaahate hai to Shift+F10 ko aajamaayen.
+ mouse ko haath lagaae bina start menu kholane ke liye Control+Esc kaa istemaal karen.
+ kisi file yaa foulder ko ri-nem karne ke liye mouse ko rhite clic kar sirf F2 dabaakar dekhen.
+ kisi file ko khojna chaahate hai, to F3 ko dabaakar search windo kholen.
+ kisi file, foulder yaa drive aadi kii properties dekhne ke liye Alt+Enter dabaaen.
+ desktop par bahut saare program khule hon, to sabko ek saath minimij karne ke liye Windows Key+M yuj karen.
+ minimij kiye hue sabhi programs or filon ko mexymij karne ke liye Windows Key +shift+M ko aajamaayen.
+ desktop par khule kai saare documents yaa programs main se kisi ek ko silect karne ke liye Alt+Tab ko baar-baar dabaakar dekhen.
+ kisi bhi chal rahe program ko band karne ke liye Alt+F4 dabaaen.
+ ek se zyada filon ko Copy Move karnaa ho, to unki suchi main pehali file par jane ke baad Shift dabaaen or ab Arrow batan dabaakar upar-neeche badhate jaaen. kisi document main ek se zyada linon ko silect karne ke liye bhi Shift+Arrow kii madad len.
+ maay computer yaa internet explorer main adress baar main maujuud dastavejon yaa web yuarel kii suchi ko kholane ke liye F4 dabaaen.
+ agar My Computer yaa Desktop yaa Internet Explorer ko Refresh karnaa chaahate hai to F5 dabaaen.
+ kisi bhi software main kaam karte samay khulne vaale dialog box ko band karne or use cancel karne ke liye Escape batan dabaane se bhi kaam chal jaataa he. isi tarah, ‘haa’ ke liye Enter dabaanaa kaaphi he.
+ kisi bhi software ke menu main Alt dabaane ke baad anderline kiye hue aksharon par clic karne se vah menu khul jayega. uske baad sab-menu main die gaye batan bhi isi tarah khole ja sakate hai.
+ agar aap apane network main maujuud kisi khaas computer ko khojna chaahate hai, to Control+Windows Logo+F kaa istemaal karen.
+ zyaadaatar softwares main Control+P kies dabaane par print out dialog box khul jaataa he.
+ Also, keyboard short cuts are used in Windows too, such as: 

@@ -1,0 +1,22 @@
+ 11039/11040 maharashtra express, bhartiya railway kii ek express train he jo bharat main gondia jankshan or kolhapur ke bich chalati hai. yah gondia jankshan se kolhapur ke liye train number 11040 ke rup main or vipareet disha main train number 11039 ke rup main chalati he.
+ yah kisi ek rajya main, train dwaara kii jane vaali sabase lambey duuri ke liye maujuuda record rakhti he. yah puri tareeke se maharashtra ke andar chalati he.
+ is train kaa namakaran maharashtra rajya ke naam par kiya gaya he. haalanki aise naam se yah in gadiyon kii lig main aa jaataa hai jo apane rajyon ke naam par rakhe gayi he, jaise kerala express, tamilnadu express, andhra pradesh express, lekin yah train rajya or rashtriya rajdhani ko aapas main nahin jodta he.
+ vartmaan main, 11039/11040 maharashtra express 1 asi 2 tear, 1 asi 3 tear, 8 sleeper class va 5 saamaanya anarakshit dibbon kii he. jaisaa kii bharat main sabhi train sevaaon ke saath hota hai ki kocho me pherbadal unki maang ke aadhaar par bhartiya rail ke vivekadhin hota he.
+ maharashtra express 1346 kilometre kii duuri ko 28 ghante 45 minute or 11040 maharashtra express itani hi duuri ko 28 ghante 25 minute main puraa karti he. donon dishaao main isaki ausat gati 55 kimi/ghanta se neeche he, isliye is train main bhartiya railway niyamon ke anusaar superfast charge nahin lagata he.
+ yah daund jankshan or pune jankshan ke bich main ye apane disha me 2 baar badlaav karti he.
+ is train me pentry car kii suvidha nahi, lekin isamen katering seva uplabdh he.
+ is maarg kaa maarg aanshik rup se vidyutikaran kiya gaya he isliye bhusaval sthit ek vaip 4 loko is train ko pune jankshan se gondia tak le jaataa he. iske baad pune yaa guntakal aadhaarit dabludm 3 e isko kolhapur, tak le jaataa he.
+ 11040 maharashtra express 08:20 baje har din gondia jankshan se khulti he ore or agle din 12:45 baje kolhapur pahunchati he.
+ 11,039 maharashtra express 15:30 par har din kolhapur chhod detaa he or agle din 20:15 baje par gondia jankshan tak pahunchati he.
+ 			Code
+ 			Name
+ 			Junction toKolhapur
+ 			Junction
+ 			Junction
+ 			Junction
+ 			Junction
+ 			Junction
+ 			Junction
+ 			Junction
+ 			Junction
+ 			Junction

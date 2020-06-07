@@ -1,0 +1,10 @@
+ ganit main boral sankalan athwa borol sankalan emil borol dwaara apsaari shreniyon ke liye di gayi sankalan vidhi he. yah vidhi mukhyatah apsaari alakshani shreniyon kaa yoga praapt karne ke liye upyogi he tathaa kuch arthon main aisi shreniyon ke liye sarvshereshth parinaam detii he. is vidhi main vibhinn vividhta ke paayi jaati he or in sab vidhiyon ko bhi boral sankalan kehete hai tathaa iske samanyikaran ko 'mitig-lifaler sankalan' kehete hai.
+ yahan par kam se kam teen vidhiyaan alp parivartan ke saath di gayi hai jinhen boral sankalan kaha jaataa he. ye alag-alag sthanon par lagu ho sakate hai lekin parinaam sangat hote hai arthath yadi do athwa adhik vidhiyon se ek hi shrenee kaa yoga kiya jaataa he to vah samaan praapt hota he.
+ mana A ek ghaat shrenee ko nirupit karata he
+ or A ke boral roopantaran sameekaran paribhaashit karen jo iske tulya charghaatanki shrenee he
+ mana An aanshik yoga ko nirupit karata he
+ boral sankalan kii ek durbal vidhi A kaa boral yoga nimna prakaar paribhaashit karti he
+ yadi yah kuch a ke liye z ∈ C par apasarit hoti he to A kaa durbal boral yoga z par abhisarit hoti he or ise    ∑  a k  z k  = a   {\displaystyle {\textstyle \sum }a_{k}z^{k}=a\,} likhte hai.
+ mana kisi falan ke liye sabhi vaastavik sankhyaon par boral sankalan paryaapt rup se dhire-dhire badhata he ki nimna samakalan suparibhaashit he tab A kaa boral sankalan nimna sutara se diya jaataa he 
+ yadi samakalan kuch a ke liye z ∈ C par abhisarit hota he tab A kaa abhisaran z par abhisarit hota he or ise    ∑  a k  z k  = a   {\displaystyle {\textstyle \sum }a_{k}z^{k}=a\,} likhaa jaataa he.
+ yah boral samakal sankalan vidhi ke samaan hi he keval yahan boral sankalan kaa sabhi t ke liye abhisarit hona aavashyak nahin he balki 0 ke nikat t ke vaishleshik falan par abhisarit hota he jo dhanatmak vaastavik aksh ke anudish vaishleshik anuvarthi hota he.

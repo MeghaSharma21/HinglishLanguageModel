@@ -1,0 +1,94 @@
+ ganit main sankhyaon kaa nimnlikhit anukram hemchandra shrenee yaa fibonachi shrenee kehalaata hai:
+ paribhaasha ke anusaar, pehali do hemchandra sankhyaayein 0 or 1 hai. iske baad aane vaali prayek sankhya pichley do sankhyaon kaa yoga he. kuch log aarambhik 0 ko chhod dete hai, jisaki jagah do 1 ke saath anukram kii shuruuaat kii jaati he.
+ ganitiya sandarbh main, fibonachi sankhya ke F n anukram ko aavartan sambandh dwaara darshaya ja saktaa he-
+ tathaa,
+ fibonachi anukram kaa naam pisa ke leonardo fibonachi ke naam par rakhaa gaya, jo fibonachi ke naam se jane jate the. fibonachi dwaara likhit 1202 kii pustak liber abek ne pashchim europea ganit main is anukram ko pravartit kiya, haalanki pehle hi bhartiya ganit main is anukram kaa varnan kiya gaya he.
+ fibonachi anukram pracheen bharat main bahut prasiddh tha, jahaan ise europe main prachlit hone se bahut samay pehle hi chand vigyaan main lagu kiya gaya tha. iske vikaas kaa shrey pingala, virahanka, gopal, tathaa hemchandra ko diya jaataa he.
+ fibonachi anukram, n -1 lambaai ke namoonay main S ko jod kar, yaa n -2 lambaai ke namoonay main L ko jod kar taiyaar kiya jaataa he; or chand-shastriyon ne darshaya ki n lambaai ke namoonay, anukram main pichhali do sankhyaon kaa yoga hai. donald nuth ne da art of computer programing main is kaary kii samiksha kii he.
+ pashchim main, pisa ke leonardo ne apane liber abek main fibonachi ke rup main gyaat is anukram kaa adhyayan kiya. unhone ek adarsh khargosh kii aabaadi ke vikaas par yah maanate hue vichaar kiya ki:
+ iskaa niyam yah he ki khargoshon kii ek jodi apane jivan-kaal main 2 jodi paidaa karti he or mar jaati he.
+ maan len ki n maheene main aabaadi F he. is samay, keval ve khargosh, jo n - 2 maheene main jivit rahe the, prajnanksham hai or santan paidaa karte hai, to F jode maujuuda aabaadi F main jud jate hai. is prakaar kul he F = F + F .
+ n = 0, 1, 2, ..., 20 ke liye Fn ke rup main bhi suchit kii jane vaali pehali 21 fibonachi sankhyaayein hai:
+ aavartan sambandh kaa prayog karte hue, anukram rinatmak suchakank n tak bhi badhaayaa ja saktaa he. parinaam sameekaran kii purti karata he
+ is prakaar puraa anukram he
+ anukram kii prayek teesri sankhya sam he or aam taur par, anukram kii prayek k veen sankhya, Fk kaa gunaj he.is prakaar fibonachi anukram, ek vibhajyata anukram kaa udhaaharan he. darasal, fibonachi anukram suspasht vibhajyata gun ko santusht karata he.
+ raikhik aavartan dwaara paribhaashit prayek anukram kii tarah, fibonachi sankhya kaa ek purna-sutara hal he. yah binet sutara ke naam se janaa jaataa he, haalanki use pehle abrahim di moivre ke rup main janaa gaya tha:
+ .
+ fibonachi prayaavartan
+ svarnim anupaat ke nirdharak sameekaran ke samaan nimnatah he 
+ jise prayaavartan ke utpaadak bahupad ke rup main janaa jaataa he.
+ uparyukt sameekaran kaa koi mul     x 2  = x + 1,    {\displaystyle {\begin{matrix}x^{2}=x+1,\end{matrix}}\,} kaa samaadhaan karata he or   x n − 1   {\displaystyle x^{n-1}\,} dwaara guna karne se nimna darshata he:
+ paribhaasha ke anusaar   φ  {\displaystyle \varphi \,}, sameekaran kaa mul he or doosraa mul he   1 − φ = − 1 / φ .  {\displaystyle 1-\varphi \,=-1/\varphi \,.} . isliye:
+ or
+ donon   φ n   {\displaystyle \varphi ^{n}} tathaa    n  =  n   {\displaystyle ^{n}=^{n}} aisi jyamitiya shrinkhlaayein hai, jo fibonachi prayaavartan kaa samaadhaan karti hai. pehali shrinkhalaa ghaataanki rup se badhati he; duusari, ghaataanki rup se, ekantar chihnon sahit, shunya kii ore le jaati he. chunki fibonachi prayaavartan raikhik he, in do shrinkhalaaon ke kisi bhi raikhik sangyojan se bhi prayaavartan kaa samaadhaan ho saktaa he. ye raikhik sangyojan, ek do-aiami raikhik vector antar taiyaar karte hai; mul fibonachi anukram is antar main paaya ja saktaa he.
+ raikhik sanyojanon kii shrinkhlaayein   φ n   {\displaystyle \varphi ^{n}} or    n   {\displaystyle ^{n}}, a tathaa b gunankon sahit, nimna dwaara paribhaashit kii ja sakati hai
+ is prakaar paribhaashit sabhi shrinkhlaayein fibonachi prayaavartan kii purti karti hai
+ jahaan apeksha he ki   F a, b  = 0  {\displaystyle F_{a,b}=0} or   F a, b  = 1  {\displaystyle F_{a,b}=1} pratifal   a = 1 /  5   {\displaystyle a=1/{\sqrt {5}}} or   b = − 1 /  5   {\displaystyle b=-1/{\sqrt {5}}} dete hai, jiske parinamswaroop vahi binet sutara miltaa he, jisase hamane shuru kiya tha. yah darshaya gaya he ki yah sutara fibonachi prayaavartan kii purti karata he. iske alaava, ek suspasht jaanch kii ja sakati he:
+ or
+ aagaman ke mul prashnon siddh karte hue, pramanit karte hai ki
+ isliye, kinhin do praarambhik mulyon ke liye, sangyojan   a, b  {\displaystyle a,b} ko is tarah paaya ja saktaa he ki falan   F a, b    {\displaystyle F_{a,b}\,}, anukram ke liye sateek purna sutara he.
+ chunki sabhi   n ≥ 0  {\displaystyle n\geq 0} ke liye     | 1 − φ  |  n  /  5  = 0  {\displaystyle k>=0} purnankon ke liye paaya jaataa he
+ iske vipareet,
+ kabhi-kabhi vyutkram fibonachi sankhya par purnank yogafal kaa theta falan ke sandarbh main maan nikaala ja saktaa he. udhaaharan ke liye, ham har visham-ghaataanki fibonachi sankhya ke yoga ko nimnatah likh sakate hai
+ or vargakar vyutkram fibonachi sankhya ke yoga ko nimna rup main
+ agar ham pehle yoga main prayek fibonachi sankhya ke saath 1 jod den, to vahaan bhi purna sutara hoga
+ or vargakar fibonachi sankhya kaa acha vargeekrut yoga he, jo sunahare anupaat kaa vyutkram detaa he,
+ is tarah ke parinaam dekhne main sahi prathit hote hai ki vyutkram fibonachi sankhya ke saadhaaran yoga ke liye ek purna sutara paaya ja saktaa he, lekin abhi tak aisa koi gyaat nahin hua he. uske baavjood, vyutkram fibonachi sthiraank
+ richard andre-jianin dwaara aparimey sabit kiya gaya he.
+ fibonachi abhajya sankhya, ek aisi fibonachi sankhya he, jo abhajya he. pehle kuch hai:
+ hazaron ankon ke saath fibonachi abhajya sankhya pai gai hai, lekin yah gyaat nahin he ki kya kai aparimit sankhyaayein maujuud hai. un sabamein ek abhajya ghaataank hona chahie, sivaay F 4 = 3.
+ F kn ko F n se vibhajit kiya ja saktaa he or isliye manamaane dhang se kai sanyukt sankhya prachlan main hone ke kaaran, sanyukt fibonachi sankhya bhi manamaane dhang se prachlan main hai.
+ 1, 8 or 144 ke apwaad sahit prayek fibonachi sankhya kaa ek abhajya gunak he, jo ki kisi chote fibonachi sankhya kaa gunak nahin he. 
+ keval 144 nagnetar varg fibonachi sankhya he. ettila petho ne 2001 main sabit kiya ki keval simit kai paripurna ghaat fibonachi sankhya maujuud hai. 2006 main, vaai. bugod, em. mignot or es. sicksek ne sabit kiya ki keval 8 or 144, nagnetar paripurna ghaat hai. 
+ F 6 = 8 se mahattar koi fibonachi sankhya, abhajya sankhya se na to ek adhik yaa ek kam he.
+ koi kramik teen fibonachi sankhya, ek samay main do ko lete hue, anupatik abhajya sankhya rahi hai: arthath,
+ or saamanytah,
+ fibonachi sankhyaon kii abhajya p dwaara vibhajyata lijendre sanket se sambandhit he      {\displaystyle \;\left} jiskaa nimnatah maan nikaala jaataa he:
+ agar p ek abhajya sankhya he, to   F p  ≡       and    F p −   ≡ 0   .  {\displaystyle F_{p}\equiv \left{\pmod {p}}\;\;{\mbox{ and }}\;\;\;F_{p-\left}\equiv 0{\pmod {p}}.} 
+ udhaaharan ke liye,
+ yah gyaat nahin he ki koi abhajya p aise maujuud he ki   F p −   ≡ 0    {\displaystyle F_{p-\left}\equiv 0{\pmod {p^{2}}}} is tarah kii abhajya sankhyaon ko waal-san-san abhajya sankhya kaha jayega.
+ iske alaava, agar p ≠ 5 ek visham abhajya sankhya he, to:
+ sabhi maamalon ke udhaaharan:
+ visham n ke liye, F n ke sabhi visham abhajya bhaajak hai ≡ 1, jo yah suchit karte hai ki F n ke sabhi visham bhaajak hai ≡ 1 .
+ udhaaharan ke liye,
+ F 1 = 1, F 3 = 2, F 5 = 5, F 7 = 13, F 9 = 34 = 2×17, F 11 = 89, F 13 = 233, F 15 = 610 = 2×5×61
+    ∑ k = n  n + 9  F k  = 11 F n + 6   {\displaystyle \sum _{k=n}^{n+9}F_{k}=11F_{n+6}} 
+ udhaaharan ke liye, let n = 1:
+ F 1 + F 2 + ... + F 10 = 1 + 1 + 2 + 3 + 5 + 8 + 13 + 21 + 34 + 55 = 143 = 11×13n = 2:F2+F3+...+F11 = 1 + 2 + 3 + 5 + 8 + 13 + 21 + 34 + 55 + 89 = 231 = 11×21n = 3:F3+F4+...+F12 = 2 + 3 + 5 + 8 + 13 + 21 + 34 + 55 + 89 + 144= 374 = 11×34
+ vastutah, samaanika na keval dhanatmak, balki sabhi n purnankon ke liye sahi he:
+ n = 0:
+ F0+F1+...+F9 = 0 + 1 + 1 + 2 + 3 + 5 + 8 + 13 + 21 + 34 = 88 = 11×8n = −1:
+ F−1+F0+...+F8 = 1 + 0 + 1 + 1 + 2 + 3 + 5 + 8 + 13 + 21 = 55 = 11×5n = −2:
+ F−2+F−1+F0+...+F7 = −1 + 1 + 0 + 1 + 1 + 2 + 3 + 5 + 8 + 13 = 33 = 11×3
+ yah aasaani se dekha ja saktaa he ki agar fibonachi anukram kii ikaayiyon ne mod n liya he, to adhik se adhik n 2 aavartan sahit parinami anukram aavartak honi chahie. vibhinn n sutara, tathakthith pisano aavartan ke liye aavartanon kii vistaar. saamaanya taur par pisano aavartanon kaa nirdhaaran ek khuli samasya he, haalanki kisi vishesh n ke liye ise chakra sansuchan ke udhaaharan ke rup main hal kiya ja saktaa.
+ 5 ke saath shuru hote hue, har doosraa fibonachi sankhya purnank bhujaaon sahit sam trikon ke karn kii lambaai he, yaa duusare shabdon main kahen, pathagorian trigun main sabase badi sankhya. is trikon ke lambey paad kii lambaai, trikon kii is shrinkhalaa main pichley trikon kii teen bhujaaon ke yoga ke baraabar he or chota paad purvavarti hisaab main na lee gai fibonachi sankhya or purvavarti trikon ke chote paad ke bich ke antar ke baraabar he.
+ is anukram main pehle trikon kii bhujaaen lambaai main 5, 4 or 3 he. 8 ko chhodte hue, agle trikon kii bhujaaen lambaai main 13, 12 or 5 he. 21 ko chhodte hue, agle trikon kii bhujaaen lambaai main 34, 30 or 16 he. is anukram anishchit rup se jari rahata he. trikon kii bhujaaen a, b, c sidhe pariklit kii ja sakati hai:
+ ye sutara sabhi n ke liye   a n  2  = b n  2  + c n  2   {\displaystyle a_{n}^{2}=b_{n}^{2}+c_{n}^{2}} ko hal karte hai, lekin ve keval trikon kii bhujaaon kaa nirupan karte hai, jab   n > 2  {\displaystyle n>2} ho.
+ ek alag tareeqe se pathagorian trigun ko janit karne ke liye, koi chaar kramik fibonachi sankhyaayein F n, F n +1, F n +2 or F n +3 bhi prayukt kii ja sakati hai. 
+ udhaaharan 1: maan len fibonachi sankhyaayein 1, 2, 3 or 5 hai. tab:
+ udhaaharan 2: maan len fibonachi sankhyaayein 8, 13, 21 or 34 hai. tab:
+ chunki   φ n  /  5   {\displaystyle \varphi ^{n}/{\sqrt {5}}} ke liye   F n   {\displaystyle F_{n}} upagami he,   F n   {\displaystyle F_{n}\,} main ankon kii sankhya   n  log 10  ⁡ φ ≈ 0.2090 n  {\displaystyle n\,\log _{10}\varphi \approx 0.2090\,n} ke prati upagami he.parinamtah, prayek   d > 1  {\displaystyle d>1} purnank ke liye, d dashamalav ankon ke saath 4 yaa 5 fibonachi sankhyaayein maujuud hai.
+ or saamanytah, aadhaar   b  {\displaystyle b} nirupan main,   F n   {\displaystyle F_{n}} main ankon kii sankhya   n  log b  ⁡ φ  {\displaystyle n\,\log _{b}\varphi } ke prati upagami he.
+ euclid elgoridam ke chaalu samay vishleshan main, do purnankon ke mahattam ubhaynishth bhaajak ke nirdhaaran ke liye fibonachi sankhyaayein mahatvapurn hai: is elgoridam ke liye sabase karaab samasya kaa nivesh kramik fibonachi sankhyaon kii jodi he.
+ euri matiyasevich yah darsha sake ki fibonachi sankhyaon ko dyo funtine sameekaran se paribhaashit kiya ja saktaa he, jisane hilbert kii dasvin samasya ke unke mul samaadhaan ko prerit kiya.
+ fibonachi sankhyaayein, pascal trikon or lozaanik trikon main "uthle" vikarnon ke yoga main hoti hai. . .
+ har dhanatmak purnank ko is tarah se ek yaa adhik pruthak fibonachi sankhyaon ke yoga ke rup main ek anokhe tareeqe se likhaa ja saktaa he, ki yoga main koi do kramik fibonachi sankhyaayein shaamil naa hon. yah xecondorf prameya ke rup main janaa jaataa he or fibonachi sankhyaon kaa yoga jo in niyamon kii purti karata he, xecondorf nirupan kehalaata he.
+ vittiya bazaaron main bhi fibonachi sankhyaon or siddhant kaa prayog kiya jaataa he. yah vyapaar elgoridam, anuprayogon or yojanaon main prayukt hota he. kuch vishisht prakaaron main shaamil hai: fibonachi fain, fibonachi arq, fibonachi ritrement or fibonachi time ekstansion.
+ fibonachi sankhya kuch kritrim-yadrichhik sankhya janitron dwaara prayukt hota he.
+ fibonachi sankhyaon ko marz sort elgoridam ke bahukaleey sanskaran main prayukt kiya jaataa he, jisamen ek naa chhanti gai suchi ko do soochiyon main vibhajit kiya jaataa he, jinaki lambaai anukramik fibonachi sankhyaon ke anuroop he - jahaan suchi ko aise vibhajit kiya jaataa he ki donon bhaagon kii lambaai samuchit anupaat φ main hai. da art of computer programing main bahukaleey marz sart ke ek tepe-drive karyanvayan ko varnit kiya gaya he.
+ fibonachi sankhyaayein, fibonachi dher data sanrachana ke vishleshan main aati hai.
+ fibonachi ghan, fibonachi sankhyaon ke kataan-binduon sahit anirdisht graph he, jise samanaantar computing ke liye network topology ke rup main prastaavit kiya gaya he.
+ fibonachi khoj takanic naamak ekavimetiya anukulan paddati fibonachi sankhyaon kaa upyog karti he.
+ fibonachi sankhya anukram kaa upyog, amiga computaron par prayukt IFF 8SVX audio fil farmet main vaikalpik hraasmaan sampeedan ke liye hota he.sankhya anukram, logridamik paddatiyon ke samaan hi mul audio tarang se shor ko kam karti he jaise μ-niyam.
+ sangeet main, kabhi-kabhi fibonachi sankhyaon kaa prayog samaswar nirdhaarit karne ke liye hota hai or drishy kala ke samaan, saamagree yaa aavashyak tatwon kii lambaai yaa aakaar ke nirdhaaran ke liye hota he. aam taur par yah mana gaya he ki bela bartok ke music for strings, parakashan, and selesta kii pratham lay fibonachi sankhyaon ke upyog se sanrachit thi.
+ chunki mile se kilometre ke roopantaran kaarak main 1.609344 sunahare anupaat ke qareeb he, fibonachi sankhya ke yoga main mile kii duuri kaa apghaton, lagbhag kilometre yoga ban jaataa he jab fibonachi sankhyaon ko unke uttarvartiyon dwaara pratisthapit kiya jaataa he.is vidhi se sunahare anupaat ke aadhaar φ ke sthanantaran main mulank 2 sankhya suchak ke baraabar hota he.kilometre se mile main badalane ke liye, iske badale fibonachi anukram ke neeche suchak ko khiskaaen.
+ fibonachi anukram, do kramik fibonachi sankhyaon main, jaivik drishyon main dikhaai dete hai, jaise pedo main shakhaaen, danthal par pattiyon kii vyavastha, ananas kii falikaayen, ek na mudane vaale fern artichok kaa phool, tathaa deodaar shanku kii vyavastha. iske alaava, prakruti ke kai lokapriy sroton main fibonachi sankhyaon yaa suvarna khandon ke jaise-taise pramanit, yatha khargosh ke prajnan, sipiyon ke sarpil ghere or laharon ke vakr se sambandhit daawey maujuud hai. fibonachi sankhyaayein, madhumakhi ke vansh-vriksh main bhi pai jaati hai.
+ pressemisla purusinquiz ne is vichaar ko aage badhaayaa ki vaastavik udaahranon ko anshatah mukt samoohon ke katipay bijaganitiya pratibandhon kii abhivyakti ke rup main samajha ja saktaa he, visheshtah kuch lindenmer vyakaran ke rup main.
+ 1979 main ech. vogel dwaara surajamukhi ke sheersh par puspak kii rachana kaa namoona prastaavit kiya gaya.iskaa sutara he
+ jahaan n puspak kaa suchakank he or c ek nirantar arohi gunak he; is prakaar puspak farmat ke sarpil par sthit hote hai. vichlan kone, 137.51 ° ke sannikat, svarnim kone he, jo vrutt ko sunahare anupaat main baantta he. kyonki yah anupaat aparimey he, kisi puspak ke bagal main, centre se bilkul usee kone par koi or nahin hota, to puspak kushaltapurvak ek saath thasathas bhar jate hai. kyonki svarnim anupaat ke tarksangat sanniktan kaa sutara he F :F, puspak sankhya n ke nikatatam pados main suchakank, centre se duuri r par aadhaarit j ke liye n ± F par he. yah aksar kaha jaataa he ki surajamukhi or isi tarah kii vyavasthaaon main 55 ghumaav keval ek hi disha main hai or 89 anya disha main, lekin yah keval ek vyas ke kshetra, visheshkar sabase bahari or is tarah sahaj rup se drishy ke liye sahi he.
+ fibonachi sankhya, nimnlikhit niyamon ke anusaar, adarsh rup se dekhi jane vaali madhumakhiyon kii aabaadi ke prajnan varnan main bhi dikhaai dete hai:
+ is prakaar, nar makkhi ke hameshaa ek janak honge or maadaa makkhi ke do.
+ yadi koi kisi nar madhumakhi ke vansh ke vikaas ko khojein, to uski 1 maadaa janak hogi. maadaa ke 2 janak honge, ek maadaa or ek nar . maadaa ke do janak, ek nar or ek maadaa or nar ke ek maadaa hongi. un do maadaaon main prayek ke do janak the or nar ke ek . janakon kii sankhya kaa yah anukram fibonachi anukram he.
+ yah ek adarsh rup he jisamen vaastavik madhumakhi vanshakram kaa varnan nahin he. vastav main, vishisht madhumakhi ke kuch purvaj hameshaa bahan yaa bhai honge, is prakaar pruthak mata-pita kii vansh parampara ko todate hai.
+ fibonachi anukram ko kai myanon main samanyikrut kiya gaya he. inamen shaamil hai:
+ 

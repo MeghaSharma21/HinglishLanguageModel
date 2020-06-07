@@ -1,0 +1,26 @@
+ ganit main do ghaat vaale sameekaran ko varg sameekaran yaa dwighat sameekaran kehete hai. vigyaan, takneekee evam anya anek sthitiyon main kisi samasya ke samaadhaan ke samay varg sameekaran se aksar saamana pasta rahata he. isaliye varg sameekaran kaa hal bahut mahatv rakhata he.
+ varg sameekaran kaa saamaanya sameekaran is prakaar kaa hota he:
+ yahan a ≠ 0. ho jate hai.)
+ varg sameekaran ko nimnlikhit rup main bhi likh sakate hai-
+ kisi varg sameekaran ke gunank vaastavik sankhya yaa samishra sankhya ho sakate hai. kisi varg sameekaran ke do mul hote hai hon) ; arthath char raashi ke do maanon ke liye diya gaya varg sameekaran santusht ho saktaa he. ye dono mul vaastavik ho sakate hai yaa dono hi samishra sankhya ho sakate hai.
+ dwighat sameekaran ke mul nimnlikhit sutara kii sahaayta se praapt kiye ja sakate hai:
+ yahan "±" kaa matlab yah he ki 
+ dono hi iske hal hai.
+    x 2  + p x + q = 0  {\displaystyle x^{2}+px+q=0\quad } ke mulon kaa sutara nimnlikhit he-
+ nimnlikhit sameekaran ke mul nikaaliye-   x 2  + 16 x + 50 = 5 x 2  + 4 x + 10  {\displaystyle x^{2}+16x+50=5x^{2}+4x+10} 
+ is sameekaran ko saamaanya rup main badalane par,
+   0 = 4 x 2  − 12 x − 40  {\displaystyle 0=4x^{2}-12x-40} 
+ jiske mul nimnlikhit hai-
+    x 1, 2  =  − ±   2  − 4 ⋅ 4 ⋅   2 ⋅ 4   {\displaystyle x_{1,2}={\frac {-\pm {\sqrt {^{2}-4\cdot 4\cdot }}}{2\cdot 4}}} 
+ arthath   x 1  = − 2  {\displaystyle x_{1}=-2} tathaa   x 2  = 5  {\displaystyle x_{2}=5} 
+ p-q-sutara kaa prayog karne ke liye sameekaran ke saamaanya rup ko nimnlikhit rup main badalte hai-
+   0 = x 2  − 3 x − 10  {\displaystyle 0=x^{2}-3x-10} 
+ ab p-q-sutara se nimnlikhit mul milte hai-
+    x 1, 2  = −  − 3 2  ±    2  −   {\displaystyle x_{1,2}=-{\frac {-3}{2}}\pm {\sqrt {\left^{2}-}}} 
+ arthath   x 1  = − 2  {\displaystyle x_{1}=-2} tathaa   x 2  = 5  {\displaystyle x_{2}=5} 
+ varg sameekaran ke hal bhinn-bhinn tareekon se pracheen kaal se hi nikaale jate rahe hai. euclid ne varg sameekaran ke hal kii jyamitiya paddati bataayi thi. 
+ aryabhatta or brahmagupta ne iske mul nikaalane kii vidhi kaa shabdon main varnan kiya he jise aadhunik bijaganitiya rup main nimnavat likh sakate hai-
+ is samikaran ko nimnlikhit rup main vyavasthit kiya jaay, jaisaa ki baanyi taraf ke chitra main varnit he-
+ isse aadhunik rup spashtatah main nimnlikhit hal praapt ho jaataa he-
+ brahmagupta ne brahmasphutsiddhanth main varg sameekaran ke hal kaa nimnlikhit sutara diya he-
+ arth: vyakt raashi ke saath avyakt raashi ke gunank ke aadhe ke varg arthath 2) ko jodie. iske vargamul se avyakt raashi ke gunank ke aadhe ko ghatie. punah agyaat raashi ke gunank a se bhaag dijie. isse avyakt raashi kaa maan praapt hota he.

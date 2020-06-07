@@ -1,0 +1,3 @@
+ pruthakkari pravardhak ve pravardhak hai jinke input or output ke bich ucch pratirodh hoti he tathaa input or output ke bich hajaaron volt hone ke vaavjood ye apana kaam karte hai. duusare shabdon main, inke input or output ke bich koi sidhaa vidyut chaalak maarg nahin hota. 
+ pruthakkari pravardhak dizin karne ke liye teen vidhiyaan prayog main laayin jaatin hai-
+ pruthakkari pravardhak kaa upyog vahaan laabhprad hota he jahaan adhik kaaman-mod signal ke upar chota sa diferential signal maapna ho. instrumentation pravardhak kii tarah pruthakkari pravardhak bhi ek badi aavriti range main ek nishchit diferential gen pradaan karte hai. inkaa bhi input impidence adhik hota he tathaa output impidence kam hota he.

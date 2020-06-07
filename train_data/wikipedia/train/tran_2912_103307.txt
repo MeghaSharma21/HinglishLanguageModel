@@ -1,0 +1,17 @@
+ ganit ke sandarbh main, trikoshmetiya pratisthaapan kaa arth he, gaiyr-trikoshmetiya falnon ke sthaan par trikoshmetiya falnon ko sthapit karnaa. inke upyog se kuch samakal saral ho jate hai.
+ pratisthaapan 1. yadi samakalya main a2 − x2 ho to, 
+ rakhen or yah sarvasamika prayog karen-
+ pratisthaapan 2. If the integrand contains a2 + x2, let
+ and use the identity
+   1 + tan 2  ⁡ θ = sec 2  ⁡ θ .  {\displaystyle 1+\tan ^{2}\theta =\sec ^{2}\theta .} 
+ pratisthaapan 3. If the integrand contains x2 − a2, let
+ and use the identity
+ In the integral
+ we may use
+ Note that the above step requires that a > 0 and cos > 0; we can choose the a to be the positive square root of a2; and we impose the restriction on θ to be −π/2 < θ < π/2 by using the arcsin function.
+ For a definite integral, one must figure out how the bounds of integration change. For example, as x goes from 0 to a/2, then sin goes from 0 to 1/2, so θ goes from 0 to π/6. Then we have
+ Some care is needed when picking the bounds. The integration above requires that −π/2 < θ < π/2, so θ going from 0 to π/6 is the only choice. If we had missed this restriction, we might have picked θ to go from π to 5π/6, which would give us the negative of the result.
+ In the integral
+ we may write
+ so that the integral becomes
+ .

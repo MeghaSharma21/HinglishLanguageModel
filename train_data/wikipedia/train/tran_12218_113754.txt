@@ -1,0 +1,35 @@
+ prithvi ke sataha ke nikat kisi pind ke ikai dravyaman par lagane vaala prithvi kaa gurutvkarshan bal prithvi kaa gurutv kehalaata he. ise g ke rup main nirupit kiya jaataa he. yadi koi pind dharti ke sataha ke nikat gurutvakaran bal ke atiririkt kisi anya bal kii anupasthiti main swatantra rup se gati kar rahi ho to uskaa twaran g ke baraabar hoga. iskaa maan lagbhag 9.81 m/s2hota he. g kaa maan prithvi ke vibhinn sthanon par bhinn-bhinn hota he.
+ g ko twaran kii bhaatin bhi samajha ja saktaa he. yadi koi pind prithvi se upar le jaakar choda jaay or us par kisi prakaar kaa anya bal kaary na kare to vah sidhaa prithvi kii ore girtaa he or uskaa veg ek niyat kram se badhata jaataa he. is prakaar prithvi ke aakarshan bal ke kaaran kisi pind main utpann hone vaali vegavruddhi yaa twaran ko gurutvajanit twaran kehete hai. ise angreji akshar g dwaara vyakt kiya jaataa he. upar kaha ja chukaa he ki ise kisi sthaan par gurutv kii tivrata bhi kehete hai.
+ gurutvajanit twaran arthath g kaa maan prithvi ke centre se duuri ke anusaar ghatata badhata he, arthath is duuri ke badhane par yah ghatata he or duuri ghatane par badhata he. isliye samudratal par iskaa maan adhik tathaa pahaado par kam hota he. isi prakaar bumadhya rekha par iskaa maan dhruvon kii apeksha kam hota he, kyonki prithvi dhruvon par kuch chipti he jiske kaaran prithvi ke centre se dhruvon kii duuri bumadhyarekha kii apeksha kam he.
+ samudratal par g0 kaa maan nimnlikhit sutara dwaara praapt kiya ja saktaa he:
+ g0 = 978.049 
+ sein.me. prati sein. prati sein.; jahaan f us sthaan kaa akshansh he.
+ yadi koi sthaan samudratal se h oonchaai par ho to vahaan g kaa maan arthath g h. nikatatam maan tak nimnlikhit sutara dwaara gyaat kiya ja saktaa he:
+ saamanyatya prithvital par g kaa maan akshanshon ke anusaar 978 or 983.2 senmi./se. se. athwa 32.09 or 32.26 foot/se. se. ke bich me rahata he. ye maan samudratalon par hote hai.
+ g kaa maan gyaat karne kii vidhiyon ko do kotiyon main vibhakt kar sakate hai: 
+  pratyaksh vidhi or 
+  dolak vidhi. 
+ is vidhi main kisi pind ko nishchit oonchaai se giraaya jaataa he or samaan avadhi main uske dwaara paar kii hui dooriyaan naap lee jaati hai. isse g ke maan kii gananaa kii jaati he. is vidhi kaa prayog atwood kii mashin main kiya jaataa he. isamen do sanhatiyaan m1 or m2 jinamein paraspar atyant sookshm antar hota he, ek taage dwaara judi hoti hai jo ek ghirani par se hokar guzarati he. yadi m2 apekshaakrit baari ho to yah neeche utarane lagegi or m1 upar chadhne lagegi. yadi s duuri par kar chukne par uskaa veg v ho jaae or twaran f ho to newton ke gatinium ke anusaar
+ v^2 = 2 f s
+ twaran f kaa maan nimnlikhit sutara dwaara gyaat kiya ja saktaa he:
+ f = m1 + m2 g r^2 / r^2)
+ yahan I centre ke chaaro ore ghirani kaa avasthitatv ghurna he tathaa r ghirani kaa ardhavyas he.
+ at: is vidhi main ghirani ke gharshan tathaa vaayu ke pratirodh ityadi kaa koi vichaar nahin kiya jaataa, isaliye iske dwaara praapt g ke maan main paryaapt truti rahati he. in kaarnon se is vidhi kaa anusaran saamanyat: nahin kiya jaataa he.
+ is vidhi main ek lolak ko uski madhyamaan sthiti ke donon ore dolan karakar aavartkaal T gyaat kiya jaataa he. yadi nilamban bindu se lekar lolak ke gurutvakentre tak kii duuri l ho or yah maan liya jaay ki lolak kaa sampurna bhaar uske gurutvakentre par hi sanghanit ho to dolankaal T or gurutv kii twrita g par paraspar nimnlikhit sutara dwaara sambandhit hote hai:
+ T = 2 p ÖI/g
+ yaa, g = 4p 2 I/T2
+ is vidhi main yah dhyaan rakhaa jaataa he ki lolak kaa dolan vistaar yaa aayam 40 se adhik na ho, anyathaa sutara main nimnlikhit sanshodhan karnaa padegaa :
+ T = 2 Ö1 / g
+ yahan q aayam hai.
+ g kaa adhik sateek maan gyaat karne ke liye ek drudh pind ko lolak ke rup main liya jaataa he jo kshaitiz kshurdhar par dolan karata he. yadi gurutvakentre se kshurdhar kii duuri I ho or k uske gurutvakentre se hokar janevaali tathaa kshurdhar ke samaantar aksh ke chaaron ore vighurnan trigya ho to sutara
+ g = 4 p 2 / IT^2
+ dwaara g kaa maan adhik thik thik gyaat kiya ja saktaa he. aise lolak ko yogic lolak kaha jaataa he.
+ yadi yogic lolak main I ke bhinn-bhinn maanon ke liye aavartkaal T ke paath liye jaayan tathaa I or T ke bich ek lekhachitr praapt kiya jaay to lolak ke sire se naapane par lambaai kaa maan jyon jyon badhata he, dolankaal ghatata jaataa he, kintu nunatam maan na tak pahunchne ke uparaant pun: badhane lagata he . lolak ke madhyabindu ke nikat pahanchane par dolankaal badi drut gati se anant maan kii ore agrasar hota he.
+ cater ne g kaa adhik sateek maan gyaat karne ke liye aisa lolak liya jo chad ke rup main tha or jiske madhyabindu ke donon ore ek kshurdhar tha. donon kshurdhaaron se latakaae jane par laalak kaa aavartkaal ek hi aata tha. isi chad main asmaan sanhatiwaale do dhaatukhand bhi lage the. ek kii sanhati duusare se kaaphi adhik thi. baari sanhati ko samanjit karke donon kshurdhaaron par lolak ke aavartkaal lagbhag samaan kiye ja sakate the or halaki sanhati ko samanjit karke donon aavartakaalon ke bich ke antar ko or bhi kam kiya ja saktaa tha. yadi T1or T2 kramash: donon kshurdhaaron se dolan karaane par aavartkaal hon or I1 tathaa I2 un kshurdhaaron kii chad ke gurutvakentre se dooriyaan hon to besel ke anusaar
+ 4 p 2/g = T12+T22/I1+I2 + T12-T22/I1-I2
+ isamen I1 + I2 ko thik thik napa ja saktaa he or antim pad atyant sookshm hone ke kaaran tyajya he. at: yah sutara g kaa thik thik maan de saktaa he.
+ prayog karte samay nimnlikhit saavdhaaniyaan rakhni chahie : 
+  aayam yaa dolanvistaar kam ho, 
+  vaayu ke pratirodh tathaa vaayu ke gharshan se lolak kii gati ko yathasambhav kam se kam prabhavit rakhane kii cheshtaa kerani chahie, 
+  lolak kaa aalamb aisa chunanaa chahie ki vah lolak ke bhaar ke kaaran lachak na jaae tathaa 
+  prayog kii avadhi bhar kamare kaa taap adhik na badale, anyathaa lolak ke prasar ke kaaran lambaai I main antar aa jaayga.

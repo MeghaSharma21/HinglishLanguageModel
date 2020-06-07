@@ -1,0 +1,1 @@
+ ar ek unics cmand he jo files ko sankuchit karata he - iske naam kaa mul he Archieve.aadhunik unics systm par kai program aise hote hai, jo inkaa istemaal karte hai, jaise jizip or tar. 

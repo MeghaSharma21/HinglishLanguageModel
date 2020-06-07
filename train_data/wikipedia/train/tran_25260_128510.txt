@@ -1,0 +1,24 @@
+ kisi chaalak kii vaidyut dharita, us chaalak kii vaidyut aavesh kaa sangrahan karne kii kshamta kii maap hoti he. jab kisi chaalak ko aavesh diya jaataa he to uskaa vaidyut vibhav aavesh ke anupaat main badhata jaataa he. yadi kisi chaalak ko q aavesh dene par uske vibhav main V vruddhi ho, to
+ jahaan C ek niyatank he jiskaa maan chaalak ke aakaar, sameepvarti madhyam tathaa paas main anya chaalkon kii upasthiti par nirbhar karata he. is niyatank ko 'vaidyut dharita' kehete hain. upar ke sameekaran q = CV se
+ is prakaar, kisi chaalak kii vaidyut dharita chaalak ko diye gayi aavesh tathaa chaalak ke vibhav main hone vaali vriddhi ke anupaat ko kehete hain. dharita kaa SI maatrak kulam/volt he. ise 'fared' kehete he tathaa ise F se nirupit karte hai. is prakaar, 
+ dharita kaa emu main maatrak ‛state fared’ hota he.
+ isi prakaar C=q/v se-
+ yadi v=1volt, C=q to kisi chaalak kii vaidyut dharita chaalak ko di gayi aavesh kii vah maatra he jo chaalak ke vibhav main ek volt kaa parivartan kar de. 
+ vaidhut dharita ek adish raashi he. vaidhut dharita kaa maan sadaiv dhanatmak hota he. kyoki chaalak par aavesh tathaa iske kaaran vibhav main parivartan ke chinh saamaan hote hai. 
+ dharita kaa vimiya sutara - he. chaalak ke madhyam kaa paravaidyuthank badhane se dharita bhi babbti he. 
+ kisi chaalak kii dharita nimna tathyon par nirbhar nahin karti he-
+ note - yadi sutara c=q/v se v=0 to c=∞ atah dharita anant hogi. chunki prithvi kaa vibhav 0 hota he. to prithvi kii dharita anant hogi. atah prathvi anant aavesh sangruhit kar sakati he.
+ isi prakaar jab ham kisi chaalak ko aavesh dete he to chaalak ke vibhav kaa aankik maan badhata he. yadi chaalak ko aavesh lagaataar dete jaye to chaalak sthatij urja kaa sanchay nahin kar pataa arthath vaidhut rodhan kshamta samaapt ho jaati he. tathaa aavesh li hone lagata he. is sthiti main vibhav kaa maan adhiktam hota he. ore is prakaar chaalak dwaara aavesh kii ek nishchit maatra kaa sangrah hi sambhav he. 
+ isi kaa paroksh udhaaharan yah he kii jab ham khaali bartan ko jal main daalate he to bartan main pani nishchit maatra tak hi bad pataa he or pani taduparant bartan se baahar aane lagata he. ise bartan kii dharita kehete he.ise millilitre, litre aadi se vyakt karte he.
+ jab kisi chaalak ko aavesh diya jaataa he to vah vibhajit rup main diya jaataa he. atah chaalak par purv sanchit aavesh ke kaaran bahya aavesh dene par vaidhut pratikarshan bal ke viruddh kaary kiya jaataa he. yahi kaary chaalak main vaidhut sthatij urja ke rup main sanchit ho jaataa he. jo chaalak kii sthatij urja kehalaati he.mana chaalak kii dharita C he prarambh main chaalak par aaveshairi tathaa vibhavaji shunya he. mana chaalak ko aavesh vibhajit rup main diya jaataa he jisase vibhav kaa maan bhi badhata he. aavesh q dene ke saath va V kaa maan bhi badhata he atah ausat vibhav-
+ vaidhut vibhav kii paribhaasha se,aaveshairi dene par vibhav parivartan hone ke saath kiya gaya kaary se-
+ chunki kaary hi chaalak main sthatij urja ke rup main sanchit he to-
+ c=q/v se sameekaran main q tathaa v ke maan rakhane par-
+ note- prashn-kiya gaya kaary sthatij urja ke rup main kyon sanchit hota he. kaary kaa urja se kya sambandh he.
+ uttar-kaary karne kii kshamta ko urja kehete he. tathaa kaary va urja kaa maatrak bhi ‛jul’ saamaan he.yah tatv ganit dwaara pramanit kiya ja saktaa he ki kisi yantra main jitani urja daali jaye utane hi pariman main hamen kaary praapt hota he usase adhik nahin. yahi shaktisatatya kaa niyam he. atah ab yah bhi kaha ja saktaa he ki kisi bhi kiye kaary dwaara ham kisi yantra main urja utane hi pariman main sanchit kar sakate he. 
+ yahi aadhunik rup main kaary-urja prameya dwaara siddh kiya ja saktaa he. kisi spring ko sampidit karte samay jo kaary karnaa padhta he vahi kaary us spring main sanchit urja he. jise sthitij urja kehete he.
+ atah urja kisi kaary dwaara hi janm leti he. tathaa koi bhi kaary kisi urja dwaara hi sambhav he.
+ vishesh-1 chaalak ko dhanavesh diya jaye yaa rinavesh, vaidhut sthatij urja sadaiv dhanatmak hoti he.
+ 2 yadi C va C' dhaarit vaale do chalko ke liye-
+ atah adhik dharita ke chaalak kii vaidhut sthatij urja adhik hogi.
+ atah kam dharita ke chaalak kii vaidhut sthatij urja adhik hogi.

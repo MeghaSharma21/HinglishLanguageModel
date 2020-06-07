@@ -1,0 +1,5 @@
+ 0.0.18
+ kyuu you si es kaa puraa naam Quite Universal Circuit Simulator he. yah ek muktastrot software he jo electranik paripathon ke vishleshan ke liye upyogi he. isaki sahaayta se kii paripath schimatic rup main banaakar uskaa simulation kiya ja saktaa he. isamen viechadiel yaa verilog kaa prayog karte he kii digital paripath bhi simulett kiya ja saktaa he. isamen anya avyavon ke alaava spice ke text ke rup main varnit sab-circuit bhi liye ja sakate hai. yah pi-spice aadi paripath simulatoron kaa ek uttam muktastrot vikalp he. kuch maamalon main yah usase bhi aage he. 
+ kyuu you si es anek prograamon kaa samooh he. ye program akele bhi kaam kar sakate hai kintu isamen ve jeeyuai ke madhyam se paraspar ekikrut rup main kaam karte hai. pramukh program hai -
+ iske alaava iskaa jeeyuai anya upkarnon ko chalaata he. isamen aankik simulation ke liye FreeHDL naamak program kaa sahaara liya jaataa he or paripath ishtatameekaran ke liye ASCO kaa sahaayta lee jaati he.
+ QUCS ke skimatic main samikarnon kaa upyog karke schimatic or simulation ko aasaan banaaya ja saktaa he. samikarnon main nimnlikhit falnon kaa upyog kiya ja saktaa he:

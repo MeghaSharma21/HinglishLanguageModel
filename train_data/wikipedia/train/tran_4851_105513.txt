@@ -1,0 +1,34 @@
+ pithan ek saamaanya kaaryon ke liye upyukt, ucch stareey programing bhashaa, interactive, object oriented, scrypting bhashaa he. is bhashaa ko is tarah se dizin kiya gaya he taaki isamen likhe gaye code aasaani se padhe or samajhe ja saken. 
+ anya programing bhashaaon ke vipareet, jinamein code-blox ko darshane ke liye majhole koshthak kaa istemaal kiya jaataa he, pithan main code-blox ko darshane ke liye hwite spes kaa prayog kiya jaataa he. is programing bhashaa ko Guido van Rossum ne 1991 main banaaya tha. yah vastutah ek programing lipi he jisamen program chalaane ke liye code ko compail, yani purv-sanyojit karne kii jarurat nahin he. paythan "vaakya rachana ke saath bahut spasht ullekhneey shakti" kaa daawa karti he. or uske maanak pustkaalay bade or vyapak he.
+ is bhashaa kii dizin-darshan main kuta-pathneeyata par jor diya gaya he. pithan kaa daawa he ki iskaa cintax bahut spasht he; isaki maanak librari vishaal or sarvasamahit he. kai linaks systamon ke saath pithan praayah judaa hua aata he.
+ anya gatisheel bhashaaon kii tarah, paythan aksar ek scrypting bhashaa ke rup main prayog kiya jaataa he, lekin kabhi kabhi gaiyr screepting sandarbhon kii ek vistrut shrunkhlaa main bhi prayog kiya jaataa he. kuch upkarnon kaa upyog karke, paythan code swasampurna nishpaadan yogya program ke rup main pack kiya ja saktaa he. paythan interpritre kai oparating system ke liye uplabdh hai.
+ pithan 1980 ke dashak ke antim varshon dizin kii gayi thi. iske karyanvayan disambar 1989 main shuru hua.
+ pithan 3.0 ek lambii avadhi ke baad 3 disambar 2008 ko jari kiya gaya tha. yah pithan 2.x se campatible nahin tha.
+ janvari 1, 2018 se pithan 2.7 ko 'ritair' ghoshit kar diya gaya or ise ab menten nahin kiya jaataa he.
+ 1) saral : pithan ek saral bhashaa he. ek acha pithan program padhane par lagbhag angreji padhane jaisaa lagata he . pithan kii yah chhadam-code-prakruti isaki sabase badi shaktiyon main se ek he. 
+ 2) seekhney main aasaan : jaisaa ki aap dekhenge, pithan seekhney kii drushti se bahut aasaan he. 
+ 3) swatantra or muktastrot : pithan ek flos kaa ek udhaaharan he. 
+ 4) ucch str kii bhashaa : 
+ 5) portable: apane mukt-strot prakruti ke kaaran, pithan kai platformon par uplabdh he. aap linaks, windos, labaadaa, solaaris, oes / 2, Amiga, AROS, ke rup main / 400, BeOS, oes / 390, z / oes, palm oes, QNX, viemes, par pithan kaa upyog kar sakate hai.
+ 6) interprit kii jane vaali bhashaa: si yaa si++ aadi jis tarah compyle kii jaatin hai, pithan us tarah compyle nahin kii jaati. yah intrprited bhashaa he.
+ 7) uddeshyonmukh : pithan prakriya-unmukh programing ke saath hi object oriented programing kaa samarthan karata he.
+ 8) ekstencible: yadi aap chaahate hai ki kisi program kaa ek bhaag bahut teji se chalane vaala ho, to aap us bhaag ko si main likh kar is lakshya ko hasil kar sakate hai.
+ 9) vyapak librari : pithan kaa maanak librari vastav main bahut badi he. yah isaki bahut badi shakti he.
+ 10) embeddable 
+ pithan kii maanak librari bahut vishaal he or ise pithan kii sabase badi shakti ke rup main dkha jaataa he. yah librari anekon tarah ke kaaryon ke liye upyukt he. isamen graphical yujar interphes banane ke liye madul he, relational database se data aadan-pradaan ke liye modul he, ankaganit tathaa arbitreri priscygen decimal ke liye modul he, regular ixpressant ke liye modul he tathaa unit testing ke liye modul he. 
+ march 2018 main, pithan package index main 130,000 package hai. inamen se kuch pramukh ye hai-
+ pithan 2.5.2 main nimnlikhit 31 shabd arakshit hai-
+ 
+ 
+ __future__ kaa upyog karke pithan 2 ke code se pithan 3 jaisaa output liya ja saktaa he. arthath vah code donon pithan main chalegaa or samaan output degaa.
+ 1) coral
+ 2) di- link
+ 3) eve -online
+ 4) gaming
+ 5) hekking
+ 6) MMORPG
+ 7) honeywel
+ 8) echpi
+ 9) audyogic prakaash or sangeet
+ 10) philips
+ 11) united antariksh gathbandhan

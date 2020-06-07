@@ -1,0 +1,10 @@
+ latis-boltzman mathed taral simulation ke liye computeshnal taral gatiki kaa ek varg hota he. nevier-stolls sameekaran hal karne ke bajaay, discreet boltzman sameekaran ko hal kiya jaataa he. iske dwaara neutonian taral kaa bahaav bhatnagar-gros-crooke oparator samaan colizan modelon kaa simulation karne hetu kiya jaataa he.
+ boltzman sameekaran, ekal partical probablity vitaran fnction   f  {\displaystyle f} ke liye evolution sameekaran hota he:
+ jahaan   F  {\displaystyle F} bahari bal he evam   Ω  {\displaystyle \Omega } colizan samakalak he. latis boltzman mathed is sameekaran ko discrytaise kar detaa he. iske liye ye spes ko ek latis evam velocity spes ko velocity sets   v i   {\displaystyle v_{i}} main discrytaise kar detaa he. tab boltzman sameekaran, jo ab latis boltzman sameekaran ban chukaa he, ban jaataa he:
+ The collision operator is often approximated by a BGK collision operator:
+ where   f i  0   {\displaystyle f_{i}^{0}} is the local equilibrium distribution.
+ The moments of the   f i   {\displaystyle f_{i}} give the local conserved quantities. The density is given by
+ and the local momentum is given by
+ For the popular isothermal lattice Boltzmann methods these are the only conserved quantities. Thermal models also conserve energy and therefore have an additional conserved quantity:
+ The collision operator has to respect the conservation laws. Therefore the equilibirum distribution   f i  0   {\displaystyle f_{i}^{0}} must have the same conserved moments as the   f i   {\displaystyle f_{i}} .
+ 

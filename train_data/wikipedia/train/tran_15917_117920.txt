@@ -1,0 +1,13 @@
+ data sanchaar do yaa do se adhik computer kendron ke bich digital yaa analog data kaa sthantaran he, jo aapas me sanchaar chenal se judaa hota he.
+ data sanchaar ke laabh
+ sanchaar chenal ke prakaar -
+ 1. simplex chenal -
+ A————>B
+ isamen data kaa pravaah bas ek hi disha me hota he. jaise – radio stesan se radio signal shrotaaon ke paas pahuchataa he, par shrota waapas us signal ko radio stesan nahin bhej saktaa. isamen signal bas A se B kii disha me hi jaataa he.
+ 2. arddh duplex chenal -
+ ————————->
+ A B
+ 
+ A 
+ B —————————->A
+ is chenal me data kaa pravaah donon dishaao me ek saath hota he. ek hi samay me data A se B kii ore yaa B se A kii ore bheja jaataa hai. jaisaa ke computer internet seva me hota he.== inhen bhi dekhen==

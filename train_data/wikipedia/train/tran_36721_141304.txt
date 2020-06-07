@@ -1,0 +1,9 @@
+ field-programeble get are yaa epapijie ek vishesh prakaar kaa ankiy ekikrut paripath he jise prayokta apni aavashyaktaanusaar vinyasit karke vividh prakaar ke kaary kara saktaa he. vinyas karne ke liye program karnaa padataa he. chunki nirmaan ke baad prayokta dwaara isaki aantarik banaavat ko badla ja saktaa he, isaliye ise 'field programeble' kehete hai. epapijie kaa prayog karke ve saare logical kaary kiye/karaaye ja sakate hai jo 'asic' dwaara kiye jate hai. 
+ 
+ epapijie ke atirikt anya prakaar kii yuktiyaan bhi hai jinhen nirmaan ke baad program karke kaam main liya jaataa he. ve hai -
+ prayokta hardware discripshan langvej echdiel main yaa schimatic aarekh dwaara epapijie se apekshit vyavhaar kii dizin karata he. bade diginon main echdiel main kaam karnaa suvidhajanak hota he jabaki chote diginon ke liye schimatic aarekh upyukt he.
+ iske baad kisi idie tul kaa upyog karke 'technology-mappad netlist' janaret kii jaati he. iske baad 'place-and-root' prakriya dwaara is netlist ko affpijie main utaara jaataa he. prayokta masping tathaa 'place and root' ke parinaamon kii satyata kii jaanch karne ke liye simulation tathaa timming analysis]] aadi kaa sahaara letaa he. jab vah aashwast ho jaataa he to purv prakriya main utpann binary file kaa upyog karte hue epapijie ko 'ri-configure' kar diya jaataa he. yah file epapijie main serial interphes ke dwaara yaa kisi bahari iprom smriti main sthaanantarit kar di jaati he.
+ 
+ 
+ 
+ 

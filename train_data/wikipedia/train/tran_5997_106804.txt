@@ -1,0 +1,13 @@
+ jyamiti main hiron kaa sutara tribhuj kii teenon bhujaayen gyaat hone par uskaa kshetrafal nikaalane kaa ek sutara he. ise 'hero kaa sutara' bhi kehete hai. sutara kaa yah naam alexandria ke hiron ke naam par padaa he.
+ is sutara ke anusaar, yadi kisi tribhuj kii teen bhujaayen a, b or c hon to uskaa kshetrafal
+ jahaan s us tribhuj kaa ardhaparimaap he, arthath
+ hiron kaa sutara chakree chaturbhuj kaa kshetrafal nikaalane ke liye brahmagupta ke sutara kii ek vishesh sthiti he. brahmagupta kaa sutara yah he:
+ jahaan, 
+ ek tribhuj kii bhujaayen 3, 25 tathaa 26 hai. 
+ iskaa ardhaparimaap = /2 = 27
+ iskaa kshetrafal   A =  27 ⋅ 24 ⋅ 2 ⋅ 1  = 36.  {\displaystyle A={\sqrt {27\cdot 24\cdot 2\cdot 1}}=36.} 
+ parshv chitra main   b  {\displaystyle b} tribhuj kaa aadhaar he tathaa   h  {\displaystyle h} uski oonchaai. atah is tribhuj kaa kshetrafal   A =  b h 2  .  {\displaystyle A={\frac {bh}{2}}.} 
+ kojya sutara ke anusaar,   c 2  = a 2  + b 2  − 2 a b cos ⁡ C = a 2  + b 2  − 2 b  a 2  − h 2  ,  {\displaystyle c^{2}=a^{2}+b^{2}-2ab\cos C=a^{2}+b^{2}-2b{\sqrt {a^{2}-h^{2}}},} 
+ atah   h 2  = a 2  −   2  .  {\displaystyle h^{2}=a^{2}-\left^{2}.} ,
+ atah
+      A 2   =    b 2  h 2  4  =   b 2    2  )  4  =   2  −  2  16  =   ) ) 16  =     =    2  )  2  − c 2  ) 16  =     16  =  s    {\displaystyle {\begin{matrix}A^{2}&=&{\frac {b^{2}h^{2}}{4}}={\frac {b^{2}\left^{2}\right)}{4}}={\frac {^{2}-^{2}}{16}}={\frac {))}{16}}=\\\\&=&{\frac {^{2})^{2}-c^{2})}{16}}={\frac {}{16}}=s\\\end{matrix}}} 

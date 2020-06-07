@@ -1,0 +1,20 @@
+ 2.0.4
+ 2.1 milestone 3
+ google web tulkit ipie: /ˈɡwɪt/) saarvajanik strot ke upkarnon kaa ek set he jo web developaron ko java main jatil javascript front-and anuprayogon kii rachana karne or unka rakh-rakhaav karne kii anumati detaa he. kuch deshi pustakaalayon ko chhodkar anya sabhi kaa strot java he jiskaa nirmaan jidbaluty aint bild files samet kisi bhi samarthit plateform par kiya ja saktaa he. apachi license sanskaran 2.0 ke tahat ise license praapt he.
+ jidbaluty atulykaalik duurastha prakriya kol, itihaas prabandhan, bukmarking, antarrashtriyakaran or cross-broujar kii suvahyata naamak aavarti ajaiks chunautiyon ke pun: istemaal, kushal samaadhaan par jor detaa he.
+ jidbaluty 1.0 RC 1 sanskaran 16 may 2006 ko relies kiya gaya tha. google ne 2006 main javavan sammelan main jidbaluty kii ghoshnaa kii. 
+ relies kaa itihaas
+ jidbaluty kaa prayog karke develper apane pasandida java pariniojan upkaran ke jariye teji se java kii bhashaa main ageeex anuprayogon ko pariniojit or dosha mukt kar sakate hai. jab anuprayog kaa pariyogen ho jaataa he, jidbaluty vyati anubhaashak java anuprayog kaa anuwaad staneylon javascript filon main kar detaa he, jo ki vaikalpik taur par samaj se pare or gaharaai se anukulit hota he.
+ jidbaluty keval upyogkarta ke interphes programing ke ird-gird nahin ghumta; yah saamaanya rup se kisi bhi tarah ke graahak-paksh ke ucch nishpaadan javascript ke kaaryaatmak upkarnon kaa set he. live prastutikarnon main, jidbaluty ke develper is baat par jor dete hai ki "jidbaluty iskaa pustkaalay nahin he" or yah keval pustkaalay ko shaamil karata he, na ki moulik taur par koi alag ageeex pustkaalay he. yah saarvajanik darshan kabhi-kabhi un developaron ko aashcharya main daal detaa he jinke liye jidbaluty nayaa he, unhen ummid hoti he ki yah shuru se ant tak "on rails" anuprayog fremawork pradaan karata he. darasal, bahut saare pramukh sthapaty nirnay puri tarah se develper ke liye chhod die jate hai. da jidbaluty mishan statement jidbaluty kii bhoomika banaam developaron kii bhoomika ke darshanik vikaar ko spasht karata he. itihaas iskaa ek udhaaharan he: haalanki upyogkarta jab broujar main peeche yaa aage ke liye clic karte hai tab jidbaluty itihaas sanketon kaa prabandh karata he, is bare main yah koi nirdesh nahin detaa ki ek anuprayog sthiti main itihaas sanketon kaa nakshaa kaise banaaen.
+ jidbaluty anuprayog do mod main chalaae ja sakate hai:
+ google ek plagain for iklips pradaan karata he, jo idii main projecton ke nirmaan samet jidbaluty ke sankalankarta ko talab karne, jidbaluty ko shuru karne ke liye kanfigyareshan taiyaar karne, pramanikaran, rachanakram ko chihnit karne aadi jaise jidbaluty se sambandhit zyaadaatar kaaryon ko sambhaal letaa he.
+ bahut saare saarvajanik strot vaale plagain jidbaluty pariniojan ke nirmaan ko aasaan banane ke liye idii ke saath uplabdh hai. jaise, netbins, cipal studio for jidbaluty, iklips or jedevelper aadi ke liye GWT4NB
+ pramukh jidbaluty ghatakon main nimnlikhit shaamil hai:
+ jaise ki 2.0.3 sanskaran main he jidbaluty vibhinn tarah ke visits pradaan karata he:
+ jidbaluty visits main vibhinn panel bhi shaamil hai:
+ google anurekhak tulkit incubetter jise viksit kiya ja rahaa he, main atirikt visits hai ke sanskarnon main relies hone kii sambhaavna he)
+ bahut saare aam visits jidbaluty main nahin paae jate hai, jinhen tisare paksh ke pustakaalayon main lagu kiya gaya he, jaise ki eexti jeedbluty, jeedbluty component librari, jeedbluty-eexti, jeedbluty vijet librari, jeedblutiger, rocket jeedbluty, dojo, smart jeedbluty aadi
+ 8 disambar 2009 ko google ne speed tressor ke saath google anurekhak tulkit 2.0 ko shuru kiya.
+ jidbaluty kaa 2.0 sanskaran anek nayi suvidhaayen pradaan karata he, jinamein shaamil hai:
+ chunki nae vikaas mod ne adhikansh plateform-spacific code hataa diye hai, isliye jaisaa ki pehle ke sanskaran main tha ek prati samarthit plateform ke bajaay nayaa sanskaran ek adwitiya sangrah ke rup main vitarit kiya jayega.
+ aadhaarit ek java

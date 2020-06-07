@@ -1,0 +1,2 @@
+ 2.10.0
+ jimesh ek mukt strot software he jo finite eliment vidhi se kisi samasya kaa simulation karne ke liye aavashyak kuch charnon se yukt he. isamen solid model banane, use mesh karne tathaa samasya ke hal kii post-processing karne kii suvidha he. isamen abhi hal karne kii suvidha kaa abhaav he, jiske liye Getdp yaa almer aadi software kaa prayog kiya ja saktaa he. jimesh kii sahaayta se prachalik input bhi diye ja sakate hai. isamen pradarshan ke liye unnat vyavastha he.

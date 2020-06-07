@@ -1,0 +1,18 @@
+ naye sthanon par grounding pranali kii samuchit dizin karne ke liye vahaan kii mrudaa pratirohakata kaa gyaan ati aavashyak he.
+ vibhinn sthanon par mrudaa kii pratirohakata main bahut antar paaya jaataa he, jiske liye nami, taap, tathaa mrudaa kaa rasaynic sanrachana kaa lag-alag hona mukhya kaaran hai. mrudaa pratirohakata ke saamaanya maan ye hai-
+ 
+ The Wenner four-pin method, as shown in figure above, is the most commonly used technique for soil resistivity measurements.Using the Wenner method, the apparent soil resistivity value is:
+ where
+ ρE = measured apparent soil resistivity 
+ a = electrode spacing 
+ b = depth of the electrodes 
+ RW = Wenner resistance measured as "V/I" in Figure If b is small compared to a, as is the case of probes penetrating the ground only for a short distance, the previous equation can be reduced to:
+ 
+ In the Schlumberger method the distance between the voltages probe is a and the distances from voltages probe and currents probe are c .
+ Using the Schlumberger method, if b is small compared to a and c, and c>2a, the apparent soil resistivity value is:
+ where
+ ρE = measured apparent soil resistivity 
+ a = electrode spacing 
+ b = depth of the electrodes 
+ c = electrode spacing 
+ RS = Schlumberger resistance measured as "V/I" in Figure 

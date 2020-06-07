@@ -1,0 +1,23 @@
+ modular ganit purnaakon ke ganit kii ek pranali he jisamen kisi purnank par pahunchne ke baad ginati 1 se shuru ho jaati he. ise kabhi-kabhi ghadi kaa ganit bhi kehete hai.
+ is kshetra main swiss ganitagya islar ne bahut ullekhneey kaary kiya. iske baad karl fredrick gouse ne isko or aage badhaayaa.
+ modulo ganit kaa ek chota sa upyog ghadiyaan ke samay main hota he. abhi subah ke 8 baje hai ; ab se 7 ghante baad 8 + 7 = 15 bajnaa chahie jise ham 3 bajnaa kehete hai. . arthath modulo 12 ke liye 15 or 3 dono samaan hai.
+ do purna sankhyaon a or b ko mapank n ke prati samshesh kehete hai, jab n se a - b vibhajya he. isko nimnlikhit prakaar se likhte hai :
+ n ko samsheshtha kaa mapank kehete hai. 
+ udhaaharan ke liye
+ kyonki 38 − 14 = 24, jo 12 kaa gunaj he.
+ rinatmak purnankon ke liye bhi yahi niyam he-
+ samsheshtha ke gundharm samikarnon ke gundharmon ke samaan hai. 
+ yadi a   ≡  {\displaystyle \equiv } b or c   ≡  {\displaystyle \equiv } d, tab a+c   ≡  {\displaystyle \equiv } b+d or ac   ≡  {\displaystyle \equiv } bd .
+ yadi x kaa ek bahupadiy falan f hai, jisen x ke gunak purnank hai or a   ≡  {\displaystyle \equiv } b, to f   ≡  {\displaystyle \equiv } f, parantu yadi ab   ≡  {\displaystyle \equiv } ac, to yah aavashyak nahin he ki b   ≡  {\displaystyle \equiv } c, udaahranarth 1   ≡  {\displaystyle \equiv } 6, parantu 1 or 3 samshesh nahin hai ke prati.
+ ab   ≡  {\displaystyle \equiv } ac se jo uchit fal nikaala ja saktaa he, vah keval yahi he ki samsheshtha kii is ankan paddati kaa ek bada laabh yah he ki isaki sahaayta se sankhya siddhant ke bahut se falon ko sundar dhang se nirupit kiya ja saktaa he.
+ sampurna or laghukrit avasheshon kaa samucchy - samsheshtha sambandh tulyata sambandh he. iskaa arth he ki nimnakit sambandh satya he :
+  a   ≡  {\displaystyle \equiv } a ; 
+  a   ≡  {\displaystyle \equiv } b kaa arth b   ≡  {\displaystyle \equiv } a he.
+  a   ≡  {\displaystyle \equiv } b, b   ≡  {\displaystyle \equiv } c kaa arth a   ≡  {\displaystyle \equiv } c he.
+ isliye samsheshtha sambandh purnaakon ke samucchy ko atulyata ke virgon main is prakaar baantata he ki ek varg ke prayek do purnank maapak m ke prati samshesh hai or bhinn bhinn virgon ke do purnank maapak m ke prati samshesh nahin hai. yadi m virgon main se prayek varg se ek ek purnank liya jaae, to mapank m ke prati sampurna avasheshon kaa ek ek samucchy praapt hoga. is prakaar -3, 3, 2, 12, 14, 20, -6 mapank 7 ke prati sampurna avasheshon kaa samucchy he. mapank m ke prati saralatam avasheshi kaa samucchy 0, 1, 2, 3... m-1 he or nirpeksh laghutam sampurna avasheshon kaa amucchy nimnaankit he :
+ 0,   ≡  {\displaystyle \equiv } 1,   ≡  {\displaystyle \equiv } 2,......   ≡  {\displaystyle \equiv } /2, jab m visham he
+ tathaa 0,   ≡  {\displaystyle \equiv } 1,   ≡  {\displaystyle \equiv } 2,....   ≡  {\displaystyle \equiv } /2, jab m sam he
+ isi prakaar yadi m ke prati abhajya purnankon kaa samucchy liya jaae, to ve f tulyata ke aise virgon main bant sakate hai ki kisi ek varg kii prayek 2 sankhyaayein mapank m ke prati samshesh hongi or bhinn bhinn virgon kii koi 2 sankhyaayein mapank m ke prati samshesh nahin hai. pehle kii bhanti yadi prayek varg se ek sankhya lee jaae, to mapank m ke prati laghukrit avasheshon kaa ek samucchy praapt hota he. m = 12 ke liye is prakaar kaa ek samucchy 1, 5, 7, 11 he.
+ yah smaraneey he ki yadi mapank m ke sampurna avasheshon ke samucchy avyavon ko m ke saapeksh kisi abhajya sankhya r se gun kiya jaae, to mapank m ke prati sampurna avasheshon kaa ek doosraa samucchy praapt hota he. isi prakaar yadi mapank m ke prati laghukrit avasheshon ke samucchy ke sabhi avyavon ko m ke saapeksh kisi abhajya sankhya m se guna kiya jaae, to mapank m ke prati laghukrit avasheshon kaa ek doosraa varg praapt hoga. isse nimnaankit islar pherma prameya praapt he :
+ rf   ≡  {\displaystyle \equiv } 1, yadi = 1
+ 

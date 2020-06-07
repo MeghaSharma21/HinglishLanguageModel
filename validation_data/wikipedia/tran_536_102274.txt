@@ -1,0 +1,13 @@
+ aavesh sangrakshan kaa siddhant benjamin franklin ne khoja tha. iske anusaar vidyut aavesh ko na to utpann kiya ja saktaa he or na hi use nasht kiya ja saktaa he. atah vidyut aavesh brahmand main sadaiv hi sangrakshit rahata he. 
+ abhyaas rup main, aavesh sangrakshan ek bhautik niyam he jiske anusaar ek nishchit aaytan main vidyut aavesh main kul antar, un aaytan main aagam aavesh or us aaytan se nirgat aavesh ke antar ke ekadam baraabar hota he. 
+ ganit ke anusaar, is siddhant ko nirantarata sameekaran ke rup main likh sakate hai:
+ Q vidyut aavesh kii maatra he, jo ek nishchit aaytan main t samay main hota he, QIN us aaytan main aane vaali aavesh kii maatra samay t1 evam t2 ke bich or QOUT us aaytan se baahar jane vaale aavesh kii usee samay main maatra he.
+ sadish avkalan kaa prayog is siddhant kaa aavesh ghanatv ρ evam vidyut dhara ghanatv J kii terms main pratipaadan karne hetu prayog kiya ja saktaa he:
+ This statement is equivalent to a conservation of four-current. In the mid-nineteenth century, James Clerk Maxwell postulated the existence of electromagnetic waves as a result of his discovery that Ampère's law was inconsistent with the conservation of charge. After correctly reformulating Ampère's law, Maxwell also realized that such waves would travel at the speed of light, and that light itself must be a form of electromagnetic radiation. See electromagnetic wave equation for a full discussion of these discoveries.
+ aaytan main aagat kul dhara
+ jahaan S = ∂V V kii seemaa he jise baahar ko jate normals, evam dS ko NdS ke laghurup main, ∂V kii seemaa ke baahar ko jate normal ke liye prayog kiya gaya he. yahaan   J  {\displaystyle \mathbf {J} } aaytan kii sataha par dhara ghanatv he. sadish dhara kii disha ko chihnit karata he.
+ diavargens prameya ke anusaar ise 
+ rup main bhi likh sakate hai. dhara sangrakshan hetu aaytan ko kul dhara aavashyak rup se aaytan main hue antar ke baraabar honi chaiye.
+ aavesh ko aavesh ghanatv se is sameekaran dwaara sambandhit kiya ja saktaa he:
+ This yields
+ kyonki ye harek aaytan hetu satya he, atah hamen mila:

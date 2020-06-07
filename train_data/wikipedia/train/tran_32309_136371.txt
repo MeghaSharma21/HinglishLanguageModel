@@ -1,0 +1,3 @@
+ vidyut ejiniyari or radio ejiniyari ke sandarbh main baloon, transformar jaisaa ek avyav he jo 'single sided signal' ko 'diferential signal' main badalane yaa 'diferential signal' ko 'single sided signal' main badalane ke kaam aata he. 'single sided signal' ko 'anbalanced' tathaa 'diferential signal' ko balanced kaha jaataa he. baloon kaa upyog do alag-alag impidence ke paripathon ko jodne ke liye bhi kiya jaataa he. isaki sahaayta se shakti niyantran kiya jaataa he. shravy aavruti ke kshetra main baloon kaa upyog 'isolation' ke liye kiya jaataa he.
+ baloon bhinn-bhinn aakaar-prakaar ke hote hai. sabhi vidyutchumbakeey capuling ke aadhaar par kaam karte hai.
+ radio aavriti chok ko baloon ke sthaan par upyog main laayaa ja saktaa he.

@@ -1,0 +1,7 @@
+ ganit main, 1 + 1 + 1 + 1 + · · ·, jise nimna prakaar bhi likhaa jaataa he   ∑ n = 1  ∞  n 0   {\displaystyle \sum _{n=1}^{\infty }n^{0}},   ∑ n = 1  ∞  1 n   {\displaystyle \sum _{n=1}^{\infty }1^{n}}, athwa saadharantaya   ∑ n = 1  ∞  1  {\displaystyle \sum _{n=1}^{\infty }1}, ek apsaari shrenee he iskaa arth yah he ki is anukram ke aanshik yoga vaastavik sankhyaon main seemaa par abhisaran nahin karte. anukram 1n ko sarvanupaat 1 ke saath gunottar shrenee bhi mana ja saktaa he. vistaarit vaastavik sankhya rekha ke prasang main
+ chunki iske aanshik yoga kaa anukram seemaa rahit ekadishtatah vardhaman he.
+ jahaan n0 kaa yoga ek bhautikeey anuprayog ke rup main praapt hota he, yah kabhi-kabhi zeta falan niyamitikaran ke rup main bhi praapt hota he. yah riman zeta falan kaa 1=s = 0 par maan he
+ yadhyapi uparokt donon sutara shunya par vaid nahin hai, atah riman zeta falan kaa vaishleshik anuvarthi kaam main liya ja saktaa he,
+ iskaa upyog karne par = 1 diya gaya he.),
+ jahaan ζ kaa ghaatiya shrenee vistaar lagbhag s = 1 lagu hota he kyonki ζ kaa vahaan par avshesh kaa saadhaaran dhruv praapt hota he. is arth main 1 = 1 + 1 + 1 + 1 + · · · = ζ = 1/2 likhaa jaataa he.
+ emilio elizalde ne shrenee ke sambandh main nimna prakaar se prastut kiya:

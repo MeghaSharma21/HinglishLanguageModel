@@ -1,0 +1,7 @@
+ electronics main, voltata vibhaajak yaa vibhav-vibhaajak ek pasive raikhik paripath hota he jiske output se hamen uske input voltage kaa ek nishchit bhaag praat hota he. udhaaharan ke liye parshv chitra main Z1=1000 om tathaa Z2 = 1000 om ho to Vout kaa maan Vin ke aadha hoga. 
+ 
+ saamne ke chitra main dekhen. 
+ atah   U 2  = I ⋅ R 2   {\displaystyle U_{2}=I\cdot R_{2}} et   I = U  1  R 1  + R 2    {\displaystyle I=U{\frac {1}{R_{1}+R_{2}}}} 
+ or
+ 
+ prayavarti voltata ko sandharitra dwaara vibhajit kiya ja saktaa he.

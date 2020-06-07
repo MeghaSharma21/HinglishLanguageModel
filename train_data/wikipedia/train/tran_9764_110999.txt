@@ -1,0 +1,2 @@
+ unics shell wo program he jisamen prayokta cmand likhata he or uttar paata he. iskaa naam, shell aisa he jiskaa bhav - andar kii karypranali yuzar se chupa kar rakhane hetu he. isko samajhane ke liye aadesh patt yaa aadesh-chadar kah sakate hai. iskaa prayog 1978 se unics main ho rahaa he.
+ aaj bhi dur baithe terminal par kaam karne ke liye kisi na kisi prakaar ke shell kai prayoktaaon dwaara istemaal kiye jate hai. programing kii duniya main iske shuruaati swaroop jaisi shelli ko shell-scrypting karte hai.

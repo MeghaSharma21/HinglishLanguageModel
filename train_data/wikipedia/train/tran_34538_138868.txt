@@ -1,0 +1,9 @@
+ ganit main varg madhya mul, kisi char raashi ke pariman ko vyakt karne kaa ek prakaar kaa sankhyikeey tarika he. ise dwighati madhya bhi kehete hai. yah us sthiti main vishesh rup se upyogi he jab char raashi dhanatmak evam rinatmak donon maan grahan kar rahi ho. jaise jyavakreey kaa aaremes ek upyogi raashi he.
+ 'varg madhya mul' kaa shabdic arth he - diye hue aankadon ke "virgon ke madhya kaa vargamul ". 
+ varg madhya mul kii gananaa alag-alag maan diye hone par kii ja sakati he ; yaa kisi satat parivartansheel falan ke liye kii ja sakati he.
+ kisi diye hue    ‴  n ‴  {\displaystyle '''n'''} maanon   { x 1 , x 2 , …, x n  }  {\displaystyle \{x_{1},x_{2},\dots ,x_{n}\}} kaa aaremes nimna prakaar se paribhaashit kiya jaataa he-
+ isi tarah kisi satat falan   f  {\displaystyle f}, jo ki samyaanterval   T 1  ≤ t ≤ T 2   {\displaystyle T_{1}\leq t\leq T_{2}} ke liye paribhaashit he, ke liye varg madhya mul kaa sutara is prakaar he-
+ tathaa kisi satat falan ke liye sampoorn samay ke liye RMS is prakaar nikaala ja saktaa he-
+ kisi aavarti falan ke liye sampoorn samay par nikaala gaya RMS kaa maan us falan ke ek aavartkaal ke liye nikaale gayi RMS ke maan ke baraabar hi hoga. 
+ nimnlikhit udhaaharan se chaar prakaar ke maadhyon kii tulana dekhi ja sakati he:
+ RMS atyant upyogi he. yah bhautikee evam vidyut praudyogiki main khub prayog kii jaati he. jaise kisi pratirodh main dhara bahane par usamen utpann ushma kii maatra usamen se pravaahit dhara ke RMS ke varg ke samaanupati hota he.

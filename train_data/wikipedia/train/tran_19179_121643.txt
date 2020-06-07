@@ -1,0 +1,17 @@
+ sankhyatmak vishleshan main runga-kuta vidhiyaan saadhaaran avakal samikarnon ko hal karne kii punraritimulak vidhiyaan hai. inkaa vikaas germany ke ganitagyon si runga tathaa em dablyoo kuta ne 1900 i ke aasapaas kiya tha. yah ek vidhi nahin balki isamen kai vidhiyaan hai.
+ ise 'clasical runga-kuta vidhi' yaa praayah "RK4" bhi kaha jaataa he. yah chaar order vaali vidhi he.
+ maan lijie ki ek saadhaaran avakal sameekaran nimnlikhit he:
+ yah vidhi nimnlikhit sutara se samajhi ja sakati he:
+ n = 0, 1, 2, 3, . . ., tathaa
+ h kaa uchit dhanatmak maan lekar is vidhi ko barbar prayog karke t ke kisi bhi maan ke liye y kaa sannikat maan nikaal sakate hai.
+ mana    d x  d t  =  − t x   {\displaystyle {\frac {dx}{dt}}={\frac {-t}{x}}} kaa hal nikaalnaa he. diya hua he ki   t = 0  x = 1  {\displaystyle t=0\,\,\,x=1} 
+ is avakal sameekaran kaa thik-thik hal    t 2  + x 2  = 1  {\displaystyle t^{2}+x^{2}=1} he.
+ ham   h = 0, 1  {\displaystyle h=0,1} lekar iskaa hal nikaalte hai.
+ isse   t = 0, 1  {\displaystyle t=0,1} par   x = 0, 994987426585  {\displaystyle x=0,994987426585} praapt hota he.
+ isi tarah ham t ke vibhinn maanon ke liye x kaa maan praapt karte jate hai, jo nimnaankit sarini main dikhaaye gayi hai-
+ dhyaan den ki is avakal sameekaran ke vishuddh hal se   t = 1  {\displaystyle t=1} par   x = 0  {\displaystyle x=0} milegaa, jabaki is vidhi se   x = 0.0488018582123  {\displaystyle x=0.0488018582123} praapt hua he jo vishuddh maan ke kaaphi kareeb he. isse bhi adhik parishuddh maan kii gananaa ke liye 'step sies' ko 0.1 ke bajaay or kam rakhana padegaa.
+ ye vidhiyaan RK4 ke samanyikrut rup hai. yah nimnlikhit rup main he:
+ jahaan
+ kisi vishesh vidhi ko praapt karne ke liye pehle s tay kerani padati he. iske anusaar gunank aij, bi or ci tay kiye jate hai. matrix ko runga-kuta matrix kehete hai. bi tathaa ci ko bhaar evam node kehete hai. ye sankhyaayein nimnlikhit sarini ke rup main vyavasthit kii jaatin hai jise 'bujar tebul' kehete hai.
+ runga kuta vidhi ekarup hogi yadi
+ yadi ham kisi vidhi ko p order vaala bananaa chaahate hai to kuch or aavashyaktaayen isamen jud jaati hai. udhaaharan ke liye 2-charan tathaa 2-order kii vidhi praapt karne ke liye nimnlikhit shart aegi:

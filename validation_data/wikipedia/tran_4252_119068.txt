@@ -1,0 +1,1 @@
+ millar rabin test ek randmaizad algoridm he jo polinomial time main bataata he ki koi number abhajya he yaa nahin .

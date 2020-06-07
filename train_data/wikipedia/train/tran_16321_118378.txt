@@ -1,0 +1,13 @@
+ arduino ek muktastrot computer hardware tathaa software company he. is pariyojna kaa naam bhi arduno hi he jo microcontrolar kit tathaa single-board microcontrolar banaati he. is pariyojna ke antargat nirmit vastuen puure vishwa main muktastrot hardware or muktastrot software ke rup main vitarit kiye jate hai. ye board bahut saste hai tathaa digital control ke liye bahut upyogi hai. 
+ yah pariyojna 2003 main italy main armbh hui. 2011 main neuyork kii adafrut industries ne anumaan kiya tha ki lagbhag 3 lakh aadhikarik arduino kaa nirmaan kiya gaya tha. and in 2013 that 700,000 official boards were in users' hands.
+ Arduino Duemilanove 
+ Arduino UNO
+ Arduino Leonardo
+ Arduino Mega
+ Arduino MEGA 2560 R3 
+ Arduino MEGA 2560 R3 
+ Arduino Nano
+ Arduino Due
+ LilyPad Arduino 
+ Arduino Yun
+ sandarbh truti: main "smartprojects" naam ke saath paribhaashit tag usase pehle ke paath main prayukt nahin he.sandarbh truti: main "AutoF7-35" naam ke saath paribhaashit tag usase pehle ke paath main prayukt nahin he.

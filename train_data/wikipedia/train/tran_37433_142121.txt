@@ -1,0 +1,26 @@
+ gunottar shrenee vah shrenee he jiske kramagat padon kaa anupaat achar hota he. udhaaharan ke liye, 
+ ek gunottar shrenee he jiskaa sarvanisht anupaat 3 he. 
+ nimnlikhit shrenee, gunottar shrenee kaa saamaanya rup he,
+ jahaan a shrenee kaa pratham pad tathaa r sarvanisht anupaat he.
+ mimnlikhit talika main kai gunottar shreniyan or unke pratham pad evam sarvanisht anupaat dikhaae gaye hai-
+ gunottar shrenee ke kai gun uske sarvanisht anupaat r par nirbhar karte hai.
+ kisi gunottar shrenee kaa yoga ek simit sankhya hogi yadi uske sarvanisht anupaat r kaa sankhyatmak maan 1 se kam ho. aisi sthiti main us shrenee ke baad vaale pad naganya hote chale jate hai or us shrenee main anant pad hone ke baavjood bhi yoga anant nahin, simit hota he. 
+ mana ham nimnlikhit shrenee kaa yoga nikaalnaa chaahate hai-
+ This series has common ratio 2/3. If we multiply through by this common ratio, then the initial 1 becomes a 2/3, the 2/3 becomes a 4/9, and so on:
+ This new series is the same as the original, except that the first term is missing. Subtracting the new series s from the original series s cancels every term in the original but the first,
+ A similar technique can be used to evaluate any self-similar expression.
+ For   r ≠ 1  {\displaystyle r\neq 1}, the sum of the first n terms of a geometric series is
+ where a is the first term of the series, and r is the common ratio. We can derive this formula as follows:
+ so, 
+ As n goes to infinity, the absolute value of r must be less than one for the series to converge. The sum then becomes
+ When a = 1, this can be simplified to
+ the left-hand side being a geometric series with common ratio r.
+ The formula also holds for complex r, with the corresponding restriction, the modulus of r is strictly less than one.
+ We can prove that the geometric series converges using the sum formula for a geometric progression:
+ Since = 1−rn+1 and rn+1 → 0 for | r | < 1.
+ Convergence of geometric series can also be demonstrated by rewriting the series as an equivalent telescoping series. Consider the function,
+ Note that
+ Thus,
+ If
+ then
+ So S converges to

@@ -1,0 +1,4 @@
+ kisi nikaay main vidyut aaveshon ke vinyas ke kaaran ek sthitij urja hoti he jise vidyut sthitij urja kehete hai. 
+ kisi vastu main do kaarnon se vidyut sthitij urja ho sakati he- apane swayan ke aaveshon ke kaaran tathaa anya aaweshit vastuon ke saapeksh isaki sthiti ke kaaran. udhaaharan ke liye do bindu aavesh ek-duusare se r duuri par hon to is nikaay kii vidyut sthitij urja k.q1.q2/r2 ke baraabar hoti he.
+ bindu aaveshon ke kisi nikaay kii vidyut sthitij urja kaary kii us maatra ke barabar hoti he jo un aaveshon ko anant se laakar us rup main vinyast karne main karnaa padataa he. 
+    U  E   = − W  r  r e f  → r  = − ∫   r   r e f    r  q E  ⋅ d  r ′   {\displaystyle U_{\mathrm {E} }=-W_{r_{\rm {ref}}\rightarrow r}=-\int _{{\mathbf {r} }_{\rm {ref}}}^{\mathbf {r} }q\mathbf {E} \cdot \mathrm {d} \mathbf {r'} } ,

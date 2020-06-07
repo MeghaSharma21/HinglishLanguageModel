@@ -1,0 +1,2 @@
+ asthirataa kaa upyog adhyayan ke vividh kshetron main hota he, jaise niyantran siddhanth, sanrachana siddhanth, samaaj vigyaan aadi. 'asthirataa' kaa saamaanya yaa motaa arth yah he ki pranali kaa koi output yaa koi 'state' seemaa se pare  chalaa jaay. kintu yah bhi dhyaan rakhana chahie ki koi system 'sthir nahin' he to bhi jaruri nahin ki vah 'asthir' hi ho. 
+ sanrachana ejiniyari ke sandarbh main, jab kisi sanrachana par ek seemaa se adhik lod laga diya jaataa he to system 'asthir' ho jaataa he.

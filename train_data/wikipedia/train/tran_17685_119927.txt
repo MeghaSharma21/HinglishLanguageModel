@@ -1,0 +1,56 @@
+ ek lekhachitr, aankadon kaa aalekhiy prastutikaran he, jisamen "aankadon ko pratik dwaara darshaya jaataa he, jaise baar chart main baar ke rup main, rekha chart main rekhaon ke rup main, yaa paai chart main tukdon ke rup main". ek chart main sarinibaddh sankhyik aankadon, prakaaryon yaa kisi prakaar kii gunatmak sanrachanaon ko pradarshit kiya jaataa he.
+ aankadon ke ek aalekhiy prastutikaran ke rup main "lekhachitr" shabd ke kai arth hai 
+ chart kaa upyog aksar aankadon kii atyadhik maatra ko samajhane or un aankadon ke kuch hisson ke bich rishton ko jaanane ke liye kiya jaataa he. lekhachitr ko aamtaur par un kachche aankadon kii tulana main adhik teji se padhaa ja saktaa he jinke aadhaar par us lekhachitr kaa nirmaan kiya gaya he. vividh kshetron main unka ek vyapak upyog kiya jaataa he or unhen haath se banaaya ja saktaa he yaa chart anuprayog kaa upyog karte hue computer dwaara banaaya ja saktaa he. kisi die gaye data set ko pradarshit karne ke liye chart ke kuch vishesh prakaar, anya kii tulana main adhik upyogi hote hai. udhaaharan ke liye, jo aankaden alag-alag samoohon main pratishat darshaate hai, unhen aksar pai chart main pradarshit kiya jaataa he, lekin jab unhen ek kshaitij baar chart main prastut kiya jaataa he, to unhen samajhnaa aasaan hota he. duusari ore, jo aankaden aisi sankhyaon ko pradarshit karte hai jo samay ke saath badalte hai unhen ek rekha chart main behatar tareeke se dikhaaya ja saktaa he.
+ ek chart vibhinn prakaar ke rup dhaaran kar saktaa he, lekin kuch aam visheshtaayen hai jo chart ko aisi kshamta pradaan karti hai jisase vah aankadon se arth nikaalane main sakasham hota he.
+ aam taur par ek chart chitramay hota he, jisamen paath bahut kam shaamil hote hai, kyonki manushya aam taur par paath kii tulana main chitron se arth nikaalane main sakasham hote hai. graph main paath kaa adhik mahatvapurn upyog uske sheershak main he. ek graph kaa sheershak aamtaur par mukhya chitra ke upar pradarshit hota he or is baat kaa ek sankshipt vivaran pradaan karata he ki graph main aankaden kin chizon ko sanderbhit karte hai.
+ aankadon main aayam ko aksar akshon par pradarshit kiya jaataa he. agar ek kshaitij or ek anulamb aksh kaa upyog kiya jaataa he, to unhen aam taur par kramshah x-aksh or y-aksh ke rup main sanderbhit kiya jaataa he. prayek aksh kaa ek paimaana hoga, jo aavadhik kramagati dwaara chihnit hoga or aamtaur par sankhyatmak yaa suspasht sanket ke saath hoga. prayek aksh main aamtaur par uske baahar yaa bagal main ek label pradarshit hoga, jo pradarshit aayam kaa sankshipt varnan karegaa. yadi paimaana sankhyatmak he, to us paimaane kii ikai koshthak main hogi jiske peeche vah label hoga. udhaaharan ke liye, "tay kii gai duuri " ek theth x-aksh label he or uskaa arth hoga ki meter main tay kii gai duuri, aankadon kii kshaitij sthiti se sambandhit he.
+ graph ke bheetar, rekhaon kaa ek grid, aankadon ke drishy sanrekhan main sahaayta karne ke liye dikhaai de saktaa he. niyamit yaa mahatvapurn kramagati par rekhaon ko drishy rup main prabal banaate hue grid ko badhaayaa ja saktaa he. pramukh banaai gai rekhaon ko phir pramukh grid rekhaaen kaha jaataa he or baaki grid rekhaon ko goud grid rekhaaen kaha jaataa he.
+ kisi chart ke aankaden, vyaktigat label ke saath yaa bina, formet ke sabhi roopon main prastut ho sakate hai. yah dot yaa akritiyon, sambaddh yaa asambaddh or rangon or pettern ke kisi bhi sangyojan main pradarshit ho sakate hai. anumaan yaa ruchi ke bindu ko soochna nishkarshan main sahaayta ke liye graph par pratyaksh rup se darshaya ja saktaa he. 
+ jab kisi chart main pradarshit aankadon main ekaadhik char hote hai, to chart main ek legend shaamil ho saktaa he. ek legend main un charon kii ek suchi hoti he jo chart main pradarshit hote hai or unki upasthiti kaa ek udhaaharan hota he. is jaankaree se prayek char ke aankadon ko chart main pahchaanane kii anumati milti he.
+ chaar sabase aam lekhachitr hai:
+ histogram
+ baar chart
+ paai chart
+ line chart
+ is gailaree main darshaya gaya he:
+ anya saamaanya chart hai:
+ samayrekha chart
+ sanghathanaatmak chart
+ tree chart
+ flo chart
+ aria chart
+ cartogram
+ vanshavali chart
+ apekshaakrit kam aam chart ke udhaaharan hai:
+ babal chart
+ dhruviya kshetra aarekh
+ waterfol chart
+ radar chart
+ vriksh maanchitr
+ yah gailaree dikhaati he:
+ kuch lekhachitron kaa ek nishchit kshetra main vishisht upyog hota he
+ open-hai-lo-chlose chart
+ candalastic chart
+ kaagi chart
+ sparkline
+ yah gailaree dikhaati he:
+ anya udhaaharan hai:
+ kuch behatar-gyaat chart hai:
+ gant chart
+ nolan chart
+ piiarti chart
+ smith chart
+ kuch vishisht chart, prabhavi rup se ek ghatana yaa vichaar ko samajhaate hue acchhee tarah se prasiddh ho gaye hai.
+ anya prakaar ke dariinon chart hai. unamem se kuch nimna hai:
+ control chart
+ netaal chart
+ nomogram
+ parato chart
+ ran chart
+ sanrachana chart
+ wavell chart
+ box plot
+ dot plot 
+ sambhaavna plot
+ scaterplot
+ biplout

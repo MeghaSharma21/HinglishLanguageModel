@@ -1,0 +1,1 @@
+ compiler kaa compiler yaa compiler janitr vah upkaran he jo parger, interpritre yaa compiler ke nirmaan ke liye prayukt hota he. iske liye icchit compiler kaa vyakaran kisi vishesh rup main isko diya jaataa he jiskaa prasanskaran karke vah compiler kaa strot code kisi bhashaa main output kar detaa he.

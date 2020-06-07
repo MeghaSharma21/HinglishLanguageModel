@@ -1,0 +1,6 @@
+ indic unicode unicode ke bhartiya lipiyon se sambandhit sacshan ko kaha jaataa he. unicode ke naveenatam sanskaran 5.2 main vividh bhartiya lipiyon ko manakikrut kiya gaya he jinamein devanagari bhi shaamil he.
+ unicode 5.2 main nimnlikhit bhartiya lipiyon ko kutabaddh kiya gaya he:
+ unicode concortium dwaara ab tak nirdhaarit unicode 5.2 main devanagari ke kul 109 varnon/chihnon kaa maanakeekaran kiya gaya he abhi devanagari ke bahut se varna jinamein shuddh vyanjan tathaa kai vaidic dhwani chihn evam anya chihn yatha swastik aadi, unicode main shaamil nahin hai. shudd vyanjanon ke unicodit na hone ke kaaran vartmaan main unhen saamaanya vyanjan ke saath alag se halant lagaakar prakat kiya jaataa he jisase ki taxt kaa sies badhane ke atirikt computing sambandhi kai samasyaayen aati hai.
+ vaidic sanskrit chihnon ko unicode main shaamil karne hetu prastaavna kii gai he.
+ yadi computer par hindi evam anya bhartiya bhashaaon main kaam karne ke liye indic unicode sakasham kar lenaa chaiye. iske liye computer main jo bhi windos hai, uski sidi chahie (jaise- windos 2000, windos axpi, windos 2003 aadi.
+ brahmi lipi se vyutpann bahut si lipiyaan unicodit ho chuki hai. unicode ke 6.0 sanskaran tak nimnlikhit lipiyaan isamen shaamil kar lee gai hai:

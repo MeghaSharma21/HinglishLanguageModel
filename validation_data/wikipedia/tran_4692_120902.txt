@@ -1,0 +1,10 @@
+ varna sanketan kaa prayog pratirohak tathaa kuch anya electranik avyavon kaa maan yaa reating darshane ke liye kiya jaataa he. is sanketan kaa vikaas 1920 ke dashak main radio manufacturers eshociation dwaara kiya gaya tha. ise EIA-RS-279 ke naam se prakashit kiya gaya tha. vartmaan antararashtriya maanak IEC 60062 he.
+ chote electranik avyavon kaa maan evam reating ko sankhya ke rup main sidhe likhane ke bajaay varna-sanketon ke rup main likhane ke kuch laabh hai, jaise bahut choti sankhyaon ke rup main likhane kii kathinaayee tathaa use pard paane kii kathinaayee. kintu isaki kuch haniyaan bhi hai, jaise varnaandh vyakti ke liye varna sanket padhanaa kathin he.
+ pratirodh par kai rangeen pattiyaan bani hoti hai. pattiyon kii sankhya kam se kam 3 hoti he. baanye se daanye kram ko sahi pahchaanane ke liye C or D pattiyon ke bich apekshaakrit adhik duuri rakhi gayi hoti he.
+ 
+ kisi pratirodh main chaar pattiyaan hai- kramshah pilaa, bangnee, laal or sunaharaa. is prakaar in pattiyon ke sangat aankik maan kramshah 4, 7, 2 hai tathaa sunaharaa rang 5% sahyata ingit karata he. is prakaar is pratirodh kaa maan 47 x102 om arthath 4700 om he. chunki isaki sahyata 5% he atah is pratirodh kaa vaastavik maan 4,465 tathaa 4,935 om ke bich main kuch bhi ho saktaa he.
+ EN 60062:2005 ke anusaar maanak varna-kutan kaa abhipraay nimnlikhit prakaar se nikaala jaayegaa-
+ upar se neeche:
+ sandharitron kii koding ke liye 4 yaa adhik rangeen pattiyon yaa rangeen binduon kaa upyog kiya ja saktaa he. pehali do pattiyaan yaa bindu pratham do sarthak ank ke liye hote hai, teesri pattee dashamalav gunak hoti he. is prakaar praapt maan picopharad main aata he. yadi 3 se adhik pattiyaan hon to unke arth bhinn-bhinn tarah ke sandharitron ke liye bhinn-bhinn hote hai.
+ *yaa ±0.5 pF, jo bhi adhik ho.
+ siremic sandharitron par bani hui atirikt pattiyaan voltage reating class or taap gunank kaa maan bataati hai. 

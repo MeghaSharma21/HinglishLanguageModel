@@ -1,0 +1,5 @@
+ kisi vakr ke kisi bindu par ek chaap kii kalpana kii jaay jo us bindu par us vakr ke sabase sannikat nirupan kare to is chaap kii trigya ko vakrata trigya   R  {\displaystyle R} kehete hai. yah vakrata   κ  {\displaystyle \kappa } kaa vyutkram hota he. 
+ jahaan   s  {\displaystyle s} us bindu par chaap kii lambaai he,   ϕ  {\displaystyle \phi } sparsharekhiy kone he.
+ yadi die hue vakr kaa sameekaran, kartiya nirdeshaankon main   y = f  {\displaystyle y=f} ho to, nimnlikhit sutara dwaara vakrata trigya kii gananaa kii ja sakati he.
+ yadi vakr kaa sameekaran prachal nirdeshaank diya ho, arthath    {  x = x   y = y     {\displaystyle {\begin{cases}x=x\\y=y\end{cases}}}, vakrata trigya nimnlikhit sutara se nikaal sakate hai:
+ jahaan   x ′ =  d x  d t ,  x ″ =   d 2  x  d t 2  ,  y ′ =  d y  d t ,  y ″ =   d 2  y  d t 2    {\displaystyle x'={\frac {dx}{dt}},\quad x''={\frac {d^{2}x}{dt^{2}}},\quad y'={\frac {dy}{dt}},\quad y''={\frac {d^{2}y}{dt^{2}}}} .

@@ -1,0 +1,16 @@
+ kisi ganitiya samasya athwa data ko kadam-ba-kadam is prakaar vishleshit karnaa jisase ki vah computer ke liye grahya ban sake or computer uplabdh data ko program me lekarganitiya samasya kaa uchit hal prastut kar sake; elgorithm kehalaata he. vastut: data se vaanchit parinaam praapt karne ke liye computer use sansaadhit rup me hi grahan kar saktaa he. 
+ ham apane jivan me jab bhi kisi kaary ko karne kii yojana banaate he to uski ruparekha apane mastishk me niojit kar lete he. isi ruparekha ko vishisht kaaryo ke liye vibhinn charano ko kagajo par bhi taiyaar kiya jaataa he ki kaary kaise shuru hoga, kab or kahaan shuru hoga, kaise sampann hoga or kaise purna hoga.
+ isi prakaar computer par karne ke liye koi kaary diya jaataa he to programmer ko uski purna ruparekha taiyaar kerani hoti he tathaa computer se bina galati kaary karwaane ke liye kis kram se nirdesh diye jaaenge, yah tay karnaa hota he. arthath kisi kaary ko purna karne ke liye vibhinn charano se guzarana pasta he. jab samasya ke samaadhaan hetu vibhinn charano se krambadhd karke likhaa jaye to yah elgoritham kehalaata he.elgoritham ke liye input data kaa hona aavashyak nahi he jabaki isse kisi ek parinaam par pahuchane kii ummid kii jaati he. isame diye gaye nirdesh samajhane yogya hone chaiye.
+ computer se koi kaary karwaane me hame bahut satark rahanaa pasta he. kyonki manushya jab koi kaary karata he to uske paas purv anubhav, sochakar nirnay lene kii kshamta va swavivek hota he jabaki computer ke paas yah sab nahi hota, yah to sab praapt soochnaao ke aadhaar par hi kaary karata he. at: kisi kaary ko karne ke liye computer ko aavashyak evam satya tathy hi uplabdh karaaye jaae. jab elgoritham ko sanketo dwaara arekhit kiya jaataa he to aarekh kram nirdeshak yaa pravaah talika kehalaata he. isi kram nirdeshak yaa pravaah talika ke aadhaar par program taiyaar hota he.
+ dhyaan rakhe : 1-elgoritham me diye gaye samast nirdesh sahi evam spasht arth ke hone chaiye.
+ 2-prayek nirdesh esa hona chaiye ki jiskaa anupaalan ek nishchit samay me kiya ja sake.
+ 3-koi ek athwa kai nirdesh aanse naa ho jo ant tak doharaaye jate rahe. yah sunishchit kare ki elgoritham kaa antat: samaapan ho. 
+ 4-sabhi nirdesho ke anupaalan ke pashchaat, elgoritham ke samaapan par vaachit parinaam avashya praapt hone chaiye.
+ 5-kisi bhi nirdesh kaa kram badalane athwa kisi nirdesh ke peeche chhootane par ekgoritham ke samaapan par vaanchit parinaam praapt nahi honge.
+ udhaaharan : 
+ maan lijiye aapako 1 se 50 ke madhya kii sabhi sankhyao kaa yoga gyaat karne ke liye elgoritham banane ke liye diya gaya he. yah nimna prakaar banegaa:--
+ step 1:A=2
+ step 2: print A
+ step 3: A=A+2
+ step 4: if A 50
+ step 6: stop

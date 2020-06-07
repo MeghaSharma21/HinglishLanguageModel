@@ -1,0 +1,17 @@
+ net ran rate cricket ke khel main prayog kii jane vaali ek sankhyikee he. ek divasiy lig pratiyogita main team ko vibhajit karne ke liye yah ek saamaanya pranali hoti he, jis prakaar footbal main "gol antar" hota he vaise hi iskaa istemaal cricket main kiya jaataa he.
+ ek ekal khel main net ran rate, prati over kaa vah ran rate he jo us match main team dwaara arjeet kiya jaataa he or usamen se unke khilaaf banaae gaye prati over ran rate ko gata diya jaataa he.
+ ek team kaa ran rate unke dwaara khele gaye overon se unki kul ranon se vibhajit hota he. ek over main chah gende hoti he, net ran rate hisaab ke prayojan ke liye prayek gend kii ek over main 1/6 gend ke rup main gananaa kii jaati he, haalanki cricket sanketan main aam taur par ek over ke ek gend ke liye .1 ke rup main vyavhaar kiya jaataa he.
+ isliye agar ek team 50 overon main 250 ran kaa score karti hai to unka ran rate    250 50  = 5  {\displaystyle {\frac {250}{50}}=5} hoga. agar ve 47.5 over main samaan score karte hai to unka ran rate    250 47  5 6   ≈ 5.226  {\displaystyle {\frac {250}{47{\frac {5}{6}}}}\approx 5.226} hoga.
+ net ran rate kii avadharana main team ke ran rate se pratidwandi ke antim ran rate ko nikaal dena shaamil he. keval ek samasya yah he ki yadi ek team ko out kar diya jaataa he or isamen saamana kii gai gendon se unke dwaara kiye gaye score ko vibhajit nahin kiya jaataa; iske bajaay over ke sampoorn kota kaa istemaal hota he .
+ aamtaur par, lig talika main tiimon kii tulana karne ke liye sampoorn sizan main ran or phenke gaye overon kii gananaa kii jaati he, jaise nimnlikhit sutara pradarshit karte hai-
+    net run rate  =  total runs scored  total overs faced  −  total runs conceded  total overs bowled   {\displaystyle {\mbox{net run rate }}={\frac {\mbox{total runs scored}}{\mbox{total overs faced}}}-{\frac {\mbox{total runs conceded }}{\mbox{total overs bowled}}}} 
+ sabhi paridrishy ko prayek paksh kii team ke 50 over ke saath antarrashtriya ek divasiy niyam ko liya jaataa he.
+ 1. vah team jo pehle ballebaaji karti he jitati he 
+ 2. vah team jo baad main ballebaaji karti he jitati he 
+ 3. vah team jo pehali ballebaaji karti he or ol out ho jaati he baad main ballebaaji karne vaali team jitati he. 
+ 4. vah team jisane baad main ballebaaji kii or ol out ho gai. pehle ballebaaji karne vaali team kii jeet hui 
+ 5. donon hi timen ol out ho gai, isiilie pehle ballebaaji karne vaali team ko ank mili. 
+ 6. khel barabari par samaapt hota he 
+ 7. sanshodhit lakshya ke saath baadhit match. 
+ 8. khaarij hue khel ko parenamrahit ke rup main darj kiya jaataa he. 
+ 

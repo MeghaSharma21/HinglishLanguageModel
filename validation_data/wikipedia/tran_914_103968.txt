@@ -1,0 +1,15 @@
+ kshepan vigyaan yaa prakshepiki = "throw") yantriki kii ek shakha he jiske antargat prakshepakon kii gati, vyavhaar evam unke prabhaavon kaa adhyayan kiya jaataa he. prakshepakon main bhi mukhyatah goliyon, gurutv bamon, rocket aadi kaa bare main adhyayan kiya jaataa he. is adhyayan se prakshepakon kii dizin evam unako twarit karne kii yuktiyon kii dizin main madad milti he taaki ve abhisht parfarmens praapt kar saken.
+ bandook ke kshepan vigyaan main kshepak ko daagne se lekar lakshya par prahaar karne evam uske prabhaav kaa vishleshan kiya jaataa he. sthoolt: is vishay ke adhyayan ko chaar pramukh bhaagon main vibhajit kiya ja saktaa he:
+ abhyantar kshepan vigyaan - isamen gole kii gati tathaa prakshepya vastu ke bandook yaa top kii naal ke bheetar rahane tak gati kii niamak paristhitiyon ke sambandh main adhyayan kiya jaataa he. gole ko isi avadhi main adhikansh urja praapt hoti he.
+ madhyamik kshepan vigyaan - iske antargat prakshep kii vah avasthaa kaa adhyayan karte hai jab vah bandook kii naal se baahar nikalataa he or prakshep ke aage-peeche kaa dabaav teji se samaan ho jaataa he.
+ bahya kshepan vigyaan - bahya kshepan vigyaan vah shaastra he jisamen prakshep ke mohari chhod dene ke pashchaatvaali gati kaa vichaar kiya jaataa he. yah to sabhi ko gyaat he ki yadi vaayu kaa pratirodh na ho to prakshep kaa maarg paravalay ke rup main hoga. kintu vaayu main gatiman prakshep kii gati ke liye adhik jatil ganitiya samikarnon kaa sahaara liya jaataa he.
+ antasth kshepan vigyaan - yah kshepan vigyaan kii yah shakha he jisamen is baat par vichaar kiya jaataa he ki jab gola lakshya ko bedhta he to kya hota he.
+ isamen gole kii gati tathaa prakshepya vastu ke bandook yaa top kii naal ke bheetar rahane tak gati kii niamak paristhitiyon ke sambandh main adhyayan kiya jaataa he. jab kaksh main rakhaa hua pranodak jalataa he, gaisen nikalati hai. gaison ke nikalne se utpann daab gole ko aage dhakelti he aar ant main ve top kii mohari ke sire se veg se nikalate hai. is veg ko mohari veg kehete hai. naal ke bheetar gole kii gati ke sambandh main vichaar karne kii do paddatiyaan prachlit hai. 1. american paddati or 2. british paddati.
+ american paddati nimnlikhit prayogsiddh sutara par nirbhar he jise laduk kaa sutara kehete hai
+ V= ax/b+x
+ yahan V gole kii gati, x naal ke bheetar gole dwaara paar kii hui duuri tathaa a or b do niyatank hai. yah saralata se dikhaaya ja saktaa he ki is nikaay main daab P tathaa mahatta daab Pmax nimnlikhit sutara se praapt hote hai:
+ yahan W sphot ke gole kaa bhaar, A naal kii anuprastha kaat kaa kshetrafal tathaa g prithvi kaa saadhaaran gurutvakarshan he.
+ british paddati main naal ke bheetar prakshep kii gati ke niamak nimnlikhit chaar sameekaran hai :
+ F Cz/A1 = p + l-1/2A1 W1v2
+ D df/dt +- bpa W1 dv/dx = Ap
+ z = 

@@ -1,0 +1,3 @@
+ kaharava ek bhartiya taal he, jisamen aath matraayen hoti hai jo 4-4 matraaon ke do vibhaagon main banti hoti hai. pehali maatra par tali or paanchavi par khaali hoti he. iskaa theka he :
+ X 2 3 4 | 0 2 3 4
+ dha ghe naa tin | naa ga dhin naa

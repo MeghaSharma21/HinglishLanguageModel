@@ -1,0 +1,18 @@
+ bhartiya lipiyon ko braille paddati se nirupit karne ke liye viksit ekasmaan vyavastha ko bharti braille kehete hai. san 1951 ke aasapaas bhartiya lipiyon ko likhane kii ekikrut vyavastha sweekrut kar lee gayi jo srilanka, nepal or bangladesh ne bhi sweekaar kar liya he.
+ bharti braille 6 dot par aadhaarit he. yah bharat ke sabhi lipiyon ke varnon ke liye, jahaan tak sambhav hua he, samaan braille sanket diya gaya he. 
+ 
+ k kha ga gha ng c chha ja jha na 
+ ⠅ ⠨ ⠛ ⠣ ⠬ ⠉ ⠡ ⠚ ⠴ ⠒ 
+ t tha d da dh dha na t tha da dha na 
+ ⠾ ⠺ ⠻ ⠫ ⠐⠻ ⠿ ⠼ ⠞ ⠹ ⠙ ⠮ ⠝ 
+ pa pha ba bha m ya r l l va 
+ ⠏ ⠖ ⠃ ⠘ ⠍ ⠽ ⠗ ⠇ ⠸ ⠧ 
+ sha sha sa ha ksha jna . . 
+ ⠩ ⠯ ⠎ ⠓ ⠟ ⠱ ⠲ ⠲
+ qa kh ga za fa 
+ ⠅ ⠭ ⠐⠣ ⠵ ⠐⠖
+ a aa i i u uu e i o ou ri   
+ ⠁ ⠜ ⠊ ⠔ ⠥ ⠳ ⠑ ⠌ ⠕ ⠪ ⠐⠗ ⠂ ⠈ 
+              
+ ⠜ ⠭ ⠊ ⠔ ⠥ ⠳ ⠑ ⠌ ⠕ ⠪ ⠰ ⠄ ⠐⠗ ⠠
+ braille pattern kaa unicode U+2800 se lekar U+28FF tak he jinaki kul sankhya 256 hui. inamen se pratham 64 hi bharti braille main prayukt hote hai arthath U+2800 se lekar U+283F tak. ye sabhi 64 pattern keval 6-doton vaale hai .

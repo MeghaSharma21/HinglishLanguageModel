@@ -1,0 +1,3 @@
+ 2013 
+ microsoft acces ko microsoft ofi acces ke naam se bhi janaa jaataa he yah ek database prabandhan pranali he, jisaki rachana or vitaran microsoft ne apni microsoft vindos or mike oes eks ke liye kiya he. yah anuprayog microsoft offis kaa ek bhaag he. iskaa upyog database banane, database ko manage karne, vishleshan karne evam report banane main kiya jaataa he.
+ iske dwaara aap apana database fil bana sakate hai. yah "font-and" ke rup main kaary karata he or microsoft escuel sarwar ke jaise "back-and" ke rup main bhi. kuch anya anuprayog jaise vijuval basic, eespi.net aadi bhi microsoft acces ke database praaroop kaa upyog karte hai. yah microsoft ke anya anuprayogon ke saath bhi kaam karata he, jaise excel, outluk, verde, powerpoint aadi. 

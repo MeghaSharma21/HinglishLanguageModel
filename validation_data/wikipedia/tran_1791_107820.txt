@@ -1,0 +1,1 @@
+ ganit main booleey prabhavakshetra aisa samucchy hota he jiske keval do sadsy hon, jinhen "satya" or "asaty" ke rup main samajha ja sake. tarkshastra, ganit or computer vigyaan main is prabhavakshetra ko {0, 1}, {false, true}, {F, T},   { ⊥, ⊤ }  {\displaystyle \left\{\bot ,\top \right\}} yaa   B  {\displaystyle \mathbb {B} } ke rup main likhaa jaataa he.

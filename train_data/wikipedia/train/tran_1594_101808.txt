@@ -1,0 +1,12 @@
+ ganit main trikoshmetiya falnon ke pratilom falnon ko pratilom trikoshmetiya falan kehete hai. inke domen samuchit rup se simit karke paribhaashit kiye gayi hai.inhen sin−1, cos−1 aadi ke rup main nirupit karte hai or 'sin invars', 'cos invars' aadi bolte hai. 
+ udhaaharan:
+ chunki koi bhi trikoshmetiya falan ekaiki nahin he, inke pratilom falan tabhi sambhav honge yadi inke domen simit rakhe jany.
+ nimnaankit sarini main mukhya pratilomon kaa vivaran diya gaya he-
+ yadi x ko samishra sankhya hone kii chhot ho to y kaa range keval iske vaastavik bhaag par hi lagu hoga.
+ Complementary angles:
+ Negative arguments:
+ Reciprocal arguments:
+ If you only have a fragment of a sine table:
+ Whenever the square root of a complex number is used here, we choose the root with the positive real part .
+ From the half-angle formula   tan ⁡  θ 2  =  sin ⁡ θ  1 + cos ⁡ θ   {\displaystyle \tan {\frac {\theta }{2}}={\frac {\sin \theta }{1+\cos \theta }}}, we get:
+ nimnlikhit main k koi purnank he.

@@ -1,0 +1,9 @@
+ ganit main aanshik avakal sameekaran wo avakal samikarane hoti hai jinamein bahuchar falan or unke aanshik avakal hote hai. nimnlikhit he-
+ jahaan   F  {\displaystyle F} or   G  {\displaystyle G} yadrichhik falan hai.
+ do order vaale aanshik avakal samikarnon ko paravalai, ativalayi or dirghavrittiya main vibhakt kiya jaataa he.
+    u x y  = u y x   {\displaystyle u_{xy}=u_{yx}} ko maanate hue, mana do swatantra charon main, do-order vaala, saamaanya PDE nimnlikhit he-
+ jahaan A, B, C aadi gunank x or y par nirbhar ho sakate ham. yadi xy-plane ke kisi kshetra main   A 2  + B 2  + C 2  > 0  {\displaystyle A^{2}+B^{2}+C^{2}>0} ho, to us kshetra main PDE dwitiya-order vaala he. yah rup shankav ke sameekaran jaisaa he:
+ duusare shabdon main,, ∂x ke sthaan par X rakhane par, niyat gunank vaala PDE usee degree ke ek bahupad main parivartit ho jaataa he. 
+ jis prakaar discriminent   B 2  − 4 A C  {\displaystyle B^{2}-4AC} ke aadhaar par konic sections ko parabolic, hyperbolic, or elliptic main baanta jaataa he, usee tarah dwitiya-order vaale PDE ko bhi vargeekrut kiya ja saktaa he. kintu PDE ke cese main discriminent   B 2  − A C,  {\displaystyle B^{2}-AC,} liya jaataa he.
+ If there are n independent variables x1, x2, ..., xn, a general linear partial differential equation of second order has the form
+ The classification depends upon the signature of the eigenvalues of the coefficient matrix ai,j..

@@ -1,0 +1,15 @@
+ autotransafarmar ek aisi sanrachana vaala transafarmar hota he jisamen keval ek hi vinding hoti he. ek hi vinding kaa kuch bhaag primary kaa kaam karata he or kuch bhaag dwitiyak vinding kaa kaam karata he. at: is akeli vinding main kam se kam teen vidyutiya sire hote hai. is tarah kaa transafarmar samaan kevie reating se saamaanya transafarmar kii apeksha aakaar or vajan main chota hota he. kintu isamen primary or secondari ke bich isolation nahin miltaa jo kahin-kahin anivaary rup se aavashyak hoti he. 
+ autotransformar main ek hi vinding hoti he jiske do siron ke alaava bich main bhi ek yaa adhik truminal hote hai. primary ko do antim chhoron ke bich lagaaya jaataa he. output voltage bich ke kisi terminal or ek antim sire ke bich liya jaataa he.  is transformar kii puri vinding ke prayek turn main samaan voltage hota he, chaahe vah turn primary main ho yaa secondari main. autotransformar main primary se kuch dhara sidhe lod ko chali jaati he.
+ 
+     V 1  V 2   =  N 1  N 2   = a  {\displaystyle {\frac {V_{1}}{V_{2}}}={\frac {N_{1}}{N_{2}}}=a} 
+ 
+ The ampere-turns provided by the upper half:
+    F U  =  I 1  =  N 1  I 1   {\displaystyle F_{U}=I_{1}=N_{1}I_{1}} 
+ The ampere-turns provided by the lower half:
+    F L  = N 2  =  N 1  a   {\displaystyle F_{L}=N_{2}={\frac {N_{1}}{a}}} 
+ For ampere-turn balance, FU=FL:
+    N 1  I 1  =  N 1  a   {\displaystyle N_{1}I_{1}={\frac {N_{1}}{a}}} 
+ Therefore:
+     I 1  I 2   =  1 a   {\displaystyle {\frac {I_{1}}{I_{2}}}={\frac {1}{a}}} 
+ autotransformar kaa aakaar samaan aakaar ke do vinding vaale transformar se chota hota he.
+ ye bhi autotransformar hi hote hai lekin isamen output ek niyat bindu se nahin liya gaya hota he balki vinding par phisalkar chalane vaale ek carbon brush ke madhyam se liya gaya hota he. isse laabh yah hota he ki output main ek seemaa ke andar koi bhi voltata praapt kii ja sakati he. is kaaran iskaa upyog anek yuktiyon ke pareekshan main hota he. udhaaharan ke liye iskaa upyog balb ko aavashyaktaanusaar kam yaa adhik tivrata se jalaane ke liye kiya ja saktaa he. isi tarah iskaa upyog motor ko 'soft sturt' karne ke liye kiya ja saktaa he. iskaa iske brush ko swatah niyantrit karke isse ek voltage-stablizer bhi banaaya jaataa he. 

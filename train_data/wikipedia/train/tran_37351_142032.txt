@@ -1,0 +1,118 @@
+ teen pratikchhedi rekhaon se ghiri akruti ko tribhuj kehte he.
+ tribhuj, teen shirshon or teen bhujaaon vaala ek bahubhuj hota he. yah jyamiti kii mul akritiyon main se ek he. shirshon A, B, or C vaale tribhuj ko   △ A B C  {\displaystyle \triangle ABC} dwaara darshaya jaataa he.EyUklidiyana jyamiti main koi bhi teen asanrekhiy bindu, ek adwitiya tribhuj kaa nirdhaaran karte hai or saath hi, ek adwitiya tal kaa bhi. duusare shabdon main, teen saral rekhaon se ghiri band akruti ko tribhuj yaa trikon kehete hai. tribhuj main teen bhujaaen or teen kone hote hai. tribhuj sabase kam bhujaaon vaala bahubhuj he. kisi tribhuj ke teenon aantarik konon kaa yoga sadaiv 180° hota he. in bhujaaon or konon ke maap ke aadhaar par tribhuj kaa vibhinn prakaar se vargeekaran kiya jaataa he.
+ sambahu tribhuj: sabhi teenon bhujaaon samaan hoti hai va prayek kone 60 ansh kaa hota he.
+ abhilamb: kisi tribhuj main ek bhujaa ke vipareet sheersh se bhujaa par daalaa gaya lamb abhilamb kehalaata he.
+ madhyika: sheersh ke saamne vaali bhujaa ke madhya bindu se milaane vaali rekha madhyika kehalaati he.
+ nunekon tribhuj: prayek kone 90 degree se kam hota he.
+ samakon tribhuj: ek kone 90 degree shesh donon kone ek duusare ke poorak hote hai.
+ adhikkone tribhuj: koi bhi ek kone 90 degree se adhik kaa hota he.
+ vishambahu tribhuj: sabhi bhujaaen aapas main asmaan hoti hai.
+ samdvibahu tribhuj: koi do bhujaaen aapas main samaan hoti hai. samaan bhujaaon ke saamne ke kone bhi samaan hote hai.
+ kone samdvibhaajak: vah rekhakhand, jo tribhuj ke sheersh se prarambh hota he evam kone ko do samaan bhaagon main baantta he.
+ bhujaa kaa lamb samdvibhaajak: rekhakhand, jo tribhuj kii bhujaa ke saath samakon banaate hue use do samaan bhaagon main baantta he.
+ lamb kendra: vah bindu jahaan kisi tribhuj ke teenon abhilamb milte he.
+ kendrak: tribhuj kii teenon madhyikayen jis bindu par milti hai av bindu cendrak kehalaata he. cendrak pratyekamadhyika ko 2:1 main vibhajit karata he.
+ antahkendra: tribhuj ke kone samdvibhaajak jis bindu par milte hai, vah bindu antahkendra kehalaata he.
+ parikendra: vah bindu jahaan bhujaaon ke lamb samdvibhaajak milte hai parikendre kehalaata he. parikendre hameshaa teenon shirsho se samaan duuri par hota he.
+ bhujaaon or konon ke maap ke aadhaar par tribhuj kaa vibhinn prakaar se vargeekaran kiya gaya he-
+ bhujaaon ke aadhaar par
+ sambahu tribhuj - ek sambahu tribhuj main, sabhi bhujaaon kii lambaai baraabar hoti he. ek sambahu tribhuj, ek niyamit bahubhuj bhi he jisamen sabhi kone 60° ke hote hai.
+ samdvibahu tribhuj - yadi kisi tribhuj kii koi do bhujaaen baraabar hoti hai to wo samdvibahu tribhuj kehalaata he. samdvibahu tribhuj ke samaan bhujaaon ke aamane saamne ke kone bhi baraabar hote hai. ek samdvibahu tribhuj main, kinhi do bhujaaon kii lambaai baraabar hoti he. ek samdvibahu tribhuj main ek hi maap ke do kone bhi hote hai, arthath samaan lambaai kii donon bhujaaon or teesri asmaan bhujaa ke madhya bane kone samaan hote hai; yah tathy samdvibahu tribhuj prameya kaa he, jise euclid dwaara gyaat kiya gaya tha. samdvibahu tribhuj main kam se kam do bhujaayen samaan hoti hai. atah sambahu tribhuj, samdvibahu bhi hote hai.
+ vishambahu tribhuj - ek vishambahu tribhuj main, teenon bhujaaon kii lambaai alag alag hoti he. falswaroop, iske teenon kone bhi alag alag hote hai.
+ aantarik konon kii maap ke aadhaar par
+ samakon tribhuj- samakon tribhuj main aantarik konon main se ek 90° hota he. aise tribhuj main, samakon ke saamne kii bhujaa ko karn kehete hai, jo tribhuj kii sabase lambii bhujaa hoti he. anya do bhujaaon ko tribhuj ke paad yaa bhuj kaha jaataa he. samakon tribhuj, pithagorian prameya kaa paalan karte hai: do bhujon kii lambaai ke virgon kaa yoga, karn kii lambaai ke varg ke baraabar hota he:, jahaan a or b bhujon kii lambaai or c karn kii lambaai he. vishesh samakon tribhuj, atirikt gunon vaale samakon tribhuj hote hai jo gananaa ko aasaan banaate hai. do sabase prasiddh samakon tribhujon main se ek 3-4-5 samakon tribhuj he, jahaan   3 2  + 4 2  = 5 2   {\displaystyle 3^{2}+4^{2}=5^{2}} . is sthiti main, 3, 4, or 5 ek pithagorian yugma he. doosraa ek samdvibahu tribhuj he jisamen do kone 45° ke hote hai.
+ nunekon tribhuj- nunekon tribhuj main prayek aantarik kone 90° se kam hota he. yadi c, tribhuj kii sabase lambii bhujaa kii lambaai he, to   a 2  + b 2  > c 2   {\displaystyle a^{2}+b^{2}>c^{2}}, jahaan a or b, tribhuj kii anya do bhujaaon kii lambaai hai.
+ adhikkone tribhuj- adhikkone tribhuj main, koi ek aantarik kone 90° se adhik hota he. yadi c, tribhuj kii sabase lambii bhujaa kii lambaai he, to   a 2  + b 2  < c 2   {\displaystyle a^{2}+b^{2}<c^{2}}, jahaan a or b, tribhuj kii anya do bhujaaon kii lambaai hai.
+ eucalidian tal main, tribhuj ke teenon aantarik konon kaa yoga hameshaa 180 ansh hota he. yah tathy euclid ke samaantar swasiddh ke samaan he. yah kisi bhi tribhuj ke tisare kone kii maap kaa nirdhaaran karne kii anumati detaa he, jab tribhuj ke anya donon konon kii maap gyaat ho. tribhuj kaa bahishkone vah kone he jo ek aantarik kone ke liye, ek raikhik kone hota he, arthath tribhuj kii kisi bhujaa ko aage badhaane par jo kone banataa he, vah tribhuj kaa ek bahishkone hota he. tribhuj ke bahishkone kii maap, anya do aantarik konon kii maapon ke baraabar hoti he jo isse sanlagn nahin hote hai; yah bahishkone prameya he. kisi bhi tribhuj ke teenon bahishkonon kii maapon kaa yoga 360 ansh hota he.
+ samarupata or sarvangasamata
+ do tribhuj samroop hote hai yadi ek tribhuj ke prayek kone kaa maan, duusare tribhuj ke konon ke maan ke baraabar hota he. samroop tribhujon main tatsthanik bhujaaon kii lambaaiyaan samaan anupaat main hoti hai, or yah gun tribhujon main samarupata sthapit karne ke liye paryaapt he. 
+ samroop tribhujon ke bare main kuch mul prameya nimna hai:
+ do tribhuj sarvangasam hote hai, yadi unki akruti or aakaar bilkul ek jaise hon, donon tribhujon main aantarik kone ke sabhi jode maap main baraabar hon, or teenon tatsthanik bhujaaon kii lambaai samaan ho.
+ do tribhujon ke sarvangasam hone ke liye, kuch alag-alag aavashyaktaayen or paryaapt sthitiyaan nimna hai:
+ isi prakaar, do tribhujon kii sarvangasamata siddh karne ke liye ASA niyam, SSS niyam, AAS niyam kaa prayog kiya jaataa he.
+ samakon tribhuj main aantarik konon main se ek 90° hota he. aise tribhuj main, samakon ke saamne kii bhujaa ko karn kehete hai, jo tribhuj kii sabase lambii bhujaa hoti he. anya do bhujaaon ko tribhuj ke paad yaa bhuj kaha jaataa he. pithagorian prameya ek kendriya prameya he, jo ki kisi bhi samakon tribhuj main lagu ho sakati he: karn kii lambaai kaa varg,anya do bhujaaon kii lambaai ke virgon ke yoga ke baraabar hota he. yadi karn kii lambaai c, or bhujon kii lambaaiyaan a or b he, to prameya ke anusaar-
+     a 2  + b 2  = c 2  .   {\displaystyle {\displaystyle a^{2}+b^{2}=c^{2}.}} 
+ arthath yadi tribhuj kii bhujaaon kii lambaai uparokt sameekaran ko santusht karti hai, to tribhuj main ek samakon he jo bhujaa c ke sammukh he.
+ samakon tribhujon ke bare main kuch anya tathy:
+ ek samakon tribhuj ke nunekon poorak hote hai.
+    a + b + 90 ∘  = 180 ∘  ⇒ a + b = 90 ∘  ⇒ a = 90 ∘  − b .   {\displaystyle {\displaystyle a+b+90^{\circ }=180^{\circ }\Rightarrow a+b=90^{\circ }\Rightarrow a=90^{\circ }-b.}} 
+ yadi samakon tribhuj ke bhujon kii lambaai samaan he, to un bhujon ke vipareet kone samaan hote hai. chunki ye kone poorak hote hai, atah prayek kone 45 ansh kaa hota he. pithagorian prameya dwaara, karn kii lambaai, ek bhuj kii lambaai kii √2 guni hoti he.
+ 30 or 60 ansh ke nunekon vaale samakon tribhuj main, karn kii lambaai, choti bhujaa kii lambaai kii doguni hoti he, or badi bhujaa kii lambaai choti bhujaa kii lambaai kii √3 guna hoti he:
+   c = 2 a  {\displaystyle c=2a\,} 
+   b = a ×  3  .  {\displaystyle b=a\times {\sqrt {3}}.} 
+ sabhi tribhujon ke liye kone or bhujaayen, jya or kojya ke niyamon dwaara sambandhit hai.
+ bhujaaon kii sharten
+ tribhuj asamika bataati he ki tribhuj kii kinhin do bhujaaon kii lambaaiyon kaa yoga, teesri bhujaa kii lambaai se adhik yaa baraabar hona chahie. keval ek patit tribhuj main, kinhin do bhujaaon kii lambaaiyon kaa yoga, teesri bhujaa kii lambaai ke baraabar hota he, jisamen teenon sheersh sanrekhiy hote hai. tribhuj kii do bhujaaon kii lambaaiyon ke yoga kaa, teesri bhujaa kii lambaai se kam hona sambhav nahin he. teen di gayi sakaaratmak bhujaaon vaala tribhuj banegaa yadi ve bhujaayen, tribhuj asamika ko santusht karti hai.
+ konon par sharten
+ teen die gaye kone ek apatit tribhuj banaate hai yadi ve in donon sharton kaa paalan karte hai: konon main se prayek sakaaratmak ho, or konon kaa yoga 180° ke baraabar he. patit tribhujon ke liye kone 0° kaa ho saktaa he.
+ trikoshmetiya sharten
+ teen sakaaratmak kone α, β, or γ, ek tribhuj ke kone honge yadi ve nimna sharton main se kisi ek kaa paalan karen:
+   tan ⁡  α 2  tan ⁡  β 2  + tan ⁡  β 2  tan ⁡  γ 2  + tan ⁡  γ 2  tan ⁡  α 2  = 1,  {\displaystyle \tan {\frac {\alpha }{2}}\tan {\frac {\beta }{2}}+\tan {\frac {\beta }{2}}\tan {\frac {\gamma }{2}}+\tan {\frac {\gamma }{2}}\tan {\frac {\alpha }{2}}=1,} 
+    sin 2  ⁡  α 2  + sin 2  ⁡  β 2  + sin 2  ⁡  γ 2  + 2 sin ⁡  α 2  sin ⁡  β 2  sin ⁡  γ 2  = 1,  {\displaystyle \sin ^{2}{\frac {\alpha }{2}}+\sin ^{2}{\frac {\beta }{2}}+\sin ^{2}{\frac {\gamma }{2}}+2\sin {\frac {\alpha }{2}}\sin {\frac {\beta }{2}}\sin {\frac {\gamma }{2}}=1,} 
+   sin ⁡ + sin ⁡ + sin ⁡ = 4 sin ⁡ sin ⁡ sin ⁡,  {\displaystyle \sin+\sin+\sin=4\sin\sin\sin,} 
+    cos 2  ⁡ α + cos 2  ⁡ β + cos 2  ⁡ γ + 2 cos ⁡ cos ⁡ cos ⁡ = 1,  {\displaystyle \cos ^{2}\alpha +\cos ^{2}\beta +\cos ^{2}\gamma +2\cos\cos\cos=1,} 
+   tan ⁡ + tan ⁡ + tan ⁡ = tan ⁡ tan ⁡ tan ⁡,  {\displaystyle \tan+\tan+\tan=\tan\tan\tan,} 
+ antim samanta keval tabhi lagu hoti he jab konon main se koi bhi 90° kaa na ho .
+ ek tribhuj kii kisi bhujaa kaa lamb samdvibhaajak, us bhujaa ke madhyabindu se guzarane vaali ek sidhi rekha he jo bhujaa ke lambavat hoti he, yani bhujaa ke saath samakon banaati he. tribhuj ke teen lamb samdvibhaajak hote hai, jo ek hi bindu par milte hai . yah bindu tribhuj kaa 'parikendra ' kehalaata he, ise aamtaur par O dwaara darshaya jaataa he; yah bindu tribhuj ke parivritt kaa centre hota he . is vrutt kaa vyas, jise parivyas kaha jaataa he, uparokt jya ke niyam dwaara gyaat kiya ja saktaa he. parivritt kii trigya ko paritrijya kaha jaataa he.
+ 
+ thalls prameya se pataa chalata he ki yadi parikendra, tribhuj kii kisi bhujaa par sthit he, to vah tribhuj samakon tribhuj he or us bhujaa ke saamne kaa kone samakon he. yadi parikendra, tribhuj ke andar sthit he, to tribhuj nunekon tribhuj he; yadi parikendra, tribhuj ke baahar sthit he, to tribhuj adhikkone tribhuj he.
+ tribhuj kaa sheershalamb, ek sheersh se hokar jane vaali ek sidhi rekha he, jo us sheersh ke saamne kii bhujaa par lamb hoti he. is saamne kii bhujaa ko, sheershalamb kaa aadhaar kaha jaataa he, or vah bindu jahaan sheershalamb, aadhaar ko pratichchhed karata he, sheershalamb kaa paad kehalaata he. sheershalamb kii lambaai, aadhaar or sheersh ke bich kii duuri he. tribhuj ke teen sheershalamb hote hai, jo ek hi bindu par milte hai . yah bindu tribhuj kaa 'lambacentre ' kehalaata he, jo H dwaara darshaya jaataa he. keval nunekon tribhujon main, lambacentre tribhuj ke andar sthit hota he.
+ tribhuj kaa kone samdvibhaajak, sheersh se hokar jane vaali ek sidhi rekha he, jo us sheersh ke kone ko do samaan bhaagon main baantati he. tribhuj ke teen kone samdvibhaajak hote hai, jo ek hi bindu par milte hai . yah bindu tribhuj kaa 'antanakendre ' kehalaata he, ise aamtaur par I dwaara darshaya jaataa he; yah bindu tribhuj ke antakavrutt kaa centre hota he . antakavrutt kii trigya ko antavtrigya kaha jaataa he. kisi tribhuj ke teen bahirvrutt hote hai. ye teenon vrutt us tribhuj ke baahar hote hai. inamen se prayek vrutt, tribhuj kii kisi ek bhujaa ko tathaa shesh do bhujaaon ko aage badhaane se bani do rekhaon ko sparsh karata he.
+ tribhuj kii madhyika, ek sheersh or us sheersh ke saamne kii bhujaa ke madhyabindu se hokar jane vaali ek sidhi rekha he. madhyika, tribhuj ko do baraabar kshetron main vibhajit karti he. tribhuj kii teen madhyikaaye hoti hai, jo ek hi bindu par milti hai . yah bindu tribhuj kaa 'cendrak ' kehalaata he, jo G dwaara darshaya jaataa he. ek drudh tribhujaakar vastu kaa centre, uskaa dravyaman centre bhi hota he: ekasmaan gurutvkarshan kshetra main, vastu apane cendrak par santulit rah sakati he. cendrak, prayek madhyika ko 2:1 ke anupaat main vibhajit karata he, yani ek sheersh or cendrak ke bich kii duuri, cendrak or saamne kii bhujaa ke madhyabindu ke bich kii duuri se doguni hoti he.
+ teenon bhujaaon ke madhya bindu or teenon sheershalambon ke paad, sabhi ek hi vrutt par hote hai, jise tribhuj kaa navabindu vrutt kehete hai. shesh teen bindu jinke liye iskaa naam navabindu vrutt he, ve sheersh or lambakendra ke bich, sheershalamb ke hisse ke madhyabindu hai. navabindu vrutt kii trigya, parivritt kii trigya kii aadhi hoti he. yah antakavrutt or teenon bahirvritton ko sparsh karata he.
+ cendrak, lambakendra, parikendra or navabindu vrutt kaa centre, sabhi ek ekal rekha par hote hai, jise ular kii rekha kaha jaataa he. navabindu vrutt kaa centre, lambakendra or parikendra ke bich ke madhyabindu par sthit hota he, or cendrak or parikendra ke bich kii duuri, cendrak or lambakendra ke bich kii duuri kii aadhi hoti he.
+ antakavrutt kaa centre, saamaanya rup se ular kii rekha par sthit nahin hota he.
+ tribhuj main, bhujaa kii lambaai yaa kone kii maap kii gananaa karne ke liye vibhinn maanak vidhiyaan hai. samakon tribhuj main inke maanon kii gananaa karne ke liye kuch vidhiyaan upyukt hai; lekin anya paristhitiyon main adhik jatil vidhiyon kii aavashyaktaa ho sakati he.
+ samakon tribhujon main trikoshmetiya anupaat
+ mukhya lekh : trikoshmetiya falan
+ samakon tribhujon main jya, kojya or sparshajya anupaaton kaa prayog karke agyaat konon or agyaat bhujaaon kii lambaai ko kiya ja saktaa he. tribhuj kii bhujaayen nimnanusaar gyaat kii ja sakati hai:
+ jya, kojya or sparshajya
+ kone A kii jya, us kone ke saamne kii bhujaa kii lambaai or karn kii lambaai kaa anupaat hoti he. chitranusaar
+   sin ⁡ A =  perpendicular hypotenuse  =  p h  .  {\displaystyle \sin A={\frac {\text{perpendicular}}{\text{hypotenuse}}}={\frac {p}{h}}\,.} 
+ kone A kii kojya, us kone kii asann bhujaa kii lambaai or karn kii lambaai kaa anupaat hoti he. chitranusaar
+   cos ⁡ A =  base hypotenuse  =  b h  .  {\displaystyle \cos A={\frac {\text{base}}{\text{hypotenuse}}}={\frac {b}{h}}\,.} 
+ kone A kii sparshajya, us kone ke saamne kii bhujaa kii lambaai or us kone kii asann bhujaa kii lambaai kaa anupaat hoti he. chitranusaar
+   tan ⁡ A =  perpendicular base  =  p b  =  sin ⁡ A  cos ⁡ A   .  {\displaystyle \tan A={\frac {\text{perpendicular}}{\text{base}}}={\frac {p}{b}}={\frac {\sin A}{\cos A}}\,.} 
+ pratilom falan 
+ pratilom trikoshmetiya falnon kaa prayog samakon tribhuj main kinhin bhi do bhujaaon kii lambaai ke dwaara aantarik konon kii gananaa ke liye kiya ja saktaa he.
+ Arcsin kaa prayog samakon tribhuj main lamb or karn kii lambaai ke dwaara aantarik kone kii gananaa ke liye kiya ja saktaa he.
+   θ = arcsin ⁡   {\displaystyle \theta =\arcsin \left} 
+ Arccos kaa prayog samakon tribhuj main aadhaar or karn kii lambaai ke dwaara aantarik kone kii gananaa ke liye kiya ja saktaa he.
+   θ = arccos ⁡   {\displaystyle \theta =\arccos \left} 
+ Arctan kaa prayog samakon tribhuj main lamb or aadhaar kii lambaai ke dwaara aantarik kone kii gananaa ke liye kiya ja saktaa he.
+   θ = arctan ⁡   {\displaystyle \theta =\arctan \left} 
+ praarambhik jyamiti or trikonmiti paathyakramon main, sin−1, cos−1 aadi sanketon kaa prayog aksar arcsin, arccos aadi ke sthaan par kiya jaataa he. haalanki, arcsin, arccos ityadi sanket, ucch ganit main maanak hai, jahaan trikoshmetiya falnon ko aamtaur par ghaaton ke liye prayukt kiya jaataa he, kyonki yah gunatmak pratilom or yogtmak pratilom ke bich uljhan se bachaate hai.
+ tribhujon ke hal
+ mukhya lekh: tribhujon ke hal
+ "tribhujon ke hal " mukhya trikoshmetiya samasya he: tribhuj kii agyaat visheshtaon ko dhundhna, jab inamen kam se kam teen visheshtaayen di gai hon. trikon ek samtal yaa gole par sthit ho saktaa he. yah samasya aksar vibhinn trikoshmetiya anuprayogon main hoti he, jaise bhugarbheey, khagol vigyaan, nirmaan, path pradarshan ityadi.
+ tribhuj ke kshetrafal T kii gananaa karnaa ek mul samasya he jo aksar kai alag-alag sthitiyon main saamne aati he. sabase acha gyaat or sabase saral sutara nimna he:
+   T =  1 2  b h  {\displaystyle T={\frac {1}{2}}bh} 
+ jahaan b tribhuj ke aadhaar kii lambaai he, or h tribhuj kii oonchai yaa sheershalamb he. "aadhaar" shabd kisi bhi bhujaa ko ingit karata he, or "oonchai" bhujaa ke vipareet sheersh se usee bhujaa par lamb kii lambaai ko darshaati he. 499 CE main bhartiya ganit or bhartiya khagol vigyaan ke shastreey yug se ek mahaan ganitagya-khagolvid aryabhatta ne pustak aryabhattiya main is vidhi kaa upyog kiya tha.
+ trikonmiti ke anuprayog
+ trikonmiti ke anuprayogon se, tribhuj kii oonchai gyaat kii ja sakati he.
+ dayee ore ke chitranusaar, sanketon kaa upyog karke, oonchai h = a sin   γ  {\displaystyle \gamma } he. sutara   T =  1 2  b h  {\displaystyle T={\frac {1}{2}}bh} main yah maan rakhane par, tribhuj kaa kshetrafal nimna prakaar likhaa ja saktaa he-
+   T =  1 2  a b sin ⁡ γ =  1 2  b c sin ⁡ α =  1 2  c a sin ⁡ β  {\displaystyle T={\frac {1}{2}}ab\sin \gamma ={\frac {1}{2}}bc\sin \alpha ={\frac {1}{2}}ca\sin \beta } 
+ .
+ iske atirikt, sin α = sin = sin, or isi tarah anya do konon ke liye:
+   T =  1 2  a b sin ⁡ =  1 2  b c sin ⁡ =  1 2  c a sin ⁡ .  {\displaystyle T={\frac {1}{2}}ab\sin={\frac {1}{2}}bc\sin={\frac {1}{2}}ca\sin.} 
+   T =   b 2   )  2 sin ⁡ β ,  {\displaystyle T={\frac {b^{2})}{2\sin \beta }},} 
+ or samaan rup se yadi bhujaayen a va c gyaat hon.
+   T =  a 2  2   =   a 2    2 sin ⁡  ,  {\displaystyle T={\frac {a^{2}}{2}}={\frac {a^{2}}{2\sin}},} 
+ or samaan rup se yadi bhujaayen b va c gyaat hon.
+ heron ke sutara kaa upyog karke
+ tribhuj kaa aakaar, bhujaaon kii lambaai se nirdhaarit hota he. isliye, uskaa kshetrafal bhi bhujaaon kii lambaai se gyaat kiya ja saktaa he. heron ke sutara dwaara:
+   T =  s    {\displaystyle T={\sqrt {s}}} 
+ jahaan    s =   a + b + c 2    {\displaystyle {\displaystyle s={\tfrac {a+b+c}{2}}}} tribhuj kaa ardhparimaap he.
+ heron ke sutara ko likhane ke teen anya samakaksh tareeke nimna hai:
+   T =  1 4    2  − 2   {\displaystyle T={\frac {1}{4}}{\sqrt {^{2}-2}}} 
+   T =  1 4   2 −   {\displaystyle T={\frac {1}{4}}{\sqrt {2-}}} 
+   T =  1 4      .  {\displaystyle T={\frac {1}{4}}{\sqrt {}}.} 
+ sadishon kaa prayog
+ ek trivimiya eucalidian antariksh main upasthit samaantar chaturbhuj kaa kshetrafal sadishon kaa upyog karke gyaat kiya ja saktaa he. mana sadish AB or AC, kramshah A se B or A se C ko ingit karte hai. tab samaantar chaturbhuj kaa kshetrafal nimna hoga-
+    |  A B × A C  |,  {\displaystyle |\mathbf {AB} \times \mathbf {AC} |,} 
+ jo sadishon AB or AC ke sadish gunan kaa pariman he. tribhuj ABC kaa kshetrafal iskaa aadha hota he,
+    1 2  |  A B × A C  | .  {\displaystyle {\frac {1}{2}}|\mathbf {AB} \times \mathbf {AC} |.} 
+ tribhuj ABC kaa kshetrafal adish gunan ke sandarbh main bhi nimnanusaar vyakt kiya ja saktaa he:
+    1 2    −  2   =  1 2   |  A B  |  2  |  A C  |  2  −  2   .  {\displaystyle {\frac {1}{2}}{\sqrt {-^{2}}}={\frac {1}{2}}{\sqrt {|\mathbf {AB} |^{2}|\mathbf {AC} |^{2}-^{2}}}.\,} 
+ dwivimiya eucalidian antariksh main, kartiya tal main ek mukt sadish ke rup main sadish AB ko or sadish AC ko vyakt karne par, ise nimna prakaar likhaa ja saktaa he:
+    1 2   |  x 1  y 2  − x 2  y 1  | .  {\displaystyle {\frac {1}{2}}\,|x_{1}y_{2}-x_{2}y_{1}|.\,} 

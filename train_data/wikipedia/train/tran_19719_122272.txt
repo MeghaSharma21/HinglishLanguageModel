@@ -1,0 +1,20 @@
+ ekikrut modelling bhashaa  main ek anukram aarekh ek prakaar kaa interection aarekh he jo yah darshata he ki prakriyaayein ek duusare ke saath kaise or kis kram main oparate hoti hai. yah ek sandesh anukram chart kaa ek nirmaan he. 
+ anukram aarekh ko kabhi kabhi ghatana kaa pataa lagane vaala aarekh, yaa ghatana paridrishy or samay aarekh kaha jaataa he. 
+ ek anukram aarekh saamanantar urdhv rekhaon ke rup main bhinn prakriyaaon or objects ko darshata he, jo ek saath rahete hai or kshaitij tiron ke rup main, unke bich us kram main sandesh kaa vinimay hota he, jisamen ve utpann hote hai. 
+ udhaaharan ke liye, daayin ore UML 1.x aarekh ek restaraan pranali ke sandesh ke anukram kaa varnan karata he. 
+ UML 2.0 anukram aarekh UML 1.x anukram aarekh ke saamaan sanketan kaa samarthan karata he jisamen ghatnaon ke maanak pravaah ke liye modling kii vibhinnataaon kaa samarthan bhi shaamil he. 
+ 
+ yadi samay rekha ek object kii he to yah ek bhoomika ko darshaati he. dhyaan den ki udhaaharan ke naam ko khaali chhod dena anaam or benaam udaahranon kaa pratinidhitiv karata he. 
+ interection kaa disple karne ke liye sandeshon kaa upyog kiya jaataa he. ye sandesh naamon ke saath kshaitij tir hai jinhen unke upar likhaa gaya he. 
+  
+ sakriyakaran box, yaa vidhi-kol box, apaardarshee aayat hai, jinhen sandesh kii pratikriya main pradarshit kii jane vaali prakriyaaon ko abhivyakt karne ke liye jeevanarekhaon ke sheersh par chitrit kiya jaataa he. . 
+ khud object ko kol karne vaali vidhiyaan sandeshon kaa upyog karti hai or prosisng ke agle str ko ingit karne ke liye kisi anya ke sheersh par nae sakriyan box jodatii he. 
+ jab ek object nasht ho jaataa he, jivan rekha ke sheersh par ek X chitrit kiya jaataa he or desh yukt rekhaaen iske neeche chitrit kii jaati hai . yah yaa to khud object se yaa kisi ore se ek sandesh kaa parinaam hona chahie. 
+  
+ aarekh ke baahar se bheja gaya sandesh ek bhare hue vrutt se utpann hone vaale sandesh ke dwaara abhivyakt kiya ja saktaa he, yaa ek anukram aarekh kii seemaa se abhivyakt kiya ja saktaa he . 
+ UML 2 ne anukram aarekh kii kshamtaaon main kai mahatvapurn sudhaar kiye hai. in main se adhikansh sudhaar interection tukdon ke vichaar par aadhaarit hai jo ek band interection ke chote tukdon ko abhivyakt karte hai. ekaadhik interection tukdon ko sanyojit karke kai prakaar ke sanyojit tukade banaaye jate hai, jinka upyog interection ke model ke liye kiya jaataa he, jisamen samantarata, condishnal shakhaaen, vaikalpik interection adi shaamil hai. 
+ 
+ kuch pranaaliyon gatisheel saral vyavhaar kiya he ki vastuon yaa prakriyaaon kaa ek chota sa, nirdhaarit sankhya ke bich sandeshon kii vishisht drishyon ke rup main vyakt kar sakate hai. aise maamalon drishy chitra main puri tarah se system ke vyavhaar nirdisht kar sakate hai. aksar, vyavhaar adhik jatil hota he, udhaaharan ke liye, jab sanchaar object kaa set bada ore atyadhik parivartansheel ho, tab kai shakha bindu hote hai,, jab jatil ankan yaa tulykaalan ke mudde jaise sansaadhan punaruktiyaan hon. 
+ 
+ 
+ saanchaa:UML

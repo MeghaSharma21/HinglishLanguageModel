@@ -1,0 +1,7 @@
+ ganit main chaturvim eucalydine samshti main kisi sthir bindu ke saapeksh ghurnan ke samooh ko SO athwa esao se nirupit kiya jaataa he. yah vishisht lambik samooh kii chaturth koti he.
+ is lekh main ghurnan kaa arth ghurni visthaapan he.
+ chaturvim ghurnan ko do tarah se paribhaashit kiya jaataa he: saadhaaran athwa saral ghurnan evam doharaa ghurnan.
+ ghurni kendra O ke saapeksh saral ghurnan R, purna samtal A ko O ke saapeksh ke saapeksh niyat rakhata he. A ke saapeksh purnatah lambik prayek tal B, A ko kisi nishchit bindu P par katata he. aisa prayek bindu P, B main R dwaara prerit dwivimiya ghurnan kaa kendra bindu hoga. is tarah ke sabhi dwivimiya ghurnan samaan ghurnan kone   α  {\displaystyle \alpha } se hote hai.
+ aksheeya-tal A main O se kirane visthapit nahin hoti; A ke lambik O se kirane   α  {\displaystyle \alpha } kone se visthapit hoti hai; anya sabhi kirane   α  {\displaystyle \alpha } se kam kone se visthapit hoti hai.
+ chaturvim samshti main prayek ghurnan R, do lambik dwivim tal A or B kaa kam se kam ek yugma, jinamein prayek nishchar he or inkaa sidhaa sankal A⊕B purna chaturvim samshti he. atah R kisi bhi tal par uske saadhaaran ghurnan janit karata he. lagbhag sabhi R ke liye tal A main ghurnan kone α or tal B main β — donon ko shoonyatar mana jaataa he — bhinn hai. -π < α, β < π ko santusht karne vaale asmaan ghurnan kone α or β lagbhag* R dwaara adwitiya rup se gyaat kiye ja sakate hai.
+ 

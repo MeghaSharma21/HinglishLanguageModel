@@ -1,0 +1,3 @@
+ java abhaasi mashin ) computer saftware prograamon evam data strekcharon kaa ek samucchy he jo duusare computer prograamon evam scrypton ko chalaata he evam is prakaar ek abhaasi mashin kii tarah vyavhaar karata he. java abhaasi mashin kaa nivesh java bitcode kehalaata he jo madhyamik str kii computer bhashaa he . yah bhashaa stack-aadhaarit, kapability architekchar ke instrection set jasi he.
+ san microsystems kaa daawa he ki 4.5 billian JVM-sakasham yuktiyaan prachlan main hai.
+ kaksha adhibharak karyanvayan ko samajhane va fil ko uske swaroop ke anuroop karata he. dwiadhari filon main sangrahit kaksha ko sakasham karata he.

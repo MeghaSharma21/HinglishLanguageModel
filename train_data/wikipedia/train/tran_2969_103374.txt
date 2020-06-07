@@ -1,0 +1,4 @@
+ 1 megabite = 1024 bite X 1024 bite = 1024 kilobite
+ kareeb 1000, 000 bite 
+ ise MB bhi likhte he. 
+ ye bhi denkhen - bite, kilobite, gigabite

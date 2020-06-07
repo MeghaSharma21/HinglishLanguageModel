@@ -1,0 +1,4 @@
+ fortron ek programmen bhashaa he jiskaa vikaas 1950 ke dashak main hua tha. tab se lekar abtak is bhashaa ke kai sanskaran nikal chuke hai yatha - FORRTAN66, Fortran77, Fortran90 or Fortran95. iskaa vikaas ibiem main sutara anukootak ke rup main hua tha. aaj yah ganakeey taral yantriki main bahut prayukt hota he.
+ iske kai compiler likhe gaye hai, jaise ibiem, echpi, jienyu tathaa anya kai. isaki ek pankti main 72 se adhik varna nahin likhe ja sakate hai. pankti ke ant main ardhviram nahin lagata he. is sandarbh main isaki tulana C/C++ jaisi bhashaaon se kii ja sakati he jisamen anudesh khatm hone ke baad ek ardhviram lagaana aavashyak hota he.
+ nimnlikhit program, interactive rup se inter kiye gayi data kaa ausat nikaalata he. is program main Fortran 90 ke do vishesh gunon- dianemic memory allokation tathaa arre-aadhaarit-sankriyaayein ko darshata he. dhyaan dijiye ki isamen DO loop tathaa IF/THEN kaa upyog karke arre ko kis prakaar parivartit kiya gaya he. 
+ 

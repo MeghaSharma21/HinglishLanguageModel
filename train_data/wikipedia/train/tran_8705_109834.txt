@@ -1,0 +1,57 @@
+ 
+ 1. alirajpur
+ 2. ashokanagar
+ 3. anuppur
+ 4. agar
+ 5. badvani
+ 6. baitool
+ 7. bhind
+ 8. balaghat
+ 9. bhopal
+ 10. burhanpur
+ 
+ 11. chhindwara
+ 12. chhatarpur
+ 13. datia
+ 14. devas
+ 15. damoh
+ 16. dindori
+ 17. dhar
+ 18. guna
+ 19. gwalior
+ 20. harda
+ 
+ 21. hoshangabad
+ 22. indore
+ 23. jabalpur
+ 24. jhabua
+ 25. katni
+ 26. khargun
+ 27. khandwa
+ 28. mandla
+ 29. mandsaur
+ 30. muraina
+ 
+ 31. narsinghpur
+ 32. neemuch
+ 33. panna
+ 34. ratlam
+ 35. rajgad
+ 36. raisen
+ 37. reva
+ 38. satna
+ 39. sagar
+ 40. sihor
+ 
+ 41. siwani
+ 42. shajapur
+ 43. shyopur
+ 44. shadol
+ 45. singrauli
+ 46. sidhi
+ 47. shivpuri
+ 48. tikamgarh
+ 49. ujjain
+ 50. umariya
+ 51. vidisha
+ 

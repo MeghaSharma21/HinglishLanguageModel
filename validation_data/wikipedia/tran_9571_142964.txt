@@ -1,0 +1,9 @@
+ sankhyatmak vishleshan main newton vidhi kisi vaastavik maan vaale falan ke mul nikaalane kii ek punraritimulak vidhi he jiske dwaara mul ke sannikat maan se armbh karke kramshah adhik yatharth mul praapt kiya jaataa he. isko 'newton-repson vidhi' bhi kehete hai.
+ ek char vaale falnon ke liye is vidhi kaa varnan is prakaar he:
+ mana vaastavik x ke liye falan ƒ or iskaa avkalaj ƒ ', diya hua he. falan f kaa mul nikaalane ke liye sabase pehle mul kaa pratham anumaan x0 lekar yah vidhi shuru hotihai. ab nimnlikhit sutara se mul kaa adhik yatharth maan x1 nikaala jaataa he:
+ isi prakriya ko baar-baar doharaaya jaataa he jab tak mul kaa paryaapt rup se yatharth maan na praapt ho jaay.
+ is vidhi ko jyamitiya rup se nimnlikhit chalit-chitra dwaara samajha ja saktaa he:
+ newton kii vidhi atyant shaktishaalee takanic he. isaki abhisarita dwighati hoti he. kintu is vidhi kii kuch samasyaayen bhi hai-
+ is vidhi kii karypranali samajhane ke liye is udhaaharan kaa sahaara liya gaya he. mana sameekaran   cos ⁡ = x 3   {\displaystyle \cos=x^{3}} kaa ek dhanatmak mul nikaalnaa he. ab is sameekaran kaa rup is prakaar badalte hai:
+ chunki x ke sabhi maanon ke liye   cos ⁡ ⩽ 1  {\displaystyle \cos\leqslant 1} tathaa x>1 ke liye x3>1 atah is sameekaran kaa mul 0 or 1 ke bich hoga. mana mul   x 0  = 0, 5  {\displaystyle x_{0}=0,5} he.
+ is mul ke pratham 7 ank vaastavik mul ke pratham 7 ankon ke baraabar hai. yadi isse adhik yatharthata kii aavashyaktaa nahin he to mul kaa yahi maan lekar gananaa kaary samaapt kar sakate hai.

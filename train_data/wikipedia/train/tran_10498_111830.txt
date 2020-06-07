@@ -1,0 +1,4 @@
+ switch yaa kunjee us yantric yukti ko kehete hai jo kisi vidyut paripath ko icchaanusaar jodne yaa todne ke kaam aati he. aakaar-prakaar evam kaary ke aadhaar par switchen anekanek prakaar kii hoti hai - laghu se laghutar aakaar se lekar lakhon kilowat kii shakti ko niyantrit karne vaali audyogic plant kii switchen.
+ neeche kuch paripath diye hue hai jinamein prakaash karne vaali yuktiyon ke niyantran ke liye switch kaa upyog kiya gaya he-
+ yadi uparokt kaam teen jagah se karnaa chaahate hai to nimnlikhit kaam kiya ja saktaa he-
+ balb ko or bhi adhik sthanon se niyantrit karne ke liye hamen SPDT swichon ke bich anya DPDT switch lagane chaiye.

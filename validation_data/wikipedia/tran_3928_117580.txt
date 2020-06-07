@@ -1,0 +1,6 @@
+ kaushi abhisaran pareekshan kisi anant shrenee ke abhisaran ke pareekshan ke liye kaam main liya jaataa he. ek shrenee
+ sabhi ai vaastavik athwa sammishra ke liye yah yoga ke liye abhisari he yadi or keval yadi ∀   ε > 0  {\displaystyle \varepsilon >0} ek prakritik sankhya N is prakaar he ki
+ ∀ n > N or p ≥ 1.
+ yah pareekshan kaary karata he kyonki vaastavik sankhyaon kii samshti R or sammishra sankhyaon kii samshti C donon purna hai, atah shrenee abhisari hogi yadi or keval yadi aanshik yoga 
+ ek kaushi anukram he : prayek   ε > 0  {\displaystyle \varepsilon >0} ke liye ek sankhya N is prakaar paribhashit he ki prayek n, m > N ke liye 
+    |  s m  − s n  |  n or atah ek dhanatmak sankhya p = m − n paribhaashit karne par
